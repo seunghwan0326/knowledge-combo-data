@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "1",
-  "updatedAt": "2026-07-30T16:54:07+09:00",
+  "version": "2",
+  "updatedAt": "2026-07-30T17:45:04+09:00",
   "title": "지식콤보 무료 문제 저장소",
   "replacePacks": false,
   "packs": [
@@ -11,6 +11,13 @@
       "url": "starter_pack_001.json",
       "enabled": true,
       "description": "연결 시험용 55문제"
+    },
+    {
+      "id": "school-core-002",
+      "version": "1",
+      "url": "school_pack_002_375.json",
+      "enabled": true,
+      "description": "초·중·고 교과 핵심 375문제"
     }
   ]
 }

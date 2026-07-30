@@ -1,0 +1,7508 @@
+{
+  "packId": "school-core-002",
+  "version": "1",
+  "updatedAt": "2026-07-30T17:45:04+09:00",
+  "description": "초·중·고 국어·수학·사회·과학·영어 15과목, 난이도별 5문제씩 총 375문제",
+  "questions": [
+    {
+      "id": "schoolfix_20260730_elementary_korean_001",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "easy",
+      "question": "문장에서 ‘누가/무엇이’에 해당하며 동작이나 상태의 주체가 되는 성분은?",
+      "answer": "주어",
+      "accepted": [
+        "주어"
+      ],
+      "choices": [
+        "주어",
+        "서술어",
+        "목적어",
+        "부사어"
+      ],
+      "hint": "문장의 주인공 역할입니다.",
+      "explanation": "정답은 ‘주어’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_002",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "easy",
+      "question": "문장에서 주어의 동작이나 상태를 설명하는 성분은?",
+      "answer": "서술어",
+      "accepted": [
+        "서술어"
+      ],
+      "choices": [
+        "서술어",
+        "주어",
+        "관형어",
+        "목적어"
+      ],
+      "hint": "‘어찌하다/어떠하다’에 해당합니다.",
+      "explanation": "정답은 ‘서술어’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_003",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "easy",
+      "question": "사람·사물·장소의 이름을 나타내는 품사는?",
+      "answer": "명사",
+      "accepted": [
+        "명사"
+      ],
+      "choices": [
+        "명사",
+        "동사",
+        "형용사",
+        "부사"
+      ],
+      "hint": "이름을 나타내는 말입니다.",
+      "explanation": "정답은 ‘명사’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_004",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "easy",
+      "question": "동작이나 작용을 나타내는 품사는?",
+      "answer": "동사",
+      "accepted": [
+        "동사"
+      ],
+      "choices": [
+        "동사",
+        "명사",
+        "형용사",
+        "조사"
+      ],
+      "hint": "‘먹다, 뛰다’가 예입니다.",
+      "explanation": "정답은 ‘동사’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_005",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "easy",
+      "question": "성질이나 상태를 나타내는 품사는?",
+      "answer": "형용사",
+      "accepted": [
+        "형용사"
+      ],
+      "choices": [
+        "형용사",
+        "동사",
+        "명사",
+        "감탄사"
+      ],
+      "hint": "‘예쁘다, 크다’가 예입니다.",
+      "explanation": "정답은 ‘형용사’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_006",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "normal",
+      "question": "실제 소리를 흉내 낸 말은?",
+      "answer": "의성어",
+      "accepted": [
+        "의성어"
+      ],
+      "choices": [
+        "의성어",
+        "의태어",
+        "속담",
+        "반어"
+      ],
+      "hint": "‘멍멍, 쨍그랑’ 같은 말입니다.",
+      "explanation": "정답은 ‘의성어’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_007",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "normal",
+      "question": "모양이나 움직임을 흉내 낸 말은?",
+      "answer": "의태어",
+      "accepted": [
+        "의태어"
+      ],
+      "choices": [
+        "의태어",
+        "의성어",
+        "높임말",
+        "관용어"
+      ],
+      "hint": "‘살금살금, 반짝반짝’ 같은 말입니다.",
+      "explanation": "정답은 ‘의태어’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_008",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "normal",
+      "question": "글의 여러 문장이 하나의 중심 생각으로 묶인 단위는?",
+      "answer": "문단",
+      "accepted": [
+        "문단"
+      ],
+      "choices": [
+        "문단",
+        "낱말",
+        "음절",
+        "제목"
+      ],
+      "hint": "들여쓰기로 구분하기도 합니다.",
+      "explanation": "정답은 ‘문단’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_009",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "normal",
+      "question": "문단에서 가장 중요한 생각을 담은 문장은?",
+      "answer": "중심문장",
+      "accepted": [
+        "중심문장"
+      ],
+      "choices": [
+        "중심문장",
+        "뒷받침문장",
+        "감탄문장",
+        "인용문장"
+      ],
+      "hint": "나머지 문장들이 이 문장을 설명합니다.",
+      "explanation": "정답은 ‘중심문장’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_010",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "normal",
+      "question": "상대방이나 듣는 이를 높여 표현하는 말을 무엇이라 하나?",
+      "answer": "높임말",
+      "accepted": [
+        "높임말"
+      ],
+      "choices": [
+        "높임말",
+        "줄임말",
+        "외래어",
+        "사투리"
+      ],
+      "hint": "‘드시다, 주무시다’가 예입니다.",
+      "explanation": "정답은 ‘높임말’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_011",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "hard",
+      "question": "‘얼굴이 사과처럼 빨갛다’에 사용된 표현법은?",
+      "answer": "직유",
+      "accepted": [
+        "직유"
+      ],
+      "choices": [
+        "직유",
+        "은유",
+        "반어",
+        "의인"
+      ],
+      "hint": "‘처럼, 같이’가 드러납니다.",
+      "explanation": "정답은 ‘직유’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_012",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "hard",
+      "question": "‘내 마음은 호수다’에 사용된 표현법은?",
+      "answer": "은유",
+      "accepted": [
+        "은유"
+      ],
+      "choices": [
+        "은유",
+        "직유",
+        "과장",
+        "반복"
+      ],
+      "hint": "연결어 없이 직접 빗댑니다.",
+      "explanation": "정답은 ‘은유’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_013",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "hard",
+      "question": "말한 뜻과 반대되는 뜻을 전달하는 표현법은?",
+      "answer": "반어",
+      "accepted": [
+        "반어"
+      ],
+      "choices": [
+        "반어",
+        "직유",
+        "열거",
+        "인용"
+      ],
+      "hint": "겉말과 속뜻이 반대입니다.",
+      "explanation": "정답은 ‘반어’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_014",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "hard",
+      "question": "오랜 경험과 지혜가 짧은 문장으로 굳어진 말은?",
+      "answer": "속담",
+      "accepted": [
+        "속담"
+      ],
+      "choices": [
+        "속담",
+        "신조어",
+        "외래어",
+        "유행어"
+      ],
+      "hint": "‘티끌 모아 태산’ 같은 말입니다.",
+      "explanation": "정답은 ‘속담’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_015",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "hard",
+      "question": "두 낱말이 합쳐져 하나의 새로운 낱말이 된 것은?",
+      "answer": "합성어",
+      "accepted": [
+        "합성어"
+      ],
+      "choices": [
+        "합성어",
+        "단일어",
+        "의성어",
+        "고유어"
+      ],
+      "hint": "예: 눈물, 손목.",
+      "explanation": "정답은 ‘합성어’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_016",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "expert",
+      "question": "글에서 어떤 일이 일어난 까닭과 그로 인해 생긴 일을 조직하는 방법은?",
+      "answer": "원인과 결과",
+      "accepted": [
+        "원인과 결과"
+      ],
+      "choices": [
+        "원인과 결과",
+        "비교와 대조",
+        "시간 순서",
+        "공간 순서"
+      ],
+      "hint": "‘왜’와 ‘그래서’를 연결합니다.",
+      "explanation": "정답은 ‘원인과 결과’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_017",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "expert",
+      "question": "둘 이상의 대상의 공통점과 차이점을 밝혀 쓰는 방법은?",
+      "answer": "비교와 대조",
+      "accepted": [
+        "비교와 대조"
+      ],
+      "choices": [
+        "비교와 대조",
+        "원인과 결과",
+        "문제와 해결",
+        "시간 순서"
+      ],
+      "hint": "같은 점과 다른 점을 함께 봅니다.",
+      "explanation": "정답은 ‘비교와 대조’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_018",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "expert",
+      "question": "일이 일어난 차례에 따라 내용을 조직하는 방법은?",
+      "answer": "시간 순서",
+      "accepted": [
+        "시간 순서"
+      ],
+      "choices": [
+        "시간 순서",
+        "공간 순서",
+        "비교와 대조",
+        "분류"
+      ],
+      "hint": "먼저-다음-마지막 순서입니다.",
+      "explanation": "정답은 ‘시간 순서’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_019",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "expert",
+      "question": "주장을 뒷받침하는 사실이나 까닭을 무엇이라 하나?",
+      "answer": "근거",
+      "accepted": [
+        "근거"
+      ],
+      "choices": [
+        "근거",
+        "주제",
+        "제목",
+        "인물"
+      ],
+      "hint": "주장을 믿을 수 있게 해 줍니다.",
+      "explanation": "정답은 ‘근거’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_020",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "expert",
+      "question": "긴 글에서 핵심 내용만 간추리는 활동은?",
+      "answer": "요약",
+      "accepted": [
+        "요약"
+      ],
+      "choices": [
+        "요약",
+        "인용",
+        "묘사",
+        "낭독"
+      ],
+      "hint": "중요하지 않은 내용을 줄입니다.",
+      "explanation": "정답은 ‘요약’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_021",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "master",
+      "question": "하나의 낱말이 서로 관련된 여러 뜻을 가지는 말은?",
+      "answer": "다의어",
+      "accepted": [
+        "다의어"
+      ],
+      "choices": [
+        "다의어",
+        "동음이의어",
+        "반의어",
+        "유의어"
+      ],
+      "hint": "뜻들 사이에 관련성이 있습니다.",
+      "explanation": "정답은 ‘다의어’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_022",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "master",
+      "question": "소리는 같지만 뜻이 서로 관련 없이 다른 낱말은?",
+      "answer": "동음이의어",
+      "accepted": [
+        "동음이의어"
+      ],
+      "choices": [
+        "동음이의어",
+        "다의어",
+        "유의어",
+        "상위어"
+      ],
+      "hint": "예: 배(신체/과일/배).",
+      "explanation": "정답은 ‘동음이의어’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_023",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "master",
+      "question": "두 낱말 이상이 합쳐져 본래 뜻과 다른 특별한 뜻으로 굳어진 표현은?",
+      "answer": "관용표현",
+      "accepted": [
+        "관용표현"
+      ],
+      "choices": [
+        "관용표현",
+        "직유",
+        "의성어",
+        "높임말"
+      ],
+      "hint": "예: 발이 넓다.",
+      "explanation": "정답은 ‘관용표현’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_024",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "master",
+      "question": "문장과 문장을 이어 내용의 관계를 드러내는 말은?",
+      "answer": "접속어",
+      "accepted": [
+        "접속어"
+      ],
+      "choices": [
+        "접속어",
+        "조사",
+        "감탄사",
+        "대명사"
+      ],
+      "hint": "‘그러나, 그래서, 그리고’가 예입니다.",
+      "explanation": "정답은 ‘접속어’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_korean_025",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "master",
+      "question": "앞뒤 문장과 상황을 통해 낱말의 뜻을 짐작하게 하는 단서는?",
+      "answer": "문맥",
+      "accepted": [
+        "문맥"
+      ],
+      "choices": [
+        "문맥",
+        "운율",
+        "음절",
+        "받침"
+      ],
+      "hint": "주변 내용을 살펴봅니다.",
+      "explanation": "정답은 ‘문맥’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_001",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "easy",
+      "question": "시에서 말하는 이를 무엇이라고 하는가?",
+      "answer": "화자",
+      "accepted": [
+        "화자"
+      ],
+      "choices": [
+        "화자",
+        "작가",
+        "독자",
+        "편집자"
+      ],
+      "hint": "시 속에서 목소리를 내는 존재입니다.",
+      "explanation": "정답은 ‘화자’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_002",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "easy",
+      "question": "작품이 중심적으로 전달하려는 생각은?",
+      "answer": "주제",
+      "accepted": [
+        "주제"
+      ],
+      "choices": [
+        "주제",
+        "소재",
+        "배경",
+        "갈등"
+      ],
+      "hint": "작품의 핵심 의미입니다.",
+      "explanation": "정답은 ‘주제’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_003",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "easy",
+      "question": "작품에서 글감이 되는 구체적인 대상은?",
+      "answer": "소재",
+      "accepted": [
+        "소재"
+      ],
+      "choices": [
+        "소재",
+        "주제",
+        "시점",
+        "문체"
+      ],
+      "hint": "주제를 드러내는 재료입니다.",
+      "explanation": "정답은 ‘소재’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_004",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "easy",
+      "question": "시에서 반복과 소리의 조화로 생기는 음악적 효과는?",
+      "answer": "운율",
+      "accepted": [
+        "운율"
+      ],
+      "choices": [
+        "운율",
+        "갈등",
+        "복선",
+        "풍자"
+      ],
+      "hint": "리듬과 관련됩니다.",
+      "explanation": "정답은 ‘운율’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_005",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "easy",
+      "question": "사건이 일어나는 시간과 장소를 통틀어 무엇이라 하는가?",
+      "answer": "배경",
+      "accepted": [
+        "배경"
+      ],
+      "choices": [
+        "배경",
+        "시점",
+        "구성",
+        "문체"
+      ],
+      "hint": "언제, 어디에서의 정보입니다.",
+      "explanation": "정답은 ‘배경’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_006",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "normal",
+      "question": "인물이나 세력이 서로 맞서며 생기는 충돌은?",
+      "answer": "갈등",
+      "accepted": [
+        "갈등"
+      ],
+      "choices": [
+        "갈등",
+        "복선",
+        "상징",
+        "심상"
+      ],
+      "hint": "이야기를 전개하는 힘입니다.",
+      "explanation": "정답은 ‘갈등’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_007",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "normal",
+      "question": "뒤에 일어날 사건을 미리 암시하는 장치는?",
+      "answer": "복선",
+      "accepted": [
+        "복선"
+      ],
+      "choices": [
+        "복선",
+        "반전",
+        "운율",
+        "시점"
+      ],
+      "hint": "나중 사건의 단서를 미리 심습니다.",
+      "explanation": "정답은 ‘복선’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_008",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "normal",
+      "question": "이야기를 바라보고 전달하는 관점은?",
+      "answer": "시점",
+      "accepted": [
+        "시점"
+      ],
+      "choices": [
+        "시점",
+        "주제",
+        "소재",
+        "배경"
+      ],
+      "hint": "누가 보고 말하는가와 관련됩니다.",
+      "explanation": "정답은 ‘시점’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_009",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "normal",
+      "question": "글쓴이의 개성이 드러나는 문장의 표현 방식은?",
+      "answer": "문체",
+      "accepted": [
+        "문체"
+      ],
+      "choices": [
+        "문체",
+        "갈등",
+        "구성",
+        "사건"
+      ],
+      "hint": "문장의 말투와 표현 특성입니다.",
+      "explanation": "정답은 ‘문체’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_010",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "normal",
+      "question": "사건을 배열하고 조직하는 방식은?",
+      "answer": "구성",
+      "accepted": [
+        "구성"
+      ],
+      "choices": [
+        "구성",
+        "소재",
+        "운율",
+        "어조"
+      ],
+      "hint": "발단-전개-위기-절정-결말 등이 있습니다.",
+      "explanation": "정답은 ‘구성’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_011",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "hard",
+      "question": "겉으로는 모순되어 보이지만 그 안에 진리를 담은 표현은?",
+      "answer": "역설",
+      "accepted": [
+        "역설"
+      ],
+      "choices": [
+        "역설",
+        "반어",
+        "직유",
+        "과장"
+      ],
+      "hint": "‘찬란한 슬픔’ 같은 표현입니다.",
+      "explanation": "정답은 ‘역설’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_012",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "hard",
+      "question": "대상이나 현실의 문제를 웃음과 비판으로 드러내는 표현은?",
+      "answer": "풍자",
+      "accepted": [
+        "풍자"
+      ],
+      "choices": [
+        "풍자",
+        "서정",
+        "묘사",
+        "운율"
+      ],
+      "hint": "웃음 뒤에 비판이 있습니다.",
+      "explanation": "정답은 ‘풍자’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_013",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "hard",
+      "question": "추상적인 생각이나 정서를 구체적 사물로 나타내는 표현은?",
+      "answer": "상징",
+      "accepted": [
+        "상징"
+      ],
+      "choices": [
+        "상징",
+        "인용",
+        "반복",
+        "열거"
+      ],
+      "hint": "비둘기가 평화를 나타내는 경우입니다.",
+      "explanation": "정답은 ‘상징’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_014",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "hard",
+      "question": "시각·청각·후각 등 감각적으로 떠오르는 느낌은?",
+      "answer": "심상",
+      "accepted": [
+        "심상"
+      ],
+      "choices": [
+        "심상",
+        "시점",
+        "주제",
+        "구성"
+      ],
+      "hint": "머릿속 감각 이미지입니다.",
+      "explanation": "정답은 ‘심상’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_015",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "hard",
+      "question": "작품의 분위기와 화자의 태도가 드러나는 말투는?",
+      "answer": "어조",
+      "accepted": [
+        "어조"
+      ],
+      "choices": [
+        "어조",
+        "운율",
+        "소재",
+        "복선"
+      ],
+      "hint": "밝은 어조, 비장한 어조 등이 있습니다.",
+      "explanation": "정답은 ‘어조’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_016",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "expert",
+      "question": "한 인물의 마음속에서 서로 다른 욕망이나 가치가 충돌하는 것은?",
+      "answer": "내적 갈등",
+      "accepted": [
+        "내적 갈등"
+      ],
+      "choices": [
+        "내적 갈등",
+        "외적 갈등",
+        "사회적 갈등",
+        "자연적 갈등"
+      ],
+      "hint": "인물의 마음 안에서 일어납니다.",
+      "explanation": "정답은 ‘내적 갈등’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_017",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "expert",
+      "question": "인물과 다른 인물·사회·자연 사이의 충돌은?",
+      "answer": "외적 갈등",
+      "accepted": [
+        "외적 갈등"
+      ],
+      "choices": [
+        "외적 갈등",
+        "내적 갈등",
+        "심리 묘사",
+        "독백"
+      ],
+      "hint": "인물 바깥의 대상과 충돌합니다.",
+      "explanation": "정답은 ‘외적 갈등’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_018",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "expert",
+      "question": "서술자가 작품 밖에서 인물의 내면과 사건을 모두 아는 시점은?",
+      "answer": "전지적 작가 시점",
+      "accepted": [
+        "전지적 작가 시점"
+      ],
+      "choices": [
+        "전지적 작가 시점",
+        "1인칭 주인공 시점",
+        "1인칭 관찰자 시점",
+        "작가 관찰자 시점"
+      ],
+      "hint": "모든 인물의 생각을 압니다.",
+      "explanation": "정답은 ‘전지적 작가 시점’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_019",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "expert",
+      "question": "서술자가 작품 밖에서 인물의 행동만 객관적으로 관찰하는 시점은?",
+      "answer": "작가 관찰자 시점",
+      "accepted": [
+        "작가 관찰자 시점"
+      ],
+      "choices": [
+        "작가 관찰자 시점",
+        "전지적 작가 시점",
+        "1인칭 주인공 시점",
+        "1인칭 관찰자 시점"
+      ],
+      "hint": "카메라처럼 행동만 보여 줍니다.",
+      "explanation": "정답은 ‘작가 관찰자 시점’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_020",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "expert",
+      "question": "작품 속 ‘나’가 자신의 경험을 직접 이야기하는 시점은?",
+      "answer": "1인칭 주인공 시점",
+      "accepted": [
+        "1인칭 주인공 시점"
+      ],
+      "choices": [
+        "1인칭 주인공 시점",
+        "1인칭 관찰자 시점",
+        "전지적 작가 시점",
+        "작가 관찰자 시점"
+      ],
+      "hint": "‘나’가 중심 인물입니다.",
+      "explanation": "정답은 ‘1인칭 주인공 시점’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_021",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "master",
+      "question": "구체적인 사물을 통해 화자의 정서를 대신 드러내는 대상을 무엇이라 하는가?",
+      "answer": "객관적 상관물",
+      "accepted": [
+        "객관적 상관물"
+      ],
+      "choices": [
+        "객관적 상관물",
+        "서술자",
+        "복선",
+        "반어"
+      ],
+      "hint": "정서를 직접 말하지 않고 사물로 환기합니다.",
+      "explanation": "정답은 ‘객관적 상관물’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_022",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "master",
+      "question": "익숙한 대상을 새롭고 낯설게 보이도록 표현하는 기법은?",
+      "answer": "낯설게 하기",
+      "accepted": [
+        "낯설게 하기"
+      ],
+      "choices": [
+        "낯설게 하기",
+        "자동기술법",
+        "점층법",
+        "대구법"
+      ],
+      "hint": "일상적인 인식을 흔드는 기법입니다.",
+      "explanation": "정답은 ‘낯설게 하기’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_023",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "master",
+      "question": "바깥 이야기 속에 또 하나의 이야기가 들어 있는 구성은?",
+      "answer": "액자식 구성",
+      "accepted": [
+        "액자식 구성"
+      ],
+      "choices": [
+        "액자식 구성",
+        "순행적 구성",
+        "병렬 구성",
+        "단순 구성"
+      ],
+      "hint": "이야기가 액자처럼 둘러싸입니다.",
+      "explanation": "정답은 ‘액자식 구성’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_024",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "master",
+      "question": "둘 이상의 사건이나 장면을 나란히 놓아 전개하는 구성은?",
+      "answer": "병렬 구성",
+      "accepted": [
+        "병렬 구성"
+      ],
+      "choices": [
+        "병렬 구성",
+        "액자식 구성",
+        "역순행적 구성",
+        "단일 구성"
+      ],
+      "hint": "여러 줄거리를 나란히 배열합니다.",
+      "explanation": "정답은 ‘병렬 구성’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_korean_025",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "master",
+      "question": "대상과 밀접한 관련이 있는 다른 말로 대상을 대신 나타내는 표현은?",
+      "answer": "환유",
+      "accepted": [
+        "환유"
+      ],
+      "choices": [
+        "환유",
+        "직유",
+        "의인",
+        "반어"
+      ],
+      "hint": "‘왕관’으로 왕권을 나타내는 식입니다.",
+      "explanation": "정답은 ‘환유’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_001",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "easy",
+      "question": "문장의 주체가 스스로 행동함을 나타내는 표현은?",
+      "answer": "능동",
+      "accepted": [
+        "능동"
+      ],
+      "choices": [
+        "능동",
+        "피동",
+        "사동",
+        "인용"
+      ],
+      "hint": "주어가 직접 행동합니다.",
+      "explanation": "정답은 ‘능동’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_002",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "easy",
+      "question": "주어가 다른 힘에 의해 행동을 당함을 나타내는 표현은?",
+      "answer": "피동",
+      "accepted": [
+        "피동"
+      ],
+      "choices": [
+        "피동",
+        "능동",
+        "사동",
+        "부정"
+      ],
+      "hint": "‘-이-, -히-, -리-, -기-’가 쓰이기도 합니다.",
+      "explanation": "정답은 ‘피동’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_003",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "easy",
+      "question": "주어가 다른 대상에게 어떤 행동을 하게 함을 나타내는 표현은?",
+      "answer": "사동",
+      "accepted": [
+        "사동"
+      ],
+      "choices": [
+        "사동",
+        "피동",
+        "능동",
+        "높임"
+      ],
+      "hint": "‘먹이다, 웃기다’가 예입니다.",
+      "explanation": "정답은 ‘사동’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_004",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "easy",
+      "question": "두 문장 성분을 같은 자격으로 이어 주는 문장 관계는?",
+      "answer": "대등하게 이어진 문장",
+      "accepted": [
+        "대등하게 이어진 문장"
+      ],
+      "choices": [
+        "대등하게 이어진 문장",
+        "종속적으로 이어진 문장",
+        "안은문장",
+        "홑문장"
+      ],
+      "hint": "‘그리고, 그러나’로 연결되기도 합니다.",
+      "explanation": "정답은 ‘대등하게 이어진 문장’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_005",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "easy",
+      "question": "한 문장이 다른 문장 속에서 문장 성분 역할을 하는 문장은?",
+      "answer": "안은문장",
+      "accepted": [
+        "안은문장"
+      ],
+      "choices": [
+        "안은문장",
+        "이어진문장",
+        "홑문장",
+        "생략문"
+      ],
+      "hint": "명사절·관형절 등을 안을 수 있습니다.",
+      "explanation": "정답은 ‘안은문장’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_006",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "normal",
+      "question": "하나의 표현이 둘 이상의 의미로 해석될 수 있는 성질은?",
+      "answer": "중의성",
+      "accepted": [
+        "중의성"
+      ],
+      "choices": [
+        "중의성",
+        "모호성",
+        "반어성",
+        "서정성"
+      ],
+      "hint": "의미가 하나로 확정되지 않습니다.",
+      "explanation": "정답은 ‘중의성’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_007",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "normal",
+      "question": "소리의 환경에 따라 음운이 다른 음운으로 바뀌는 현상은?",
+      "answer": "음운 변동",
+      "accepted": [
+        "음운 변동"
+      ],
+      "choices": [
+        "음운 변동",
+        "형태 변화",
+        "문장 변화",
+        "의미 변화"
+      ],
+      "hint": "교체·탈락·첨가·축약이 있습니다.",
+      "explanation": "정답은 ‘음운 변동’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_008",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "normal",
+      "question": "앞말의 끝소리와 뒷말의 첫소리가 서로 닮아가는 현상은?",
+      "answer": "동화",
+      "accepted": [
+        "동화"
+      ],
+      "choices": [
+        "동화",
+        "축약",
+        "탈락",
+        "첨가"
+      ],
+      "hint": "음운이 서로 비슷해집니다.",
+      "explanation": "정답은 ‘동화’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_009",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "normal",
+      "question": "두 음운이 합쳐져 하나의 음운으로 줄어드는 현상은?",
+      "answer": "축약",
+      "accepted": [
+        "축약"
+      ],
+      "choices": [
+        "축약",
+        "교체",
+        "탈락",
+        "첨가"
+      ],
+      "hint": "‘좋고[조코]’ 등이 관련됩니다.",
+      "explanation": "정답은 ‘축약’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_010",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "normal",
+      "question": "원래 있던 음운이 발음 과정에서 없어지는 현상은?",
+      "answer": "탈락",
+      "accepted": [
+        "탈락"
+      ],
+      "choices": [
+        "탈락",
+        "첨가",
+        "동화",
+        "교체"
+      ],
+      "hint": "음운 수가 줄어듭니다.",
+      "explanation": "정답은 ‘탈락’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_011",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "hard",
+      "question": "문학 작품이 현실을 그대로 복사하지 않고 새롭게 구성한다는 성격은?",
+      "answer": "허구성",
+      "accepted": [
+        "허구성"
+      ],
+      "choices": [
+        "허구성",
+        "사실성",
+        "역사성",
+        "실용성"
+      ],
+      "hint": "상상과 재구성이 개입합니다.",
+      "explanation": "정답은 ‘허구성’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_012",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "hard",
+      "question": "개인의 정서와 감정을 운율 있는 언어로 표현하는 문학 갈래는?",
+      "answer": "서정 갈래",
+      "accepted": [
+        "서정 갈래"
+      ],
+      "choices": [
+        "서정 갈래",
+        "서사 갈래",
+        "극 갈래",
+        "교술 갈래"
+      ],
+      "hint": "시가 대표적입니다.",
+      "explanation": "정답은 ‘서정 갈래’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_013",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "hard",
+      "question": "인물과 사건을 서술자가 이야기하는 문학 갈래는?",
+      "answer": "서사 갈래",
+      "accepted": [
+        "서사 갈래"
+      ],
+      "choices": [
+        "서사 갈래",
+        "서정 갈래",
+        "극 갈래",
+        "교술 갈래"
+      ],
+      "hint": "소설이 대표적입니다.",
+      "explanation": "정답은 ‘서사 갈래’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_014",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "hard",
+      "question": "인물의 대사와 행동으로 무대에서 사건을 보여 주는 갈래는?",
+      "answer": "극 갈래",
+      "accepted": [
+        "극 갈래"
+      ],
+      "choices": [
+        "극 갈래",
+        "서사 갈래",
+        "서정 갈래",
+        "교술 갈래"
+      ],
+      "hint": "희곡이 대표적입니다.",
+      "explanation": "정답은 ‘극 갈래’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_015",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "hard",
+      "question": "사실이나 생각을 설명·논증하며 전달하는 문학 갈래는?",
+      "answer": "교술 갈래",
+      "accepted": [
+        "교술 갈래"
+      ],
+      "choices": [
+        "교술 갈래",
+        "극 갈래",
+        "서정 갈래",
+        "서사 갈래"
+      ],
+      "hint": "수필·기행문 등이 포함됩니다.",
+      "explanation": "정답은 ‘교술 갈래’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_016",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "expert",
+      "question": "독자의 배경지식과 글의 정보를 결합해 명시되지 않은 내용을 알아내는 읽기는?",
+      "answer": "추론적 읽기",
+      "accepted": [
+        "추론적 읽기"
+      ],
+      "choices": [
+        "추론적 읽기",
+        "사실적 읽기",
+        "비판적 읽기",
+        "감상적 읽기"
+      ],
+      "hint": "숨은 의미를 짐작합니다.",
+      "explanation": "정답은 ‘추론적 읽기’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_017",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "expert",
+      "question": "글의 타당성·신뢰성·공정성을 판단하며 읽는 방식은?",
+      "answer": "비판적 읽기",
+      "accepted": [
+        "비판적 읽기"
+      ],
+      "choices": [
+        "비판적 읽기",
+        "사실적 읽기",
+        "추론적 읽기",
+        "창의적 읽기"
+      ],
+      "hint": "근거와 관점을 평가합니다.",
+      "explanation": "정답은 ‘비판적 읽기’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_018",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "expert",
+      "question": "글의 내용을 새로운 상황에 적용하거나 새로운 생각을 만드는 읽기는?",
+      "answer": "창의적 읽기",
+      "accepted": [
+        "창의적 읽기"
+      ],
+      "choices": [
+        "창의적 읽기",
+        "사실적 읽기",
+        "비판적 읽기",
+        "추론적 읽기"
+      ],
+      "hint": "내용을 확장하고 재구성합니다.",
+      "explanation": "정답은 ‘창의적 읽기’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_019",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "expert",
+      "question": "담화가 이루어지는 시간·장소·참여자·목적 등을 통틀어 무엇이라 하는가?",
+      "answer": "맥락",
+      "accepted": [
+        "맥락"
+      ],
+      "choices": [
+        "맥락",
+        "운율",
+        "시점",
+        "문체"
+      ],
+      "hint": "말의 의미를 결정하는 상황입니다.",
+      "explanation": "정답은 ‘맥락’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_020",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "expert",
+      "question": "화자가 청자와의 관계를 고려해 높임 정도를 조절하는 것은?",
+      "answer": "상대 높임법",
+      "accepted": [
+        "상대 높임법"
+      ],
+      "choices": [
+        "상대 높임법",
+        "주체 높임법",
+        "객체 높임법",
+        "시제법"
+      ],
+      "hint": "문장 종결 표현과 관련됩니다.",
+      "explanation": "정답은 ‘상대 높임법’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_021",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "master",
+      "question": "시인이 자신의 감정을 직접 말하지 않고 사물과 상황의 조합으로 환기하는 장치는?",
+      "answer": "객관적 상관물",
+      "accepted": [
+        "객관적 상관물"
+      ],
+      "choices": [
+        "객관적 상관물",
+        "감정 이입",
+        "풍자",
+        "복선"
+      ],
+      "hint": "정서를 대응하는 외부 대상을 제시합니다.",
+      "explanation": "정답은 ‘객관적 상관물’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_022",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "master",
+      "question": "서술자의 목소리와 인물의 내면 언어가 섞여 경계가 흐려지는 서술 방식은?",
+      "answer": "자유 간접 화법",
+      "accepted": [
+        "자유 간접 화법"
+      ],
+      "choices": [
+        "자유 간접 화법",
+        "직접 화법",
+        "간접 화법",
+        "독백"
+      ],
+      "hint": "인용 표지 없이 인물의 의식이 드러납니다.",
+      "explanation": "정답은 ‘자유 간접 화법’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_023",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "master",
+      "question": "텍스트의 의미가 독자의 해석 과정에서 새롭게 구성된다는 관점은?",
+      "answer": "수용 미학",
+      "accepted": [
+        "수용 미학"
+      ],
+      "choices": [
+        "수용 미학",
+        "모방론",
+        "표현론",
+        "반영론"
+      ],
+      "hint": "독자의 역할을 중시합니다.",
+      "explanation": "정답은 ‘수용 미학’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_024",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "master",
+      "question": "작품을 사회·역사적 현실의 반영으로 파악하는 관점은?",
+      "answer": "반영론적 관점",
+      "accepted": [
+        "반영론적 관점"
+      ],
+      "choices": [
+        "반영론적 관점",
+        "표현론적 관점",
+        "절대론적 관점",
+        "효용론적 관점"
+      ],
+      "hint": "작품과 현실의 관계를 봅니다.",
+      "explanation": "정답은 ‘반영론적 관점’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_korean_025",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "master",
+      "question": "작품을 작가의 경험·사상·감정의 표현으로 보는 관점은?",
+      "answer": "표현론적 관점",
+      "accepted": [
+        "표현론적 관점"
+      ],
+      "choices": [
+        "표현론적 관점",
+        "반영론적 관점",
+        "절대론적 관점",
+        "구조론적 관점"
+      ],
+      "hint": "작가와 작품의 관계를 중시합니다.",
+      "explanation": "정답은 ‘표현론적 관점’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_001",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "easy",
+      "question": "해가 뜨는 쪽은 어느 방향인가?",
+      "answer": "동쪽",
+      "accepted": [
+        "동쪽"
+      ],
+      "choices": [
+        "동쪽",
+        "서쪽",
+        "남쪽",
+        "북쪽"
+      ],
+      "hint": "아침 해가 보이는 방향입니다.",
+      "explanation": "정답은 ‘동쪽’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_002",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "easy",
+      "question": "대한민국의 수도는?",
+      "answer": "서울",
+      "accepted": [
+        "서울"
+      ],
+      "choices": [
+        "서울",
+        "부산",
+        "대전",
+        "광주"
+      ],
+      "hint": "한강이 흐르는 특별시입니다.",
+      "explanation": "정답은 ‘서울’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_003",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "easy",
+      "question": "우리 동네의 생활 문제를 해결하기 위해 주민과 가까이에서 일하는 기관은?",
+      "answer": "지방자치단체",
+      "accepted": [
+        "지방자치단체"
+      ],
+      "choices": [
+        "지방자치단체",
+        "국제연합",
+        "법원",
+        "은행"
+      ],
+      "hint": "시청·군청·구청 등이 해당합니다.",
+      "explanation": "정답은 ‘지방자치단체’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_004",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "easy",
+      "question": "물건을 만들어 내는 경제 활동은?",
+      "answer": "생산",
+      "accepted": [
+        "생산"
+      ],
+      "choices": [
+        "생산",
+        "소비",
+        "저축",
+        "교환"
+      ],
+      "hint": "재화나 서비스를 만들어 냅니다.",
+      "explanation": "정답은 ‘생산’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_005",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "easy",
+      "question": "필요한 물건이나 서비스를 사용하는 경제 활동은?",
+      "answer": "소비",
+      "accepted": [
+        "소비"
+      ],
+      "choices": [
+        "소비",
+        "생산",
+        "수출",
+        "저축"
+      ],
+      "hint": "구매하여 사용하는 활동입니다.",
+      "explanation": "정답은 ‘소비’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_006",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "normal",
+      "question": "지도에서 실제 거리를 일정한 비율로 줄인 정도는?",
+      "answer": "축척",
+      "accepted": [
+        "축척"
+      ],
+      "choices": [
+        "축척",
+        "방위",
+        "기호",
+        "등고선"
+      ],
+      "hint": "지도 거리와 실제 거리의 비율입니다.",
+      "explanation": "정답은 ‘축척’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_007",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "normal",
+      "question": "지도에서 높이가 같은 지점을 이은 선은?",
+      "answer": "등고선",
+      "accepted": [
+        "등고선"
+      ],
+      "choices": [
+        "등고선",
+        "경선",
+        "위선",
+        "해안선"
+      ],
+      "hint": "산의 높낮이를 나타냅니다.",
+      "explanation": "정답은 ‘등고선’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_008",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "normal",
+      "question": "국민이 대표자를 뽑아 정치를 맡기는 민주 정치 방식은?",
+      "answer": "대의 민주주의",
+      "accepted": [
+        "대의 민주주의"
+      ],
+      "choices": [
+        "대의 민주주의",
+        "직접 민주주의",
+        "전제 정치",
+        "군주 정치"
+      ],
+      "hint": "선거로 대표자를 뽑습니다.",
+      "explanation": "정답은 ‘대의 민주주의’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_009",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "normal",
+      "question": "지역 주민이 지역 일을 스스로 처리하는 제도는?",
+      "answer": "지방자치",
+      "accepted": [
+        "지방자치"
+      ],
+      "choices": [
+        "지방자치",
+        "중앙집권",
+        "국제협력",
+        "삼권분립"
+      ],
+      "hint": "주민 참여와 지역 행정이 핵심입니다.",
+      "explanation": "정답은 ‘지방자치’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_010",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "normal",
+      "question": "다른 지역과 물건·문화·사람이 오가는 현상은?",
+      "answer": "교류",
+      "accepted": [
+        "교류"
+      ],
+      "choices": [
+        "교류",
+        "격리",
+        "독점",
+        "보존"
+      ],
+      "hint": "지역 간 관계가 넓어집니다.",
+      "explanation": "정답은 ‘교류’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_011",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "hard",
+      "question": "인구가 도시로 모여 도시의 규모와 기능이 커지는 현상은?",
+      "answer": "도시화",
+      "accepted": [
+        "도시화"
+      ],
+      "choices": [
+        "도시화",
+        "산업화",
+        "세계화",
+        "정보화"
+      ],
+      "hint": "도시 인구 비율이 증가합니다.",
+      "explanation": "정답은 ‘도시화’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_012",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "hard",
+      "question": "공장에서 기계를 이용한 생산이 늘고 산업 구조가 바뀌는 현상은?",
+      "answer": "산업화",
+      "accepted": [
+        "산업화"
+      ],
+      "choices": [
+        "산업화",
+        "도시화",
+        "고령화",
+        "민주화"
+      ],
+      "hint": "농업 중심에서 공업·서비스업 중심으로 바뀝니다.",
+      "explanation": "정답은 ‘산업화’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_013",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "hard",
+      "question": "나라 사이의 교류가 활발해져 세계가 밀접하게 연결되는 현상은?",
+      "answer": "세계화",
+      "accepted": [
+        "세계화"
+      ],
+      "choices": [
+        "세계화",
+        "지역화",
+        "도시화",
+        "사막화"
+      ],
+      "hint": "경제와 문화의 국제적 연결입니다.",
+      "explanation": "정답은 ‘세계화’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_014",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "hard",
+      "question": "생산지에서 소비자에게 상품이 이동하는 과정은?",
+      "answer": "유통",
+      "accepted": [
+        "유통"
+      ],
+      "choices": [
+        "유통",
+        "생산",
+        "소비",
+        "저축"
+      ],
+      "hint": "운송·보관·판매가 포함됩니다.",
+      "explanation": "정답은 ‘유통’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_015",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "hard",
+      "question": "한 지역에서 오랫동안 이어져 내려온 고유한 생활 모습은?",
+      "answer": "지역 문화",
+      "accepted": [
+        "지역 문화"
+      ],
+      "choices": [
+        "지역 문화",
+        "세계 문화",
+        "대중교통",
+        "산업 구조"
+      ],
+      "hint": "지역의 역사와 환경이 반영됩니다.",
+      "explanation": "정답은 ‘지역 문화’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_016",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "expert",
+      "question": "여러 사람의 의견을 모으되 소수 의견도 존중해야 하는 민주적 의사결정 원리는?",
+      "answer": "다수결의 원칙과 소수 의견 존중",
+      "accepted": [
+        "다수결의 원칙과 소수 의견 존중"
+      ],
+      "choices": [
+        "다수결의 원칙과 소수 의견 존중",
+        "권력 집중",
+        "만장일치 강제",
+        "대표자 독점"
+      ],
+      "hint": "다수결만으로 끝나지 않습니다.",
+      "explanation": "정답은 ‘다수결의 원칙과 소수 의견 존중’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_017",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "expert",
+      "question": "국가나 지방자치단체가 국민에게 제공하는 도로·공원·소방 같은 것은?",
+      "answer": "공공서비스",
+      "accepted": [
+        "공공서비스"
+      ],
+      "choices": [
+        "공공서비스",
+        "사유재산",
+        "개인소비",
+        "수출상품"
+      ],
+      "hint": "공동의 필요를 위해 제공합니다.",
+      "explanation": "정답은 ‘공공서비스’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_018",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "expert",
+      "question": "지역 문제 해결에서 자료 조사→원인 분석→해결안 비교 다음에 할 일은?",
+      "answer": "해결 방안 선택과 실천",
+      "accepted": [
+        "해결 방안 선택과 실천"
+      ],
+      "choices": [
+        "해결 방안 선택과 실천",
+        "문제 무시",
+        "자료 폐기",
+        "갈등 확대"
+      ],
+      "hint": "조사 결과를 행동으로 옮깁니다.",
+      "explanation": "정답은 ‘해결 방안 선택과 실천’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_019",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "expert",
+      "question": "서로 다른 문화의 가치를 인정하고 존중하는 태도는?",
+      "answer": "문화 다양성 존중",
+      "accepted": [
+        "문화 다양성 존중"
+      ],
+      "choices": [
+        "문화 다양성 존중",
+        "문화 우월주의",
+        "문화 배척",
+        "동화 강요"
+      ],
+      "hint": "차이를 틀림으로 보지 않습니다.",
+      "explanation": "정답은 ‘문화 다양성 존중’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_020",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "expert",
+      "question": "환경을 보호하면서 미래 세대도 자원을 사용할 수 있게 하는 발전은?",
+      "answer": "지속 가능한 발전",
+      "accepted": [
+        "지속 가능한 발전"
+      ],
+      "choices": [
+        "지속 가능한 발전",
+        "무제한 개발",
+        "단기 성장",
+        "자원 고갈"
+      ],
+      "hint": "현재와 미래의 필요를 함께 고려합니다.",
+      "explanation": "정답은 ‘지속 가능한 발전’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_021",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "master",
+      "question": "지도에서 북쪽이 위가 아닐 때 방향을 판단하기 위해 가장 먼저 확인할 요소는?",
+      "answer": "방위표",
+      "accepted": [
+        "방위표"
+      ],
+      "choices": [
+        "방위표",
+        "축척",
+        "범례",
+        "등고선"
+      ],
+      "hint": "지도에 표시된 북쪽 방향을 봅니다.",
+      "explanation": "정답은 ‘방위표’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_022",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "master",
+      "question": "같은 상품의 가격이 지역마다 다른 이유를 운송비·수요·공급으로 설명하는 것은 어느 관점인가?",
+      "answer": "경제적 관점",
+      "accepted": [
+        "경제적 관점"
+      ],
+      "choices": [
+        "경제적 관점",
+        "역사적 관점",
+        "윤리적 관점",
+        "예술적 관점"
+      ],
+      "hint": "가격 형성 요인을 분석합니다.",
+      "explanation": "정답은 ‘경제적 관점’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_023",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "master",
+      "question": "지역 축제의 경제 효과와 문화 보존 효과를 함께 평가하는 방식은?",
+      "answer": "다각적 관점",
+      "accepted": [
+        "다각적 관점"
+      ],
+      "choices": [
+        "다각적 관점",
+        "단일 관점",
+        "고정 관념",
+        "무관심"
+      ],
+      "hint": "여러 측면을 종합합니다.",
+      "explanation": "정답은 ‘다각적 관점’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_024",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "master",
+      "question": "개발로 얻는 편익과 환경 훼손 비용을 함께 비교하는 판단은?",
+      "answer": "비용과 편익 분석",
+      "accepted": [
+        "비용과 편익 분석"
+      ],
+      "choices": [
+        "비용과 편익 분석",
+        "감정적 판단",
+        "무조건 반대",
+        "다수결만 적용"
+      ],
+      "hint": "얻는 것과 잃는 것을 비교합니다.",
+      "explanation": "정답은 ‘비용과 편익 분석’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_social_025",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "master",
+      "question": "주민 참여가 지방자치에 중요한 가장 핵심적인 이유는?",
+      "answer": "지역의 필요를 정책에 반영하기 위해서",
+      "accepted": [
+        "지역의 필요를 정책에 반영하기 위해서"
+      ],
+      "choices": [
+        "지역의 필요를 정책에 반영하기 위해서",
+        "중앙정부를 없애기 위해서",
+        "세금을 내지 않기 위해서",
+        "법원을 대신하기 위해서"
+      ],
+      "hint": "생활 속 요구를 행정에 전달합니다.",
+      "explanation": "정답은 ‘지역의 필요를 정책에 반영하기 위해서’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_001",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "easy",
+      "question": "국가의 최고 법으로 국민의 기본권과 국가 조직을 정한 것은?",
+      "answer": "헌법",
+      "accepted": [
+        "헌법"
+      ],
+      "choices": [
+        "헌법",
+        "민법",
+        "형법",
+        "조례"
+      ],
+      "hint": "모든 법의 기준입니다.",
+      "explanation": "정답은 ‘헌법’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_002",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "easy",
+      "question": "입법·행정·사법 권력을 나누어 견제하게 하는 원리는?",
+      "answer": "삼권분립",
+      "accepted": [
+        "삼권분립"
+      ],
+      "choices": [
+        "삼권분립",
+        "직접민주주의",
+        "지방자치",
+        "시장경제"
+      ],
+      "hint": "권력 분산이 목적입니다.",
+      "explanation": "정답은 ‘삼권분립’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_003",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "easy",
+      "question": "상품을 사고자 하는 양은?",
+      "answer": "수요",
+      "accepted": [
+        "수요"
+      ],
+      "choices": [
+        "수요",
+        "공급",
+        "가격",
+        "생산"
+      ],
+      "hint": "소비자의 구매 의사입니다.",
+      "explanation": "정답은 ‘수요’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_004",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "easy",
+      "question": "생산자가 팔고자 하는 양은?",
+      "answer": "공급",
+      "accepted": [
+        "공급"
+      ],
+      "choices": [
+        "공급",
+        "수요",
+        "소비",
+        "저축"
+      ],
+      "hint": "판매 의사와 능력을 나타냅니다.",
+      "explanation": "정답은 ‘공급’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_005",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "easy",
+      "question": "한 나라의 국민이 정치의 주인이 된다는 원리는?",
+      "answer": "국민주권",
+      "accepted": [
+        "국민주권"
+      ],
+      "choices": [
+        "국민주권",
+        "왕권신수",
+        "권력집중",
+        "관료주의"
+      ],
+      "hint": "주권이 국민에게 있습니다.",
+      "explanation": "정답은 ‘국민주권’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_006",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "normal",
+      "question": "가격이 오를 때 일반적으로 수요량이 줄어드는 관계는?",
+      "answer": "수요 법칙",
+      "accepted": [
+        "수요 법칙"
+      ],
+      "choices": [
+        "수요 법칙",
+        "공급 법칙",
+        "한계 효용",
+        "비교 우위"
+      ],
+      "hint": "다른 조건이 같다는 가정입니다.",
+      "explanation": "정답은 ‘수요 법칙’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_007",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "normal",
+      "question": "가격이 오를 때 일반적으로 공급량이 늘어나는 관계는?",
+      "answer": "공급 법칙",
+      "accepted": [
+        "공급 법칙"
+      ],
+      "choices": [
+        "공급 법칙",
+        "수요 법칙",
+        "기회비용",
+        "공공재"
+      ],
+      "hint": "생산자의 공급 유인이 커집니다.",
+      "explanation": "정답은 ‘공급 법칙’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_008",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "normal",
+      "question": "도시 인구가 늘고 도시적 생활 양식이 퍼지는 현상은?",
+      "answer": "도시화",
+      "accepted": [
+        "도시화"
+      ],
+      "choices": [
+        "도시화",
+        "산업화",
+        "사막화",
+        "고령화"
+      ],
+      "hint": "도시의 성장과 관련됩니다.",
+      "explanation": "정답은 ‘도시화’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_009",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "normal",
+      "question": "출생률과 사망률이 낮아지고 노인 인구 비율이 높아지는 현상은?",
+      "answer": "고령화",
+      "accepted": [
+        "고령화"
+      ],
+      "choices": [
+        "고령화",
+        "도시화",
+        "산업화",
+        "세계화"
+      ],
+      "hint": "평균 수명 증가와 저출생이 관련됩니다.",
+      "explanation": "정답은 ‘고령화’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_010",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "normal",
+      "question": "국가 사이의 상품과 서비스 거래는?",
+      "answer": "무역",
+      "accepted": [
+        "무역"
+      ],
+      "choices": [
+        "무역",
+        "복지",
+        "재정",
+        "정치"
+      ],
+      "hint": "수출과 수입을 포함합니다.",
+      "explanation": "정답은 ‘무역’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_011",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "hard",
+      "question": "사회 구성원이 기대하는 지위에 따른 행동 방식을 무엇이라 하는가?",
+      "answer": "역할",
+      "accepted": [
+        "역할"
+      ],
+      "choices": [
+        "역할",
+        "지위",
+        "규범",
+        "문화"
+      ],
+      "hint": "지위에 기대되는 행동입니다.",
+      "explanation": "정답은 ‘역할’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_012",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "hard",
+      "question": "개인이 서로 양립하기 어려운 여러 역할을 동시에 요구받는 상황은?",
+      "answer": "역할 갈등",
+      "accepted": [
+        "역할 갈등"
+      ],
+      "choices": [
+        "역할 갈등",
+        "문화 지체",
+        "사회 이동",
+        "지위 불일치"
+      ],
+      "hint": "학생과 아르바이트생 역할이 충돌하는 경우입니다.",
+      "explanation": "정답은 ‘역할 갈등’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_013",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "hard",
+      "question": "물질문화의 변화 속도를 비물질문화가 따라가지 못하는 현상은?",
+      "answer": "문화 지체",
+      "accepted": [
+        "문화 지체"
+      ],
+      "choices": [
+        "문화 지체",
+        "문화 전파",
+        "문화 융합",
+        "문화 상대주의"
+      ],
+      "hint": "기술과 제도의 속도 차이입니다.",
+      "explanation": "정답은 ‘문화 지체’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_014",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "hard",
+      "question": "다른 문화를 그 사회의 맥락에서 이해하려는 태도는?",
+      "answer": "문화 상대주의",
+      "accepted": [
+        "문화 상대주의"
+      ],
+      "choices": [
+        "문화 상대주의",
+        "자문화 중심주의",
+        "문화 사대주의",
+        "문화 제국주의"
+      ],
+      "hint": "자기 문화 기준만 적용하지 않습니다.",
+      "explanation": "정답은 ‘문화 상대주의’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_015",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "hard",
+      "question": "법에 따라 국가 권력이 행사되어야 한다는 원리는?",
+      "answer": "법치주의",
+      "accepted": [
+        "법치주의"
+      ],
+      "choices": [
+        "법치주의",
+        "국민주권",
+        "복지국가",
+        "시장경제"
+      ],
+      "hint": "권력도 법의 통제를 받습니다.",
+      "explanation": "정답은 ‘법치주의’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_016",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "expert",
+      "question": "시장 가격이 균형가격보다 높을 때 일반적으로 발생하는 것은?",
+      "answer": "초과 공급",
+      "accepted": [
+        "초과 공급"
+      ],
+      "choices": [
+        "초과 공급",
+        "초과 수요",
+        "수요 증가",
+        "공급 감소"
+      ],
+      "hint": "팔려는 양이 사려는 양보다 많습니다.",
+      "explanation": "정답은 ‘초과 공급’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_017",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "expert",
+      "question": "시장 가격이 균형가격보다 낮을 때 일반적으로 발생하는 것은?",
+      "answer": "초과 수요",
+      "accepted": [
+        "초과 수요"
+      ],
+      "choices": [
+        "초과 수요",
+        "초과 공급",
+        "수요 감소",
+        "공급 증가"
+      ],
+      "hint": "사려는 양이 팔려는 양보다 많습니다.",
+      "explanation": "정답은 ‘초과 수요’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_018",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "expert",
+      "question": "국가가 세금을 걷어 공공서비스와 복지에 지출하는 활동은?",
+      "answer": "재정 활동",
+      "accepted": [
+        "재정 활동"
+      ],
+      "choices": [
+        "재정 활동",
+        "통화 정책",
+        "기업 활동",
+        "가계 소비"
+      ],
+      "hint": "정부의 수입과 지출입니다.",
+      "explanation": "정답은 ‘재정 활동’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_019",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "expert",
+      "question": "정부가 시장 실패를 해결하려 개입할 수 있는 근거가 되는 대표적 문제는?",
+      "answer": "외부 효과",
+      "accepted": [
+        "외부 효과"
+      ],
+      "choices": [
+        "외부 효과",
+        "완전 경쟁",
+        "정보 대칭",
+        "사유재산"
+      ],
+      "hint": "제3자에게 비용이나 편익을 줍니다.",
+      "explanation": "정답은 ‘외부 효과’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_020",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "expert",
+      "question": "인구 이동에서 사람을 원래 지역 밖으로 밀어내는 요인은?",
+      "answer": "배출 요인",
+      "accepted": [
+        "배출 요인"
+      ],
+      "choices": [
+        "배출 요인",
+        "흡인 요인",
+        "중립 요인",
+        "순환 요인"
+      ],
+      "hint": "일자리 부족·분쟁 등이 예입니다.",
+      "explanation": "정답은 ‘배출 요인’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_021",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "master",
+      "question": "독점 시장에서 경쟁 시장보다 나타나기 쉬운 결과는?",
+      "answer": "가격 상승과 생산량 감소",
+      "accepted": [
+        "가격 상승과 생산량 감소"
+      ],
+      "choices": [
+        "가격 상승과 생산량 감소",
+        "가격 하락과 생산량 증가",
+        "완전한 자원 배분",
+        "소비자 선택 확대"
+      ],
+      "hint": "시장 지배력이 가격에 영향을 줍니다.",
+      "explanation": "정답은 ‘가격 상승과 생산량 감소’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_022",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "master",
+      "question": "공공재가 시장에서 충분히 공급되지 않는 핵심 이유는?",
+      "answer": "무임승차 문제",
+      "accepted": [
+        "무임승차 문제"
+      ],
+      "choices": [
+        "무임승차 문제",
+        "기회비용 없음",
+        "수요가 전혀 없음",
+        "공급 비용이 0"
+      ],
+      "hint": "비배제성 때문에 대가 없이 이용하려 합니다.",
+      "explanation": "정답은 ‘무임승차 문제’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_023",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "master",
+      "question": "상대적으로 더 낮은 기회비용으로 생산할 수 있는 능력은?",
+      "answer": "비교 우위",
+      "accepted": [
+        "비교 우위"
+      ],
+      "choices": [
+        "비교 우위",
+        "절대 우위",
+        "규모의 경제",
+        "독점력"
+      ],
+      "hint": "무역의 이익을 설명합니다.",
+      "explanation": "정답은 ‘비교 우위’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_024",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "master",
+      "question": "명목소득이 그대로인데 물가가 상승하면 실질구매력은?",
+      "answer": "감소한다",
+      "accepted": [
+        "감소한다"
+      ],
+      "choices": [
+        "감소한다",
+        "증가한다",
+        "변하지 않는다",
+        "무조건 두 배가 된다"
+      ],
+      "hint": "같은 돈으로 살 수 있는 양이 줄어듭니다.",
+      "explanation": "정답은 ‘감소한다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_social_025",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "master",
+      "question": "기본권 제한이 목적에 적합하고 필요한 최소 범위여야 한다는 원칙은?",
+      "answer": "과잉금지 원칙",
+      "accepted": [
+        "과잉금지 원칙"
+      ],
+      "choices": [
+        "과잉금지 원칙",
+        "소급입법 원칙",
+        "다수결 원칙",
+        "권력 집중 원칙"
+      ],
+      "hint": "목적의 정당성·수단의 적합성 등을 따집니다.",
+      "explanation": "정답은 ‘과잉금지 원칙’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_001",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "easy",
+      "question": "선택으로 포기한 대안 가운데 가치가 가장 큰 것은?",
+      "answer": "기회비용",
+      "accepted": [
+        "기회비용"
+      ],
+      "choices": [
+        "기회비용",
+        "매몰비용",
+        "고정비용",
+        "회계비용"
+      ],
+      "hint": "선택의 진짜 비용입니다.",
+      "explanation": "정답은 ‘기회비용’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_002",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "easy",
+      "question": "물가가 지속적으로 전반 상승하는 현상은?",
+      "answer": "인플레이션",
+      "accepted": [
+        "인플레이션"
+      ],
+      "choices": [
+        "인플레이션",
+        "디플레이션",
+        "스태그플레이션",
+        "환율 하락"
+      ],
+      "hint": "화폐의 구매력이 낮아집니다.",
+      "explanation": "정답은 ‘인플레이션’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_003",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "easy",
+      "question": "한 나라 안에서 일정 기간 생산된 최종 재화·서비스 가치의 합은?",
+      "answer": "국내총생산",
+      "accepted": [
+        "국내총생산"
+      ],
+      "choices": [
+        "국내총생산",
+        "국민총소득",
+        "소비자물가지수",
+        "무역수지"
+      ],
+      "hint": "GDP라고도 합니다.",
+      "explanation": "정답은 ‘국내총생산’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_004",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "easy",
+      "question": "중앙은행이 통화량과 금리를 조절하는 정책은?",
+      "answer": "통화정책",
+      "accepted": [
+        "통화정책"
+      ],
+      "choices": [
+        "통화정책",
+        "재정정책",
+        "무역정책",
+        "산업정책"
+      ],
+      "hint": "기준금리 조정이 대표적입니다.",
+      "explanation": "정답은 ‘통화정책’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_005",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "easy",
+      "question": "정부가 세금과 지출을 조절하는 정책은?",
+      "answer": "재정정책",
+      "accepted": [
+        "재정정책"
+      ],
+      "choices": [
+        "재정정책",
+        "통화정책",
+        "환율정책",
+        "노동정책"
+      ],
+      "hint": "정부 예산을 활용합니다.",
+      "explanation": "정답은 ‘재정정책’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_006",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "normal",
+      "question": "경기 침체와 물가 상승이 동시에 나타나는 현상은?",
+      "answer": "스태그플레이션",
+      "accepted": [
+        "스태그플레이션"
+      ],
+      "choices": [
+        "스태그플레이션",
+        "디플레이션",
+        "하이퍼인플레이션",
+        "호황"
+      ],
+      "hint": "침체와 인플레이션의 결합입니다.",
+      "explanation": "정답은 ‘스태그플레이션’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_007",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "normal",
+      "question": "추가 한 단위를 소비할 때 얻는 효용의 증가분은?",
+      "answer": "한계효용",
+      "accepted": [
+        "한계효용"
+      ],
+      "choices": [
+        "한계효용",
+        "총효용",
+        "기회비용",
+        "매몰비용"
+      ],
+      "hint": "‘한 단위 더’의 만족입니다.",
+      "explanation": "정답은 ‘한계효용’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_008",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "normal",
+      "question": "소득이 증가할 때 수요가 증가하는 재화는?",
+      "answer": "정상재",
+      "accepted": [
+        "정상재"
+      ],
+      "choices": [
+        "정상재",
+        "열등재",
+        "공공재",
+        "기펜재"
+      ],
+      "hint": "대부분의 일반 상품입니다.",
+      "explanation": "정답은 ‘정상재’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_009",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "normal",
+      "question": "가격 변화에 수요량이 얼마나 민감하게 반응하는지를 나타내는 것은?",
+      "answer": "수요의 가격탄력성",
+      "accepted": [
+        "수요의 가격탄력성"
+      ],
+      "choices": [
+        "수요의 가격탄력성",
+        "소득탄력성",
+        "공급량",
+        "한계비용"
+      ],
+      "hint": "가격 변화율 대비 수요량 변화율입니다.",
+      "explanation": "정답은 ‘수요의 가격탄력성’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_010",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "normal",
+      "question": "다른 사람의 소비를 배제하기 어렵고 함께 소비할 수 있는 재화는?",
+      "answer": "공공재",
+      "accepted": [
+        "공공재"
+      ],
+      "choices": [
+        "공공재",
+        "사유재",
+        "열등재",
+        "중간재"
+      ],
+      "hint": "비배제성과 비경합성이 특징입니다.",
+      "explanation": "정답은 ‘공공재’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_011",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "hard",
+      "question": "이미 지출되어 회수할 수 없어 현재 결정에서 제외해야 하는 비용은?",
+      "answer": "매몰비용",
+      "accepted": [
+        "매몰비용"
+      ],
+      "choices": [
+        "매몰비용",
+        "기회비용",
+        "한계비용",
+        "고정비용"
+      ],
+      "hint": "과거 지출에 끌려서는 안 됩니다.",
+      "explanation": "정답은 ‘매몰비용’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_012",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "hard",
+      "question": "생산량 한 단위를 더 늘릴 때 추가되는 비용은?",
+      "answer": "한계비용",
+      "accepted": [
+        "한계비용"
+      ],
+      "choices": [
+        "한계비용",
+        "평균비용",
+        "총비용",
+        "고정비용"
+      ],
+      "hint": "추가 1단위의 비용입니다.",
+      "explanation": "정답은 ‘한계비용’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_013",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "hard",
+      "question": "경제 주체가 정보 차이를 이용해 거래 후 위험하게 행동하는 문제는?",
+      "answer": "도덕적 해이",
+      "accepted": [
+        "도덕적 해이"
+      ],
+      "choices": [
+        "도덕적 해이",
+        "역선택",
+        "외부경제",
+        "공공재"
+      ],
+      "hint": "보험 가입 후 주의가 줄어드는 사례입니다.",
+      "explanation": "정답은 ‘도덕적 해이’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_014",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "hard",
+      "question": "거래 전에 정보 부족으로 질 낮은 상품이나 위험한 상대가 선택되는 문제는?",
+      "answer": "역선택",
+      "accepted": [
+        "역선택"
+      ],
+      "choices": [
+        "역선택",
+        "도덕적 해이",
+        "독점",
+        "비교 우위"
+      ],
+      "hint": "정보 비대칭이 거래 전에 작용합니다.",
+      "explanation": "정답은 ‘역선택’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_015",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "hard",
+      "question": "어떤 행동이 제3자에게 보상 없는 이익을 주는 현상은?",
+      "answer": "긍정적 외부효과",
+      "accepted": [
+        "긍정적 외부효과"
+      ],
+      "choices": [
+        "긍정적 외부효과",
+        "부정적 외부효과",
+        "공공재",
+        "독점"
+      ],
+      "hint": "교육·예방접종 등이 예입니다.",
+      "explanation": "정답은 ‘긍정적 외부효과’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_016",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "expert",
+      "question": "명목 GDP 증가율이 8%, 물가상승률이 3%라면 단순 근사한 실질 GDP 증가율은?",
+      "answer": "약 5%",
+      "accepted": [
+        "약 5%"
+      ],
+      "choices": [
+        "약 5%",
+        "약 3%",
+        "약 8%",
+        "약 11%"
+      ],
+      "hint": "명목 증가율에서 물가상승률을 뺍니다.",
+      "explanation": "근사적으로 8%-3%=5%입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_017",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "expert",
+      "question": "중앙은행이 기준금리를 인상하면 일반적으로 기대되는 단기 효과는?",
+      "answer": "총수요 감소",
+      "accepted": [
+        "총수요 감소"
+      ],
+      "choices": [
+        "총수요 감소",
+        "총수요 증가",
+        "통화량 급증",
+        "대출 비용 하락"
+      ],
+      "hint": "차입 비용이 올라 소비와 투자가 둔화됩니다.",
+      "explanation": "정답은 ‘총수요 감소’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_018",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "expert",
+      "question": "자국 통화 가치가 하락하면 다른 조건이 같을 때 나타나기 쉬운 현상은?",
+      "answer": "수출 가격 경쟁력 상승",
+      "accepted": [
+        "수출 가격 경쟁력 상승"
+      ],
+      "choices": [
+        "수출 가격 경쟁력 상승",
+        "수입품 가격 하락",
+        "해외여행 비용 하락",
+        "수출 감소만 발생"
+      ],
+      "hint": "외국 통화 기준 자국 상품 가격이 낮아질 수 있습니다.",
+      "explanation": "정답은 ‘수출 가격 경쟁력 상승’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_019",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "expert",
+      "question": "로렌츠 곡선이 완전평등선에서 멀어질수록 일반적으로 무엇이 커지는가?",
+      "answer": "소득 불평등",
+      "accepted": [
+        "소득 불평등"
+      ],
+      "choices": [
+        "소득 불평등",
+        "소득 평등",
+        "경제성장률",
+        "고용률"
+      ],
+      "hint": "지니계수도 커지는 경향이 있습니다.",
+      "explanation": "정답은 ‘소득 불평등’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_020",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "expert",
+      "question": "정부가 경기 침체기에 지출을 늘리고 세금을 줄이는 정책은?",
+      "answer": "확장적 재정정책",
+      "accepted": [
+        "확장적 재정정책"
+      ],
+      "choices": [
+        "확장적 재정정책",
+        "긴축적 재정정책",
+        "긴축적 통화정책",
+        "보호무역정책"
+      ],
+      "hint": "총수요를 늘리는 방향입니다.",
+      "explanation": "정답은 ‘확장적 재정정책’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_021",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "master",
+      "question": "명목금리가 6%, 기대 인플레이션율이 4%일 때 피셔 근사에 따른 실질금리는?",
+      "answer": "약 2%",
+      "accepted": [
+        "약 2%"
+      ],
+      "choices": [
+        "약 2%",
+        "약 10%",
+        "약 4%",
+        "약 -2%"
+      ],
+      "hint": "실질금리≈명목금리-기대물가상승률.",
+      "explanation": "6%-4%=약 2%입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_022",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "master",
+      "question": "두 나라 모두 한 상품에서 절대우위를 가진 나라가 있어도 무역 이익이 가능한 핵심 이유는?",
+      "answer": "비교우위가 다르기 때문",
+      "accepted": [
+        "비교우위가 다르기 때문"
+      ],
+      "choices": [
+        "비교우위가 다르기 때문",
+        "절대우위가 같기 때문",
+        "운송비가 반드시 0이기 때문",
+        "화폐가 같기 때문"
+      ],
+      "hint": "상대적 기회비용을 비교합니다.",
+      "explanation": "정답은 ‘비교우위가 다르기 때문’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_023",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "master",
+      "question": "가격상한제가 균형가격보다 낮게 설정되면 일반적으로 발생하는 것은?",
+      "answer": "초과 수요",
+      "accepted": [
+        "초과 수요"
+      ],
+      "choices": [
+        "초과 수요",
+        "초과 공급",
+        "균형 유지",
+        "공급의 무한 증가"
+      ],
+      "hint": "낮은 가격에서 수요가 공급보다 많아집니다.",
+      "explanation": "정답은 ‘초과 수요’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_024",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "master",
+      "question": "부정적 외부효과를 내부화하기 위한 대표적 정책 수단은?",
+      "answer": "교정세 부과",
+      "accepted": [
+        "교정세 부과"
+      ],
+      "choices": [
+        "교정세 부과",
+        "생산 보조금 지급",
+        "가격상한제",
+        "수입관세 철폐"
+      ],
+      "hint": "사회적 비용을 가격에 반영합니다.",
+      "explanation": "정답은 ‘교정세 부과’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_social_025",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "master",
+      "question": "유동성 함정에서 통화정책의 효과가 약해지는 이유는?",
+      "answer": "금리가 매우 낮아 추가 통화가 현금으로 보유되기 때문",
+      "accepted": [
+        "금리가 매우 낮아 추가 통화가 현금으로 보유되기 때문"
+      ],
+      "choices": [
+        "금리가 매우 낮아 추가 통화가 현금으로 보유되기 때문",
+        "세율이 자동 상승하기 때문",
+        "수출이 법으로 금지되기 때문",
+        "노동공급이 사라지기 때문"
+      ],
+      "hint": "사람들이 채권보다 유동성을 선호합니다.",
+      "explanation": "정답은 ‘금리가 매우 낮아 추가 통화가 현금으로 보유되기 때문’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_001",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "easy",
+      "question": "물이 얼면 어떤 상태가 되는가?",
+      "answer": "고체",
+      "accepted": [
+        "고체"
+      ],
+      "choices": [
+        "고체",
+        "액체",
+        "기체",
+        "플라스마"
+      ],
+      "hint": "얼음의 상태입니다.",
+      "explanation": "정답은 ‘고체’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_002",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "easy",
+      "question": "물이 끓어 수증기가 되면 어떤 상태인가?",
+      "answer": "기체",
+      "accepted": [
+        "기체"
+      ],
+      "choices": [
+        "기체",
+        "고체",
+        "액체",
+        "용액"
+      ],
+      "hint": "모양과 부피가 일정하지 않습니다.",
+      "explanation": "정답은 ‘기체’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_003",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "easy",
+      "question": "식물이 빛을 이용해 양분을 만드는 과정은?",
+      "answer": "광합성",
+      "accepted": [
+        "광합성"
+      ],
+      "choices": [
+        "광합성",
+        "호흡",
+        "증발",
+        "응결"
+      ],
+      "hint": "잎에서 주로 일어납니다.",
+      "explanation": "정답은 ‘광합성’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_004",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "easy",
+      "question": "지구 주위를 도는 자연위성은?",
+      "answer": "달",
+      "accepted": [
+        "달"
+      ],
+      "choices": [
+        "달",
+        "태양",
+        "화성",
+        "금성"
+      ],
+      "hint": "밤하늘에서 볼 수 있습니다.",
+      "explanation": "정답은 ‘달’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_005",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "easy",
+      "question": "물체를 지구 중심 방향으로 끌어당기는 힘은?",
+      "answer": "중력",
+      "accepted": [
+        "중력"
+      ],
+      "choices": [
+        "중력",
+        "마찰력",
+        "탄성력",
+        "자기력"
+      ],
+      "hint": "물체가 아래로 떨어지는 원인입니다.",
+      "explanation": "정답은 ‘중력’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_006",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "normal",
+      "question": "액체가 표면에서 기체로 변하는 현상은?",
+      "answer": "증발",
+      "accepted": [
+        "증발"
+      ],
+      "choices": [
+        "증발",
+        "응결",
+        "융해",
+        "응고"
+      ],
+      "hint": "젖은 빨래가 마르는 현상입니다.",
+      "explanation": "정답은 ‘증발’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_007",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "normal",
+      "question": "기체가 액체로 변하는 현상은?",
+      "answer": "응결",
+      "accepted": [
+        "응결"
+      ],
+      "choices": [
+        "응결",
+        "증발",
+        "승화",
+        "융해"
+      ],
+      "hint": "차가운 컵 표면의 물방울입니다.",
+      "explanation": "정답은 ‘응결’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_008",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "normal",
+      "question": "전기가 흐르는 닫힌 길을 무엇이라 하는가?",
+      "answer": "전기 회로",
+      "accepted": [
+        "전기 회로"
+      ],
+      "choices": [
+        "전기 회로",
+        "자기장",
+        "도체",
+        "전지"
+      ],
+      "hint": "전지·전선·전구가 연결됩니다.",
+      "explanation": "정답은 ‘전기 회로’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_009",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "normal",
+      "question": "철을 끌어당기고 N극과 S극을 가진 물체는?",
+      "answer": "자석",
+      "accepted": [
+        "자석"
+      ],
+      "choices": [
+        "자석",
+        "전지",
+        "렌즈",
+        "프리즘"
+      ],
+      "hint": "극이 두 개 있습니다.",
+      "explanation": "정답은 ‘자석’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_010",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "normal",
+      "question": "생물이 살아가는 데 필요한 장소와 환경을 무엇이라 하는가?",
+      "answer": "서식지",
+      "accepted": [
+        "서식지"
+      ],
+      "choices": [
+        "서식지",
+        "먹이사슬",
+        "개체군",
+        "생태계"
+      ],
+      "hint": "먹이와 공간을 얻는 곳입니다.",
+      "explanation": "정답은 ‘서식지’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_011",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "hard",
+      "question": "태양 고도가 높을수록 같은 면적이 받는 태양 에너지는 일반적으로?",
+      "answer": "많아진다",
+      "accepted": [
+        "많아진다"
+      ],
+      "choices": [
+        "많아진다",
+        "적어진다",
+        "항상 같다",
+        "0이 된다"
+      ],
+      "hint": "빛이 더 수직에 가깝게 비춥니다.",
+      "explanation": "정답은 ‘많아진다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_012",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "hard",
+      "question": "직렬 회로에서 전구 하나가 끊어지면 다른 전구는 일반적으로?",
+      "answer": "모두 꺼진다",
+      "accepted": [
+        "모두 꺼진다"
+      ],
+      "choices": [
+        "모두 꺼진다",
+        "더 밝아진다",
+        "그대로 켜진다",
+        "색만 변한다"
+      ],
+      "hint": "전류가 흐르는 길이 끊깁니다.",
+      "explanation": "정답은 ‘모두 꺼진다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_013",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "hard",
+      "question": "병렬 회로에서 한 갈래의 전구가 끊어져도 다른 갈래 전구는?",
+      "answer": "켜질 수 있다",
+      "accepted": [
+        "켜질 수 있다"
+      ],
+      "choices": [
+        "켜질 수 있다",
+        "반드시 모두 꺼진다",
+        "폭발한다",
+        "전지가 사라진다"
+      ],
+      "hint": "전류 경로가 여러 갈래입니다.",
+      "explanation": "정답은 ‘켜질 수 있다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_014",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "hard",
+      "question": "먹이사슬에서 식물을 직접 먹는 동물은?",
+      "answer": "1차 소비자",
+      "accepted": [
+        "1차 소비자"
+      ],
+      "choices": [
+        "1차 소비자",
+        "생산자",
+        "분해자",
+        "최종 소비자"
+      ],
+      "hint": "초식동물이 대표적입니다.",
+      "explanation": "정답은 ‘1차 소비자’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_015",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "hard",
+      "question": "소금물에서 물만 증발시켜 소금을 얻는 분리 방법은?",
+      "answer": "증발",
+      "accepted": [
+        "증발"
+      ],
+      "choices": [
+        "증발",
+        "거름",
+        "자석 분리",
+        "체질"
+      ],
+      "hint": "용매를 날려 보냅니다.",
+      "explanation": "정답은 ‘증발’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_016",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "expert",
+      "question": "같은 물질의 양이 두 배가 되면 부피도 두 배가 될 때 밀도는?",
+      "answer": "변하지 않는다",
+      "accepted": [
+        "변하지 않는다"
+      ],
+      "choices": [
+        "변하지 않는다",
+        "두 배가 된다",
+        "절반이 된다",
+        "0이 된다"
+      ],
+      "hint": "밀도=질량/부피입니다.",
+      "explanation": "정답은 ‘변하지 않는다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_017",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "expert",
+      "question": "그림자가 가장 짧아지는 때는 일반적으로 태양 고도가 어떨 때인가?",
+      "answer": "가장 높을 때",
+      "accepted": [
+        "가장 높을 때"
+      ],
+      "choices": [
+        "가장 높을 때",
+        "가장 낮을 때",
+        "0도일 때",
+        "항상 같다"
+      ],
+      "hint": "빛이 수직에 가까울수록 짧습니다.",
+      "explanation": "정답은 ‘가장 높을 때’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_018",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "expert",
+      "question": "공기가 든 주사기의 입구를 막고 피스톤을 누르면 공기 부피는?",
+      "answer": "줄어든다",
+      "accepted": [
+        "줄어든다"
+      ],
+      "choices": [
+        "줄어든다",
+        "늘어난다",
+        "변하지 않는다",
+        "사라진다"
+      ],
+      "hint": "기체는 압축될 수 있습니다.",
+      "explanation": "정답은 ‘줄어든다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_019",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "expert",
+      "question": "같은 크기의 힘으로 접촉 면적을 줄이면 압력은?",
+      "answer": "커진다",
+      "accepted": [
+        "커진다"
+      ],
+      "choices": [
+        "커진다",
+        "작아진다",
+        "변하지 않는다",
+        "0이 된다"
+      ],
+      "hint": "압력=힘/면적입니다.",
+      "explanation": "정답은 ‘커진다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_020",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "expert",
+      "question": "물체가 물에 뜨려면 평균 밀도가 물보다 일반적으로 어떠해야 하는가?",
+      "answer": "작아야 한다",
+      "accepted": [
+        "작아야 한다"
+      ],
+      "choices": [
+        "작아야 한다",
+        "커야 한다",
+        "같을 수 없다",
+        "무조건 0이어야 한다"
+      ],
+      "hint": "밀도 차이가 뜨고 가라앉음을 좌우합니다.",
+      "explanation": "정답은 ‘작아야 한다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_021",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "master",
+      "question": "전지 두 개를 같은 방향으로 직렬 연결하면 전구 밝기는 전지 하나보다 일반적으로?",
+      "answer": "더 밝아진다",
+      "accepted": [
+        "더 밝아진다"
+      ],
+      "choices": [
+        "더 밝아진다",
+        "더 어두워진다",
+        "항상 꺼진다",
+        "색만 달라진다"
+      ],
+      "hint": "전압이 커집니다.",
+      "explanation": "정답은 ‘더 밝아진다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_022",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "master",
+      "question": "공기 저항을 무시하면 무거운 공과 가벼운 공을 같은 높이에서 놓았을 때 도착 시간은?",
+      "answer": "같다",
+      "accepted": [
+        "같다"
+      ],
+      "choices": [
+        "같다",
+        "무거운 공이 빠르다",
+        "가벼운 공이 빠르다",
+        "질량에 비례한다"
+      ],
+      "hint": "중력가속도는 질량과 무관합니다.",
+      "explanation": "정답은 ‘같다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_023",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "master",
+      "question": "온도가 같은 물 100mL와 200mL를 같은 세기로 가열하면 더 빨리 온도가 오르는 것은?",
+      "answer": "100mL",
+      "accepted": [
+        "100mL"
+      ],
+      "choices": [
+        "100mL",
+        "200mL",
+        "둘 다 항상 같다",
+        "판단 불가"
+      ],
+      "hint": "질량이 적을수록 같은 열에서 온도 변화가 큽니다.",
+      "explanation": "정답은 ‘100mL’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_024",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "master",
+      "question": "달의 모양이 약 한 달 주기로 바뀌어 보이는 주된 이유는?",
+      "answer": "달의 공전",
+      "accepted": [
+        "달의 공전"
+      ],
+      "choices": [
+        "달의 공전",
+        "달의 자전만",
+        "지구의 계절",
+        "태양의 크기 변화"
+      ],
+      "hint": "태양빛을 받는 달의 부분이 달라 보입니다.",
+      "explanation": "정답은 ‘달의 공전’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_science_025",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "master",
+      "question": "생태계에서 분해자가 사라지면 가장 직접적으로 쌓이기 쉬운 것은?",
+      "answer": "죽은 생물과 배설물",
+      "accepted": [
+        "죽은 생물과 배설물"
+      ],
+      "choices": [
+        "죽은 생물과 배설물",
+        "산소만",
+        "햇빛",
+        "물만"
+      ],
+      "hint": "유기물이 분해되지 않습니다.",
+      "explanation": "정답은 ‘죽은 생물과 배설물’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_001",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "easy",
+      "question": "물질을 이루는 기본 입자는?",
+      "answer": "원자",
+      "accepted": [
+        "원자"
+      ],
+      "choices": [
+        "원자",
+        "세포",
+        "분자만",
+        "이온만"
+      ],
+      "hint": "원자핵과 전자로 구성됩니다.",
+      "explanation": "정답은 ‘원자’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_002",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "easy",
+      "question": "둘 이상의 원자가 결합한 입자는?",
+      "answer": "분자",
+      "accepted": [
+        "분자"
+      ],
+      "choices": [
+        "분자",
+        "원소",
+        "세포",
+        "광자"
+      ],
+      "hint": "물질의 성질을 나타낼 수 있습니다.",
+      "explanation": "정답은 ‘분자’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_003",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "easy",
+      "question": "산성 용액의 pH는 일반적으로 7보다?",
+      "answer": "작다",
+      "accepted": [
+        "작다"
+      ],
+      "choices": [
+        "작다",
+        "크다",
+        "항상 같다",
+        "무한대다"
+      ],
+      "hint": "중성은 pH 7입니다.",
+      "explanation": "정답은 ‘작다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_004",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "easy",
+      "question": "세포에서 유전 정보를 저장하는 물질은?",
+      "answer": "DNA",
+      "accepted": [
+        "DNA"
+      ],
+      "choices": [
+        "DNA",
+        "ATP",
+        "물",
+        "포도당"
+      ],
+      "hint": "염색체의 주성분입니다.",
+      "explanation": "정답은 ‘DNA’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_005",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "easy",
+      "question": "지구 표면의 단단한 판들이 움직인다는 이론은?",
+      "answer": "판 구조론",
+      "accepted": [
+        "판 구조론"
+      ],
+      "choices": [
+        "판 구조론",
+        "천동설",
+        "자연선택설",
+        "세포설"
+      ],
+      "hint": "지진과 화산 분포를 설명합니다.",
+      "explanation": "정답은 ‘판 구조론’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_006",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "normal",
+      "question": "원자가 전자를 잃으면 주로 어떤 이온이 되는가?",
+      "answer": "양이온",
+      "accepted": [
+        "양이온"
+      ],
+      "choices": [
+        "양이온",
+        "음이온",
+        "중성자",
+        "분자"
+      ],
+      "hint": "음전하가 줄어 순전하가 양이 됩니다.",
+      "explanation": "정답은 ‘양이온’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_007",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "normal",
+      "question": "원자가 전자를 얻으면 주로 어떤 이온이 되는가?",
+      "answer": "음이온",
+      "accepted": [
+        "음이온"
+      ],
+      "choices": [
+        "음이온",
+        "양이온",
+        "양성자",
+        "원소"
+      ],
+      "hint": "음전하가 많아집니다.",
+      "explanation": "정답은 ‘음이온’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_008",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "normal",
+      "question": "힘의 단위는?",
+      "answer": "뉴턴",
+      "accepted": [
+        "뉴턴"
+      ],
+      "choices": [
+        "뉴턴",
+        "줄",
+        "와트",
+        "파스칼"
+      ],
+      "hint": "기호는 N입니다.",
+      "explanation": "정답은 ‘뉴턴’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_009",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "normal",
+      "question": "일률의 단위는?",
+      "answer": "와트",
+      "accepted": [
+        "와트"
+      ],
+      "choices": [
+        "와트",
+        "뉴턴",
+        "줄",
+        "볼트"
+      ],
+      "hint": "단위 시간당 일입니다.",
+      "explanation": "정답은 ‘와트’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_010",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "normal",
+      "question": "생물의 형질이 환경에 유리할수록 생존·번식 가능성이 높아지는 과정은?",
+      "answer": "자연선택",
+      "accepted": [
+        "자연선택"
+      ],
+      "choices": [
+        "자연선택",
+        "인공선택",
+        "광합성",
+        "감수분열"
+      ],
+      "hint": "진화의 주요 원리입니다.",
+      "explanation": "정답은 ‘자연선택’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_011",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "hard",
+      "question": "속력이 일정한 파동에서 진동수가 커지면 파장은?",
+      "answer": "짧아진다",
+      "accepted": [
+        "짧아진다"
+      ],
+      "choices": [
+        "짧아진다",
+        "길어진다",
+        "변하지 않는다",
+        "무한대가 된다"
+      ],
+      "hint": "파동 속력=진동수×파장.",
+      "explanation": "정답은 ‘짧아진다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_012",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "hard",
+      "question": "직렬 회로에서 전류의 크기는 회로 각 지점에서?",
+      "answer": "같다",
+      "accepted": [
+        "같다"
+      ],
+      "choices": [
+        "같다",
+        "점점 커진다",
+        "점점 작아진다",
+        "항상 0이다"
+      ],
+      "hint": "하나의 경로를 흐릅니다.",
+      "explanation": "정답은 ‘같다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_013",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "hard",
+      "question": "병렬 회로에서 각 갈래에 걸리는 전압은 전원 전압과?",
+      "answer": "같다",
+      "accepted": [
+        "같다"
+      ],
+      "choices": [
+        "같다",
+        "절반이다",
+        "두 배다",
+        "항상 0이다"
+      ],
+      "hint": "각 갈래가 전원 양단에 연결됩니다.",
+      "explanation": "정답은 ‘같다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_014",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "hard",
+      "question": "유전 형질을 결정하는 DNA의 특정 구간은?",
+      "answer": "유전자",
+      "accepted": [
+        "유전자"
+      ],
+      "choices": [
+        "유전자",
+        "세포막",
+        "리보솜",
+        "효소"
+      ],
+      "hint": "단백질 정보 등을 담습니다.",
+      "explanation": "정답은 ‘유전자’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_015",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "hard",
+      "question": "마그마가 식어 굳어 만들어지는 암석은?",
+      "answer": "화성암",
+      "accepted": [
+        "화성암"
+      ],
+      "choices": [
+        "화성암",
+        "퇴적암",
+        "변성암",
+        "석회암만"
+      ],
+      "hint": "화산암과 심성암으로 나뉩니다.",
+      "explanation": "정답은 ‘화성암’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_016",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "expert",
+      "question": "질량 2kg 물체에 6N의 알짜힘이 작용할 때 가속도는?",
+      "answer": "3m/s²",
+      "accepted": [
+        "3m/s²"
+      ],
+      "choices": [
+        "3m/s²",
+        "12m/s²",
+        "8m/s²",
+        "0.33m/s²"
+      ],
+      "hint": "F=ma.",
+      "explanation": "a=F/m=6/2=3m/s²입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_017",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "expert",
+      "question": "전압 12V, 저항 4Ω인 회로의 전류는?",
+      "answer": "3A",
+      "accepted": [
+        "3A"
+      ],
+      "choices": [
+        "3A",
+        "48A",
+        "8A",
+        "0.33A"
+      ],
+      "hint": "옴의 법칙 I=V/R.",
+      "explanation": "12/4=3A입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_018",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "expert",
+      "question": "멘델의 단성잡종 교배에서 완전우성이고 F1끼리 교배할 때 표현형 비는?",
+      "answer": "3:1",
+      "accepted": [
+        "3:1"
+      ],
+      "choices": [
+        "3:1",
+        "1:1",
+        "1:2:1",
+        "9:3:3:1"
+      ],
+      "hint": "Aa×Aa를 생각하세요.",
+      "explanation": "정답은 ‘3:1’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_019",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "expert",
+      "question": "밀도가 0.8g/cm³인 물체를 물에 넣으면 일반적으로?",
+      "answer": "뜬다",
+      "accepted": [
+        "뜬다"
+      ],
+      "choices": [
+        "뜬다",
+        "가라앉는다",
+        "중간에 반드시 정지",
+        "즉시 녹는다"
+      ],
+      "hint": "물의 밀도는 약 1g/cm³입니다.",
+      "explanation": "정답은 ‘뜬다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_020",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "expert",
+      "question": "지진파 중 액체 외핵을 통과하지 못하는 것은?",
+      "answer": "S파",
+      "accepted": [
+        "S파"
+      ],
+      "choices": [
+        "S파",
+        "P파",
+        "표면파 전체",
+        "전자기파"
+      ],
+      "hint": "전단파는 액체를 통과하지 못합니다.",
+      "explanation": "정답은 ‘S파’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_021",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "master",
+      "question": "등가속도 운동에서 초기속도 2m/s, 가속도 3m/s², 4초 후 속도는?",
+      "answer": "14m/s",
+      "accepted": [
+        "14m/s"
+      ],
+      "choices": [
+        "14m/s",
+        "8m/s",
+        "12m/s",
+        "20m/s"
+      ],
+      "hint": "v=v₀+at.",
+      "explanation": "2+3×4=14m/s입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_022",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "master",
+      "question": "저항 6Ω과 3Ω을 병렬 연결한 등가저항은?",
+      "answer": "2Ω",
+      "accepted": [
+        "2Ω"
+      ],
+      "choices": [
+        "2Ω",
+        "9Ω",
+        "4.5Ω",
+        "3Ω"
+      ],
+      "hint": "1/R=1/6+1/3.",
+      "explanation": "1/R=3/6이므로 R=2Ω입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_023",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "master",
+      "question": "pH 3 용액은 pH 5 용액보다 수소 이온 농도가 몇 배인가?",
+      "answer": "100배",
+      "accepted": [
+        "100배"
+      ],
+      "choices": [
+        "100배",
+        "2배",
+        "10배",
+        "1000배"
+      ],
+      "hint": "pH 한 단계는 10배 차이입니다.",
+      "explanation": "정답은 ‘100배’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_024",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "master",
+      "question": "광합성과 세포호흡에서 공통으로 ATP 합성에 관여하는 막 구조의 핵심 원리는?",
+      "answer": "양성자 농도 기울기",
+      "accepted": [
+        "양성자 농도 기울기"
+      ],
+      "choices": [
+        "양성자 농도 기울기",
+        "DNA 복제",
+        "삼투만",
+        "세포벽 합성"
+      ],
+      "hint": "화학삼투가 공통 원리입니다.",
+      "explanation": "정답은 ‘양성자 농도 기울기’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_science_025",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "master",
+      "question": "지구 내부에서 P파 속도가 외핵 경계에서 급격히 감소하는 주된 이유는?",
+      "answer": "고체 맨틀에서 액체 외핵으로 바뀌기 때문",
+      "accepted": [
+        "고체 맨틀에서 액체 외핵으로 바뀌기 때문"
+      ],
+      "choices": [
+        "고체 맨틀에서 액체 외핵으로 바뀌기 때문",
+        "온도가 갑자기 0도가 되기 때문",
+        "중력이 사라지기 때문",
+        "압력이 0이 되기 때문"
+      ],
+      "hint": "매질의 상태와 탄성 성질이 달라집니다.",
+      "explanation": "정답은 ‘고체 맨틀에서 액체 외핵으로 바뀌기 때문’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_001",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "easy",
+      "question": "힘이 질량과 가속도의 곱이라는 법칙은?",
+      "answer": "뉴턴 제2법칙",
+      "accepted": [
+        "뉴턴 제2법칙"
+      ],
+      "choices": [
+        "뉴턴 제2법칙",
+        "뉴턴 제1법칙",
+        "뉴턴 제3법칙",
+        "쿨롱 법칙"
+      ],
+      "hint": "F=ma입니다.",
+      "explanation": "정답은 ‘뉴턴 제2법칙’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_002",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "easy",
+      "question": "운동량의 식은?",
+      "answer": "질량×속도",
+      "accepted": [
+        "질량×속도"
+      ],
+      "choices": [
+        "질량×속도",
+        "질량×가속도",
+        "힘×속도",
+        "에너지÷시간"
+      ],
+      "hint": "p=mv입니다.",
+      "explanation": "정답은 ‘질량×속도’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_003",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "easy",
+      "question": "몰은 물질의 양을 나타내는 단위이며 1몰의 입자 수는 약?",
+      "answer": "6.02×10²³개",
+      "accepted": [
+        "6.02×10²³개"
+      ],
+      "choices": [
+        "6.02×10²³개",
+        "3.00×10⁸개",
+        "9.8개",
+        "1.60×10⁻¹⁹개"
+      ],
+      "hint": "아보가드로 수입니다.",
+      "explanation": "정답은 ‘6.02×10²³개’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_004",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "easy",
+      "question": "효소의 주된 역할은?",
+      "answer": "활성화 에너지를 낮춘다",
+      "accepted": [
+        "활성화 에너지를 낮춘다"
+      ],
+      "choices": [
+        "활성화 에너지를 낮춘다",
+        "평형상수를 바꾼다",
+        "반응열을 바꾼다",
+        "생성물을 없앤다"
+      ],
+      "hint": "반응 속도를 높입니다.",
+      "explanation": "정답은 ‘활성화 에너지를 낮춘다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_005",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "easy",
+      "question": "지구 대기에서 가장 많은 기체는?",
+      "answer": "질소",
+      "accepted": [
+        "질소"
+      ],
+      "choices": [
+        "질소",
+        "산소",
+        "이산화탄소",
+        "아르곤"
+      ],
+      "hint": "약 78%입니다.",
+      "explanation": "정답은 ‘질소’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_006",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "normal",
+      "question": "고립계에서 충돌 전후 보존되는 물리량은?",
+      "answer": "총운동량",
+      "accepted": [
+        "총운동량"
+      ],
+      "choices": [
+        "총운동량",
+        "각 물체의 속력",
+        "각 물체의 운동에너지 항상",
+        "각 물체의 힘"
+      ],
+      "hint": "외력이 없으면 보존됩니다.",
+      "explanation": "정답은 ‘총운동량’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_007",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "normal",
+      "question": "화학평형에서 온도만 일정할 때 평형상수를 바꾸는 요인은?",
+      "answer": "온도 변화",
+      "accepted": [
+        "온도 변화"
+      ],
+      "choices": [
+        "온도 변화",
+        "농도 변화",
+        "압력 변화",
+        "촉매 첨가"
+      ],
+      "hint": "평형상수는 온도에 의존합니다.",
+      "explanation": "정답은 ‘온도 변화’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_008",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "normal",
+      "question": "DNA에서 아데닌과 상보적으로 결합하는 염기는?",
+      "answer": "티민",
+      "accepted": [
+        "티민"
+      ],
+      "choices": [
+        "티민",
+        "구아닌",
+        "사이토신",
+        "유라실"
+      ],
+      "hint": "DNA의 A-T 결합입니다.",
+      "explanation": "정답은 ‘티민’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_009",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "normal",
+      "question": "감수분열의 생물학적 의의는?",
+      "answer": "염색체 수를 반으로 줄이고 유전적 다양성을 만든다",
+      "accepted": [
+        "염색체 수를 반으로 줄이고 유전적 다양성을 만든다"
+      ],
+      "choices": [
+        "염색체 수를 반으로 줄이고 유전적 다양성을 만든다",
+        "체세포 수만 늘린다",
+        "DNA를 없앤다",
+        "돌연변이를 완전히 막는다"
+      ],
+      "hint": "생식세포 형성과 관련됩니다.",
+      "explanation": "정답은 ‘염색체 수를 반으로 줄이고 유전적 다양성을 만든다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_010",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "normal",
+      "question": "해수면 기압에서 따뜻한 공기가 상승하면 주변 기압은 일반적으로?",
+      "answer": "낮아지기 쉽다",
+      "accepted": [
+        "낮아지기 쉽다"
+      ],
+      "choices": [
+        "낮아지기 쉽다",
+        "높아지기 쉽다",
+        "항상 같다",
+        "무조건 0이 된다"
+      ],
+      "hint": "상승 기류는 저기압과 관련됩니다.",
+      "explanation": "정답은 ‘낮아지기 쉽다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_011",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "hard",
+      "question": "속도-시간 그래프 아래 넓이는 무엇을 나타내는가?",
+      "answer": "변위",
+      "accepted": [
+        "변위"
+      ],
+      "choices": [
+        "변위",
+        "가속도",
+        "힘",
+        "운동량"
+      ],
+      "hint": "속도를 시간에 대해 적분합니다.",
+      "explanation": "정답은 ‘변위’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_012",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "hard",
+      "question": "완전탄성충돌에서 운동량과 함께 보존되는 것은?",
+      "answer": "운동에너지",
+      "accepted": [
+        "운동에너지"
+      ],
+      "choices": [
+        "운동에너지",
+        "각 물체 속도",
+        "충격량 0",
+        "질량비"
+      ],
+      "hint": "계의 총 운동에너지가 보존됩니다.",
+      "explanation": "정답은 ‘운동에너지’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_013",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "hard",
+      "question": "약산 HA의 해리 평형에서 물을 더 넣으면 해리도는 일반적으로?",
+      "answer": "증가한다",
+      "accepted": [
+        "증가한다"
+      ],
+      "choices": [
+        "증가한다",
+        "감소한다",
+        "변하지 않는다",
+        "0이 된다"
+      ],
+      "hint": "희석 시 약전해질 해리가 촉진됩니다.",
+      "explanation": "정답은 ‘증가한다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_014",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "hard",
+      "question": "상동염색체가 분리되는 시기는?",
+      "answer": "감수 제1분열",
+      "accepted": [
+        "감수 제1분열"
+      ],
+      "choices": [
+        "감수 제1분열",
+        "감수 제2분열",
+        "체세포분열 중기",
+        "DNA 복제기"
+      ],
+      "hint": "제1분열에서 상동염색체가 갈라집니다.",
+      "explanation": "정답은 ‘감수 제1분열’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_015",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "hard",
+      "question": "별의 스펙트럼에서 흡수선의 적색편이가 커졌다는 것은 일반적으로?",
+      "answer": "더 빠르게 멀어진다",
+      "accepted": [
+        "더 빠르게 멀어진다"
+      ],
+      "choices": [
+        "더 빠르게 멀어진다",
+        "더 빠르게 다가온다",
+        "온도가 반드시 낮다",
+        "질량이 0이다"
+      ],
+      "hint": "도플러 효과와 관련됩니다.",
+      "explanation": "정답은 ‘더 빠르게 멀어진다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_016",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "expert",
+      "question": "질량 2kg, 속력 3m/s인 물체의 운동에너지는?",
+      "answer": "9J",
+      "accepted": [
+        "9J"
+      ],
+      "choices": [
+        "9J",
+        "6J",
+        "12J",
+        "18J"
+      ],
+      "hint": "K=½mv².",
+      "explanation": "0.5×2×9=9J입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_017",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "expert",
+      "question": "용액 1L에 NaCl 0.5몰이 완전히 녹아 있을 때 몰농도는?",
+      "answer": "0.5M",
+      "accepted": [
+        "0.5M"
+      ],
+      "choices": [
+        "0.5M",
+        "2M",
+        "1.5M",
+        "0.05M"
+      ],
+      "hint": "몰농도=몰수/부피(L).",
+      "explanation": "정답은 ‘0.5M’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_018",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "expert",
+      "question": "AaBb×aabb 검정교배에서 두 유전자가 독립이면 표현형 비는?",
+      "answer": "1:1:1:1",
+      "accepted": [
+        "1:1:1:1"
+      ],
+      "choices": [
+        "1:1:1:1",
+        "9:3:3:1",
+        "3:1",
+        "1:2:1"
+      ],
+      "hint": "AaBb가 네 종류 배우자를 같은 비율로 만듭니다.",
+      "explanation": "정답은 ‘1:1:1:1’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_019",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "expert",
+      "question": "온실효과가 없다고 가정한 지구의 복사평형 온도가 실제 평균보다 낮은 이유는?",
+      "answer": "대기가 지표의 적외선을 흡수·재복사하기 때문",
+      "accepted": [
+        "대기가 지표의 적외선을 흡수·재복사하기 때문"
+      ],
+      "choices": [
+        "대기가 지표의 적외선을 흡수·재복사하기 때문",
+        "태양이 가시광선을 내지 않기 때문",
+        "지구가 자전하지 않기 때문",
+        "달의 중력이 없기 때문"
+      ],
+      "hint": "온실기체의 장파복사 작용입니다.",
+      "explanation": "정답은 ‘대기가 지표의 적외선을 흡수·재복사하기 때문’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_020",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "expert",
+      "question": "단진자에서 작은 진폭일 때 주기를 늘리는 방법은?",
+      "answer": "줄의 길이를 늘린다",
+      "accepted": [
+        "줄의 길이를 늘린다"
+      ],
+      "choices": [
+        "줄의 길이를 늘린다",
+        "추의 질량을 늘린다",
+        "진폭을 조금 줄인다",
+        "추의 색을 바꾼다"
+      ],
+      "hint": "T=2π√(L/g)입니다.",
+      "explanation": "정답은 ‘줄의 길이를 늘린다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_021",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "master",
+      "question": "1차원 무한 퍼텐셜 우물에서 입자의 바닥상태 에너지가 우물 폭 L에 따라 변하는 비례 관계는?",
+      "answer": "1/L²",
+      "accepted": [
+        "1/L²"
+      ],
+      "choices": [
+        "1/L²",
+        "L²",
+        "1/L",
+        "L"
+      ],
+      "hint": "에너지는 n²/L²에 비례합니다.",
+      "explanation": "정답은 ‘1/L²’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_022",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "master",
+      "question": "완충용액에 소량의 강산을 넣을 때 pH 변화가 작은 핵심 이유는?",
+      "answer": "짝염기가 첨가된 H⁺를 소모하기 때문",
+      "accepted": [
+        "짝염기가 첨가된 H⁺를 소모하기 때문"
+      ],
+      "choices": [
+        "짝염기가 첨가된 H⁺를 소모하기 때문",
+        "물이 모두 증발하기 때문",
+        "평형상수가 0이 되기 때문",
+        "강산이 침전되기 때문"
+      ],
+      "hint": "약산-짝염기 평형이 변화를 완화합니다.",
+      "explanation": "정답은 ‘짝염기가 첨가된 H⁺를 소모하기 때문’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_023",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "master",
+      "question": "미토콘드리아 내막의 양성자 농도 기울기가 사라지면 가장 직접적으로 감소하는 것은?",
+      "answer": "산화적 인산화에 의한 ATP 합성",
+      "accepted": [
+        "산화적 인산화에 의한 ATP 합성"
+      ],
+      "choices": [
+        "산화적 인산화에 의한 ATP 합성",
+        "DNA 염기서열",
+        "세포막 인지질 수",
+        "핵의 크기"
+      ],
+      "hint": "ATP 합성효소의 구동력이 사라집니다.",
+      "explanation": "정답은 ‘산화적 인산화에 의한 ATP 합성’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_024",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "master",
+      "question": "별의 질량이 클수록 주계열 수명이 짧은 주된 이유는?",
+      "answer": "핵융합 연료를 훨씬 빠르게 소비하기 때문",
+      "accepted": [
+        "핵융합 연료를 훨씬 빠르게 소비하기 때문"
+      ],
+      "choices": [
+        "핵융합 연료를 훨씬 빠르게 소비하기 때문",
+        "수소가 전혀 없기 때문",
+        "중력이 약하기 때문",
+        "표면 온도가 항상 낮기 때문"
+      ],
+      "hint": "광도가 질량보다 훨씬 빠르게 증가합니다.",
+      "explanation": "정답은 ‘핵융합 연료를 훨씬 빠르게 소비하기 때문’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_science_025",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "master",
+      "question": "회전하는 계에서 외부 토크가 0일 때 반지름이 줄어들면 각속도가 증가하는 이유는?",
+      "answer": "각운동량 보존",
+      "accepted": [
+        "각운동량 보존"
+      ],
+      "choices": [
+        "각운동량 보존",
+        "선운동량 소멸",
+        "에너지 비보존",
+        "질량 증가"
+      ],
+      "hint": "L=Iω가 일정합니다.",
+      "explanation": "정답은 ‘각운동량 보존’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_001",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "easy",
+      "question": "27+35의 값은?",
+      "answer": "62",
+      "accepted": [
+        "62"
+      ],
+      "choices": [
+        "62",
+        "52",
+        "72",
+        "82"
+      ],
+      "hint": "일의 자리부터 더하세요.",
+      "explanation": "27+35=62입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_002",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "easy",
+      "question": "90-47의 값은?",
+      "answer": "43",
+      "accepted": [
+        "43"
+      ],
+      "choices": [
+        "43",
+        "33",
+        "53",
+        "57"
+      ],
+      "hint": "받아내림을 이용하세요.",
+      "explanation": "90-47=43입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_003",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "easy",
+      "question": "8×7의 값은?",
+      "answer": "56",
+      "accepted": [
+        "56"
+      ],
+      "choices": [
+        "56",
+        "48",
+        "54",
+        "64"
+      ],
+      "hint": "구구단 8단입니다.",
+      "explanation": "8×7=56입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_004",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "easy",
+      "question": "72÷8의 값은?",
+      "answer": "9",
+      "accepted": [
+        "9"
+      ],
+      "choices": [
+        "9",
+        "8",
+        "7",
+        "6"
+      ],
+      "hint": "8×9=72입니다.",
+      "explanation": "72÷8=9입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_005",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "easy",
+      "question": "3,405에서 백의 자리 숫자는?",
+      "answer": "4",
+      "accepted": [
+        "4"
+      ],
+      "choices": [
+        "4",
+        "3",
+        "0",
+        "5"
+      ],
+      "hint": "천-백-십-일의 자리를 확인하세요.",
+      "explanation": "3,405의 백의 자리 숫자는 4입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_006",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "normal",
+      "question": "1/2과 같은 분수는?",
+      "answer": "2/4",
+      "accepted": [
+        "2/4"
+      ],
+      "choices": [
+        "2/4",
+        "1/3",
+        "3/4",
+        "2/3"
+      ],
+      "hint": "분자와 분모에 같은 수를 곱합니다.",
+      "explanation": "1/2=2/4입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_007",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "normal",
+      "question": "0.7을 분수로 나타내면?",
+      "answer": "7/10",
+      "accepted": [
+        "7/10"
+      ],
+      "choices": [
+        "7/10",
+        "7/100",
+        "1/7",
+        "70/1"
+      ],
+      "hint": "소수 첫째 자리는 10분의 몇입니다.",
+      "explanation": "0.7=7/10입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_008",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "normal",
+      "question": "가로 8cm, 세로 5cm 직사각형의 둘레는?",
+      "answer": "26cm",
+      "accepted": [
+        "26cm"
+      ],
+      "choices": [
+        "26cm",
+        "13cm",
+        "40cm",
+        "20cm"
+      ],
+      "hint": "둘레=2×(가로+세로).",
+      "explanation": "2×(8+5)=26cm입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_009",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "normal",
+      "question": "2시간 35분은 모두 몇 분인가?",
+      "answer": "155분",
+      "accepted": [
+        "155분"
+      ],
+      "choices": [
+        "155분",
+        "135분",
+        "145분",
+        "165분"
+      ],
+      "hint": "1시간은 60분입니다.",
+      "explanation": "120+35=155분입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_010",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "normal",
+      "question": "24와 36의 최대공약수는?",
+      "answer": "12",
+      "accepted": [
+        "12"
+      ],
+      "choices": [
+        "12",
+        "6",
+        "8",
+        "18"
+      ],
+      "hint": "두 수의 공약수 중 가장 큰 수입니다.",
+      "explanation": "24와 36의 최대공약수는 12입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_011",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "hard",
+      "question": "3/4+1/8의 값은?",
+      "answer": "7/8",
+      "accepted": [
+        "7/8"
+      ],
+      "choices": [
+        "7/8",
+        "4/12",
+        "5/8",
+        "1"
+      ],
+      "hint": "공통분모를 8로 맞추세요.",
+      "explanation": "3/4=6/8, 따라서 7/8입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_012",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "hard",
+      "question": "2.5×4의 값은?",
+      "answer": "10",
+      "accepted": [
+        "10"
+      ],
+      "choices": [
+        "10",
+        "1",
+        "6.5",
+        "100"
+      ],
+      "hint": "25×4 후 소수점을 생각하세요.",
+      "explanation": "2.5×4=10입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_013",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "hard",
+      "question": "가로 12cm, 세로 7cm 직사각형의 넓이는?",
+      "answer": "84cm²",
+      "accepted": [
+        "84cm²"
+      ],
+      "choices": [
+        "84cm²",
+        "38cm²",
+        "19cm²",
+        "96cm²"
+      ],
+      "hint": "넓이=가로×세로.",
+      "explanation": "12×7=84cm²입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_014",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "hard",
+      "question": "5, 7, 8, 10의 평균은?",
+      "answer": "7.5",
+      "accepted": [
+        "7.5"
+      ],
+      "choices": [
+        "7.5",
+        "7",
+        "8",
+        "30"
+      ],
+      "hint": "합을 개수 4로 나누세요.",
+      "explanation": "합 30÷4=7.5입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_015",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "hard",
+      "question": "어떤 수의 25%가 20일 때 그 수는?",
+      "answer": "80",
+      "accepted": [
+        "80"
+      ],
+      "choices": [
+        "80",
+        "40",
+        "60",
+        "100"
+      ],
+      "hint": "25%는 1/4입니다.",
+      "explanation": "20×4=80입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_016",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "expert",
+      "question": "사과 48개를 6명에게 똑같이 나누고 각자 2개씩 먹었다. 남은 사과는?",
+      "answer": "36개",
+      "accepted": [
+        "36개"
+      ],
+      "choices": [
+        "36개",
+        "24개",
+        "40개",
+        "12개"
+      ],
+      "hint": "먼저 한 사람당 받은 수를 구하세요.",
+      "explanation": "한 사람당 8개, 2개씩 먹어 총 12개를 먹으므로 36개입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_017",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "expert",
+      "question": "한 변 9cm인 정사각형 2개의 넓이 합은?",
+      "answer": "162cm²",
+      "accepted": [
+        "162cm²"
+      ],
+      "choices": [
+        "162cm²",
+        "81cm²",
+        "36cm²",
+        "324cm²"
+      ],
+      "hint": "정사각형 넓이는 한 변²입니다.",
+      "explanation": "9²×2=162cm²입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_018",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "expert",
+      "question": "3km 250m에서 1km 875m를 빼면?",
+      "answer": "1km 375m",
+      "accepted": [
+        "1km 375m"
+      ],
+      "choices": [
+        "1km 375m",
+        "1km 425m",
+        "2km 375m",
+        "1km 475m"
+      ],
+      "hint": "m로 바꾼 뒤 계산하세요.",
+      "explanation": "3250-1875=1375m입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_019",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "expert",
+      "question": "120쪽 책을 첫날 35쪽, 둘째 날 28쪽 읽었다. 남은 쪽수는?",
+      "answer": "57쪽",
+      "accepted": [
+        "57쪽"
+      ],
+      "choices": [
+        "57쪽",
+        "63쪽",
+        "67쪽",
+        "47쪽"
+      ],
+      "hint": "읽은 쪽수를 먼저 더하세요.",
+      "explanation": "120-(35+28)=57쪽입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_020",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "expert",
+      "question": "빨간 구슬과 파란 구슬의 비가 3:5이고 모두 40개라면 빨간 구슬은?",
+      "answer": "15개",
+      "accepted": [
+        "15개"
+      ],
+      "choices": [
+        "15개",
+        "20개",
+        "24개",
+        "25개"
+      ],
+      "hint": "전체 비는 8입니다.",
+      "explanation": "40÷8×3=15개입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_021",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "master",
+      "question": "1부터 100까지 자연수 중 3의 배수는 몇 개인가?",
+      "answer": "33개",
+      "accepted": [
+        "33개"
+      ],
+      "choices": [
+        "33개",
+        "30개",
+        "34개",
+        "36개"
+      ],
+      "hint": "100을 3으로 나눈 몫을 보세요.",
+      "explanation": "⌊100/3⌋=33개입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_022",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "master",
+      "question": "분모가 12이고 2/3과 같은 분수의 분자는?",
+      "answer": "8",
+      "accepted": [
+        "8"
+      ],
+      "choices": [
+        "8",
+        "6",
+        "9",
+        "10"
+      ],
+      "hint": "3에 4를 곱해 12를 만듭니다.",
+      "explanation": "2×4=8입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_023",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "master",
+      "question": "한 변이 10cm인 정사각형에서 한 변 4cm 정사각형을 잘라냈다. 남은 넓이는?",
+      "answer": "84cm²",
+      "accepted": [
+        "84cm²"
+      ],
+      "choices": [
+        "84cm²",
+        "60cm²",
+        "96cm²",
+        "16cm²"
+      ],
+      "hint": "큰 넓이에서 작은 넓이를 빼세요.",
+      "explanation": "100-16=84cm²입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_024",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "master",
+      "question": "시속 60km로 2시간 30분 이동한 거리는?",
+      "answer": "150km",
+      "accepted": [
+        "150km"
+      ],
+      "choices": [
+        "150km",
+        "120km",
+        "130km",
+        "180km"
+      ],
+      "hint": "30분은 0.5시간입니다.",
+      "explanation": "60×2.5=150km입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_math_025",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "master",
+      "question": "연속한 세 자연수의 합이 72일 때 가운데 수는?",
+      "answer": "24",
+      "accepted": [
+        "24"
+      ],
+      "choices": [
+        "24",
+        "23",
+        "25",
+        "26"
+      ],
+      "hint": "가운데 수의 3배가 합입니다.",
+      "explanation": "72÷3=24입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_001",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "easy",
+      "question": "-7+12의 값은?",
+      "answer": "5",
+      "accepted": [
+        "5"
+      ],
+      "choices": [
+        "5",
+        "-5",
+        "19",
+        "-19"
+      ],
+      "hint": "수직선에서 오른쪽으로 12만큼 이동합니다.",
+      "explanation": "-7+12=5입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_002",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "easy",
+      "question": "3x=21일 때 x는?",
+      "answer": "7",
+      "accepted": [
+        "7"
+      ],
+      "choices": [
+        "7",
+        "6",
+        "8",
+        "18"
+      ],
+      "hint": "양변을 3으로 나누세요.",
+      "explanation": "x=7입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_003",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "easy",
+      "question": "2³×2²의 값은?",
+      "answer": "32",
+      "accepted": [
+        "32"
+      ],
+      "choices": [
+        "32",
+        "16",
+        "64",
+        "8"
+      ],
+      "hint": "같은 밑의 곱은 지수를 더합니다.",
+      "explanation": "2⁵=32입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_004",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "easy",
+      "question": "√81의 양의 값은?",
+      "answer": "9",
+      "accepted": [
+        "9"
+      ],
+      "choices": [
+        "9",
+        "8",
+        "-9",
+        "81"
+      ],
+      "hint": "9²=81입니다.",
+      "explanation": "√81=9입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_005",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "easy",
+      "question": "삼각형의 내각의 합은?",
+      "answer": "180°",
+      "accepted": [
+        "180°"
+      ],
+      "choices": [
+        "180°",
+        "90°",
+        "270°",
+        "360°"
+      ],
+      "hint": "어떤 삼각형도 같습니다.",
+      "explanation": "180°입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_006",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "normal",
+      "question": "2x+5=17일 때 x는?",
+      "answer": "6",
+      "accepted": [
+        "6"
+      ],
+      "choices": [
+        "6",
+        "5",
+        "7",
+        "11"
+      ],
+      "hint": "5를 빼고 2로 나누세요.",
+      "explanation": "2x=12이므로 x=6입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_007",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "normal",
+      "question": "(a+b)²의 전개식은?",
+      "answer": "a²+2ab+b²",
+      "accepted": [
+        "a²+2ab+b²"
+      ],
+      "choices": [
+        "a²+2ab+b²",
+        "a²+b²",
+        "a²-ab+b²",
+        "2a²+2b²"
+      ],
+      "hint": "가운데 항은 2ab입니다.",
+      "explanation": "(a+b)²=a²+2ab+b²입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_008",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "normal",
+      "question": "기울기가 3이고 y절편이 -2인 직선의 식은?",
+      "answer": "y=3x-2",
+      "accepted": [
+        "y=3x-2"
+      ],
+      "choices": [
+        "y=3x-2",
+        "y=-2x+3",
+        "y=3x+2",
+        "y=x-6"
+      ],
+      "hint": "y=mx+b를 사용하세요.",
+      "explanation": "y=3x-2입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_009",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "normal",
+      "question": "자료 2,4,4,6,9의 최빈값은?",
+      "answer": "4",
+      "accepted": [
+        "4"
+      ],
+      "choices": [
+        "4",
+        "2",
+        "5",
+        "9"
+      ],
+      "hint": "가장 자주 나온 값입니다.",
+      "explanation": "4가 두 번으로 가장 많습니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_010",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "normal",
+      "question": "주사위 1개를 던져 짝수가 나올 확률은?",
+      "answer": "1/2",
+      "accepted": [
+        "1/2"
+      ],
+      "choices": [
+        "1/2",
+        "1/3",
+        "2/3",
+        "1/6"
+      ],
+      "hint": "짝수는 2,4,6입니다.",
+      "explanation": "3/6=1/2입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_011",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "hard",
+      "question": "연립방정식 x+y=7, x-y=1의 해에서 x는?",
+      "answer": "4",
+      "accepted": [
+        "4"
+      ],
+      "choices": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "hint": "두 식을 더하세요.",
+      "explanation": "2x=8이므로 x=4입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_012",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "hard",
+      "question": "x²-5x+6을 인수분해하면?",
+      "answer": "(x-2)(x-3)",
+      "accepted": [
+        "(x-2)(x-3)"
+      ],
+      "choices": [
+        "(x-2)(x-3)",
+        "(x+2)(x+3)",
+        "(x-1)(x-6)",
+        "(x+2)(x-3)"
+      ],
+      "hint": "합이 5, 곱이 6인 두 수입니다.",
+      "explanation": "(x-2)(x-3)입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_013",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "hard",
+      "question": "직각삼각형 두 변이 6,8일 때 빗변은?",
+      "answer": "10",
+      "accepted": [
+        "10"
+      ],
+      "choices": [
+        "10",
+        "12",
+        "14",
+        "7"
+      ],
+      "hint": "피타고라스 정리를 사용하세요.",
+      "explanation": "√(36+64)=10입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_014",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "hard",
+      "question": "반지름 5인 원의 넓이는?",
+      "answer": "25π",
+      "accepted": [
+        "25π"
+      ],
+      "choices": [
+        "25π",
+        "10π",
+        "20π",
+        "5π"
+      ],
+      "hint": "πr²입니다.",
+      "explanation": "π×5²=25π입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_015",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "hard",
+      "question": "일차함수 y=-2x+5에서 x=3일 때 y는?",
+      "answer": "-1",
+      "accepted": [
+        "-1"
+      ],
+      "choices": [
+        "-1",
+        "1",
+        "11",
+        "-6"
+      ],
+      "hint": "x에 3을 대입하세요.",
+      "explanation": "-6+5=-1입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_016",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "expert",
+      "question": "이차방정식 x²-7x+10=0의 두 근의 합은?",
+      "answer": "7",
+      "accepted": [
+        "7"
+      ],
+      "choices": [
+        "7",
+        "10",
+        "-7",
+        "-10"
+      ],
+      "hint": "근과 계수 관계를 이용하세요.",
+      "explanation": "두 근의 합은 7입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_017",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "expert",
+      "question": "등차수열 3,7,11,…의 20번째 항은?",
+      "answer": "79",
+      "accepted": [
+        "79"
+      ],
+      "choices": [
+        "79",
+        "76",
+        "80",
+        "83"
+      ],
+      "hint": "aₙ=a₁+(n-1)d.",
+      "explanation": "3+19×4=79입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_018",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "expert",
+      "question": "두 점 (1,2),(5,10)을 지나는 직선의 기울기는?",
+      "answer": "2",
+      "accepted": [
+        "2"
+      ],
+      "choices": [
+        "2",
+        "1/2",
+        "3",
+        "8"
+      ],
+      "hint": "(10-2)/(5-1).",
+      "explanation": "8/4=2입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_019",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "expert",
+      "question": "상자에 빨간 공 3개, 파란 공 2개가 있다. 1개 뽑을 때 파란 공 확률은?",
+      "answer": "2/5",
+      "accepted": [
+        "2/5"
+      ],
+      "choices": [
+        "2/5",
+        "3/5",
+        "1/2",
+        "2/3"
+      ],
+      "hint": "전체 5개 중 파란 공 2개입니다.",
+      "explanation": "2/5입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_020",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "expert",
+      "question": "부채꼴 중심각 72°, 반지름 10일 때 호의 길이는?",
+      "answer": "4π",
+      "accepted": [
+        "4π"
+      ],
+      "choices": [
+        "4π",
+        "5π",
+        "10π",
+        "20π"
+      ],
+      "hint": "2πr×72/360.",
+      "explanation": "20π×1/5=4π입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_021",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "master",
+      "question": "x+1/x=3일 때 x²+1/x²의 값은?",
+      "answer": "7",
+      "accepted": [
+        "7"
+      ],
+      "choices": [
+        "7",
+        "5",
+        "9",
+        "11"
+      ],
+      "hint": "양변을 제곱하고 2를 빼세요.",
+      "explanation": "9= x²+2+1/x², 따라서 7입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_022",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "master",
+      "question": "함수 y=x²-4x+1의 최솟값은?",
+      "answer": "-3",
+      "accepted": [
+        "-3"
+      ],
+      "choices": [
+        "-3",
+        "-4",
+        "1",
+        "3"
+      ],
+      "hint": "완전제곱식으로 바꾸세요.",
+      "explanation": "(x-2)²-3이므로 최솟값 -3입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_023",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "master",
+      "question": "1부터 50까지 자연수 중 2 또는 3의 배수 개수는?",
+      "answer": "33개",
+      "accepted": [
+        "33개"
+      ],
+      "choices": [
+        "33개",
+        "25개",
+        "41개",
+        "16개"
+      ],
+      "hint": "포함배제 원리를 사용하세요.",
+      "explanation": "25+16-8=33개입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_024",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "master",
+      "question": "정육각형의 한 내각의 크기는?",
+      "answer": "120°",
+      "accepted": [
+        "120°"
+      ],
+      "choices": [
+        "120°",
+        "108°",
+        "135°",
+        "144°"
+      ],
+      "hint": "정다각형 내각 공식입니다.",
+      "explanation": "(6-2)×180/6=120°입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_math_025",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "master",
+      "question": "두 수의 평균이 12이고 차가 8일 때 큰 수는?",
+      "answer": "16",
+      "accepted": [
+        "16"
+      ],
+      "choices": [
+        "16",
+        "14",
+        "18",
+        "20"
+      ],
+      "hint": "합은 24, 연립해 보세요.",
+      "explanation": "큰 수 16, 작은 수 8입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_001",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "easy",
+      "question": "이차방정식 x²-5x+6=0의 두 근은?",
+      "answer": "2와 3",
+      "accepted": [
+        "2와 3"
+      ],
+      "choices": [
+        "2와 3",
+        "1과 6",
+        "-2와 -3",
+        "2와 -3"
+      ],
+      "hint": "인수분해하세요.",
+      "explanation": "(x-2)(x-3)=0입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_002",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "easy",
+      "question": "log₂8의 값은?",
+      "answer": "3",
+      "accepted": [
+        "3"
+      ],
+      "choices": [
+        "3",
+        "2",
+        "4",
+        "8"
+      ],
+      "hint": "2의 몇 제곱이 8인지 생각하세요.",
+      "explanation": "2³=8이므로 3입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_003",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "easy",
+      "question": "sin 30°의 값은?",
+      "answer": "1/2",
+      "accepted": [
+        "1/2"
+      ],
+      "choices": [
+        "1/2",
+        "√3/2",
+        "1",
+        "0"
+      ],
+      "hint": "특수각 값입니다.",
+      "explanation": "sin30°=1/2입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_004",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "easy",
+      "question": "등비수열 2,6,18,…의 공비는?",
+      "answer": "3",
+      "accepted": [
+        "3"
+      ],
+      "choices": [
+        "3",
+        "2",
+        "4",
+        "6"
+      ],
+      "hint": "뒤 항을 앞 항으로 나누세요.",
+      "explanation": "6/2=3입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_005",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "easy",
+      "question": "함수 f(x)=2x+1에서 f(3)은?",
+      "answer": "7",
+      "accepted": [
+        "7"
+      ],
+      "choices": [
+        "7",
+        "6",
+        "5",
+        "8"
+      ],
+      "hint": "x=3을 대입하세요.",
+      "explanation": "2×3+1=7입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_006",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "normal",
+      "question": "이차함수 y=x²-6x+5의 꼭짓점 x좌표는?",
+      "answer": "3",
+      "accepted": [
+        "3"
+      ],
+      "choices": [
+        "3",
+        "-3",
+        "5",
+        "6"
+      ],
+      "hint": "-b/2a를 사용하세요.",
+      "explanation": "6/2=3입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_007",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "normal",
+      "question": "수열 aₙ=3n-1의 10번째 항은?",
+      "answer": "29",
+      "accepted": [
+        "29"
+      ],
+      "choices": [
+        "29",
+        "30",
+        "27",
+        "31"
+      ],
+      "hint": "n=10을 대입하세요.",
+      "explanation": "30-1=29입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_008",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "normal",
+      "question": "cos 60°의 값은?",
+      "answer": "1/2",
+      "accepted": [
+        "1/2"
+      ],
+      "choices": [
+        "1/2",
+        "√3/2",
+        "0",
+        "1"
+      ],
+      "hint": "특수각 값입니다.",
+      "explanation": "cos60°=1/2입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_009",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "normal",
+      "question": "2ˣ=16일 때 x는?",
+      "answer": "4",
+      "accepted": [
+        "4"
+      ],
+      "choices": [
+        "4",
+        "2",
+        "8",
+        "16"
+      ],
+      "hint": "16=2⁴입니다.",
+      "explanation": "x=4입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_010",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "normal",
+      "question": "집합 A={1,2,3}, B={2,3,4}일 때 A∩B는?",
+      "answer": "{2,3}",
+      "accepted": [
+        "{2,3}"
+      ],
+      "choices": [
+        "{2,3}",
+        "{1,4}",
+        "{1,2,3,4}",
+        "{2,4}"
+      ],
+      "hint": "공통 원소를 찾으세요.",
+      "explanation": "교집합은 {2,3}입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_011",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "hard",
+      "question": "이차방정식 2x²-3x-2=0의 양의 근은?",
+      "answer": "2",
+      "accepted": [
+        "2"
+      ],
+      "choices": [
+        "2",
+        "1/2",
+        "-2",
+        "-1/2"
+      ],
+      "hint": "인수분해 (2x+1)(x-2).",
+      "explanation": "양의 근은 2입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_012",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "hard",
+      "question": "lim(x→2)(x²-4)/(x-2)의 값은?",
+      "answer": "4",
+      "accepted": [
+        "4"
+      ],
+      "choices": [
+        "4",
+        "0",
+        "2",
+        "존재하지 않음"
+      ],
+      "hint": "분자를 인수분해하세요.",
+      "explanation": "x+2로 약분 후 4입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_013",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "hard",
+      "question": "함수 f(x)=x³의 x=2에서 미분계수는?",
+      "answer": "12",
+      "accepted": [
+        "12"
+      ],
+      "choices": [
+        "12",
+        "6",
+        "8",
+        "4"
+      ],
+      "hint": "f'(x)=3x².",
+      "explanation": "3×4=12입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_014",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "hard",
+      "question": "등비수열 첫항 3, 공비 2의 6번째 항은?",
+      "answer": "96",
+      "accepted": [
+        "96"
+      ],
+      "choices": [
+        "96",
+        "48",
+        "192",
+        "64"
+      ],
+      "hint": "a₆=3×2⁵.",
+      "explanation": "96입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_015",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "hard",
+      "question": "tan 45°의 값은?",
+      "answer": "1",
+      "accepted": [
+        "1"
+      ],
+      "choices": [
+        "1",
+        "0",
+        "√3",
+        "1/√3"
+      ],
+      "hint": "특수각 값입니다.",
+      "explanation": "tan45°=1입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_016",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "expert",
+      "question": "함수 f(x)=x²eˣ의 도함수는?",
+      "answer": "eˣ(x²+2x)",
+      "accepted": [
+        "eˣ(x²+2x)"
+      ],
+      "choices": [
+        "eˣ(x²+2x)",
+        "2xeˣ",
+        "x²eˣ",
+        "eˣ(x²-2x)"
+      ],
+      "hint": "곱의 미분법을 쓰세요.",
+      "explanation": "f'=2xeˣ+x²eˣ=eˣ(x²+2x).",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_017",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "expert",
+      "question": "∫₀¹ 3x² dx의 값은?",
+      "answer": "1",
+      "accepted": [
+        "1"
+      ],
+      "choices": [
+        "1",
+        "3",
+        "1/3",
+        "0"
+      ],
+      "hint": "원시함수는 x³입니다.",
+      "explanation": "[x³]₀¹=1입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_018",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "expert",
+      "question": "행렬 [[1,2],[3,4]]의 행렬식은?",
+      "answer": "-2",
+      "accepted": [
+        "-2"
+      ],
+      "choices": [
+        "-2",
+        "2",
+        "10",
+        "-10"
+      ],
+      "hint": "ad-bc.",
+      "explanation": "4-6=-2입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_019",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "expert",
+      "question": "확률변수 X~B(10,0.3)의 기댓값은?",
+      "answer": "3",
+      "accepted": [
+        "3"
+      ],
+      "choices": [
+        "3",
+        "7",
+        "0.3",
+        "30"
+      ],
+      "hint": "이항분포 평균 np.",
+      "explanation": "10×0.3=3입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_020",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "expert",
+      "question": "벡터 a=(1,2), b=(3,-1)의 내적은?",
+      "answer": "1",
+      "accepted": [
+        "1"
+      ],
+      "choices": [
+        "1",
+        "5",
+        "-1",
+        "7"
+      ],
+      "hint": "성분끼리 곱해 더하세요.",
+      "explanation": "1×3+2×(-1)=1입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_021",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "master",
+      "question": "lim(x→0)(sin 3x)/x의 값은?",
+      "answer": "3",
+      "accepted": [
+        "3"
+      ],
+      "choices": [
+        "3",
+        "0",
+        "1",
+        "무한대"
+      ],
+      "hint": "sin u/u→1을 이용하세요.",
+      "explanation": "(sin3x/3x)×3→3입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_022",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "master",
+      "question": "급수 Σ(n=1→∞)(1/3)ⁿ의 합은?",
+      "answer": "1/2",
+      "accepted": [
+        "1/2"
+      ],
+      "choices": [
+        "1/2",
+        "1/3",
+        "3/2",
+        "1"
+      ],
+      "hint": "첫항 1/3, 공비 1/3.",
+      "explanation": "(1/3)/(1-1/3)=1/2입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_023",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "master",
+      "question": "f(x)=xˣ(x>0)의 도함수는?",
+      "answer": "xˣ(ln x+1)",
+      "accepted": [
+        "xˣ(ln x+1)"
+      ],
+      "choices": [
+        "xˣ(ln x+1)",
+        "xˣ ln x",
+        "x^(x-1)",
+        "xˣ/x"
+      ],
+      "hint": "로그미분법을 쓰세요.",
+      "explanation": "ln f=x ln x이므로 f'=xˣ(ln x+1).",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_024",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "master",
+      "question": "복소수 z=1+i의 절댓값은?",
+      "answer": "√2",
+      "accepted": [
+        "√2"
+      ],
+      "choices": [
+        "√2",
+        "1",
+        "2",
+        "√3"
+      ],
+      "hint": "|z|=√(a²+b²).",
+      "explanation": "√(1+1)=√2입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_math_025",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "master",
+      "question": "정규분포에서 평균과 중앙값의 관계는?",
+      "answer": "같다",
+      "accepted": [
+        "같다"
+      ],
+      "choices": [
+        "같다",
+        "평균이 항상 크다",
+        "중앙값이 항상 크다",
+        "관계없다"
+      ],
+      "hint": "대칭 분포입니다.",
+      "explanation": "정규분포는 평균=중앙값=최빈값입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_001",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "easy",
+      "question": "‘사과’의 영어 단어는?",
+      "answer": "apple",
+      "accepted": [
+        "apple"
+      ],
+      "choices": [
+        "apple",
+        "banana",
+        "orange",
+        "grape"
+      ],
+      "hint": "a로 시작합니다.",
+      "explanation": "사과는 apple입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_002",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "easy",
+      "question": "‘학교’의 영어 단어는?",
+      "answer": "school",
+      "accepted": [
+        "school"
+      ],
+      "choices": [
+        "school",
+        "hospital",
+        "market",
+        "station"
+      ],
+      "hint": "학생이 공부하는 곳입니다.",
+      "explanation": "학교는 school입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_003",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "easy",
+      "question": "I ___ a student. 빈칸에 알맞은 말은?",
+      "answer": "am",
+      "accepted": [
+        "am"
+      ],
+      "choices": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "hint": "주어가 I입니다.",
+      "explanation": "I am a student가 맞습니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_004",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "easy",
+      "question": "He ___ my friend. 빈칸에 알맞은 말은?",
+      "answer": "is",
+      "accepted": [
+        "is"
+      ],
+      "choices": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "hint": "주어가 He입니다.",
+      "explanation": "He is my friend가 맞습니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_005",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "easy",
+      "question": "book의 복수형은?",
+      "answer": "books",
+      "accepted": [
+        "books"
+      ],
+      "choices": [
+        "books",
+        "bookes",
+        "bookies",
+        "book"
+      ],
+      "hint": "일반적으로 -s를 붙입니다.",
+      "explanation": "book의 복수형은 books입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_006",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "normal",
+      "question": "child의 복수형은?",
+      "answer": "children",
+      "accepted": [
+        "children"
+      ],
+      "choices": [
+        "children",
+        "childs",
+        "childes",
+        "childrens"
+      ],
+      "hint": "불규칙 복수형입니다.",
+      "explanation": "children입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_007",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "normal",
+      "question": "go의 과거형은?",
+      "answer": "went",
+      "accepted": [
+        "went"
+      ],
+      "choices": [
+        "went",
+        "goed",
+        "gone",
+        "going"
+      ],
+      "hint": "불규칙 동사입니다.",
+      "explanation": "went입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_008",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "normal",
+      "question": "‘나는 축구를 좋아한다’를 영어로 바르게 쓴 것은?",
+      "answer": "I like soccer.",
+      "accepted": [
+        "I like soccer."
+      ],
+      "choices": [
+        "I like soccer.",
+        "I likes soccer.",
+        "I am like soccer.",
+        "I liking soccer."
+      ],
+      "hint": "일반동사 현재형을 사용합니다.",
+      "explanation": "I like soccer.가 맞습니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_009",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "normal",
+      "question": "There ___ two cats. 빈칸에 알맞은 말은?",
+      "answer": "are",
+      "accepted": [
+        "are"
+      ],
+      "choices": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "hint": "뒤 명사가 복수입니다.",
+      "explanation": "There are two cats.입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_010",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "normal",
+      "question": "‘~할 수 있다’를 나타내는 조동사는?",
+      "answer": "can",
+      "accepted": [
+        "can"
+      ],
+      "choices": [
+        "can",
+        "must not",
+        "was",
+        "did"
+      ],
+      "hint": "능력을 나타냅니다.",
+      "explanation": "can입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_011",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "hard",
+      "question": "She ___ to school every day. 알맞은 것은?",
+      "answer": "goes",
+      "accepted": [
+        "goes"
+      ],
+      "choices": [
+        "goes",
+        "go",
+        "going",
+        "gone"
+      ],
+      "hint": "3인칭 단수 현재형입니다.",
+      "explanation": "She goes가 맞습니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_012",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "hard",
+      "question": "I am taller ___ my brother. 알맞은 말은?",
+      "answer": "than",
+      "accepted": [
+        "than"
+      ],
+      "choices": [
+        "than",
+        "then",
+        "that",
+        "as"
+      ],
+      "hint": "비교급 뒤에 씁니다.",
+      "explanation": "taller than입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_013",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "hard",
+      "question": "‘가장 큰’을 영어로 나타내면?",
+      "answer": "the biggest",
+      "accepted": [
+        "the biggest"
+      ],
+      "choices": [
+        "the biggest",
+        "bigger",
+        "the big",
+        "most big"
+      ],
+      "hint": "최상급 표현입니다.",
+      "explanation": "the biggest입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_014",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "hard",
+      "question": "What time ___ you get up? 알맞은 조동사는?",
+      "answer": "do",
+      "accepted": [
+        "do"
+      ],
+      "choices": [
+        "do",
+        "does",
+        "are",
+        "is"
+      ],
+      "hint": "주어가 you입니다.",
+      "explanation": "What time do you get up?입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_015",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "hard",
+      "question": "I have ___ apple. 관사로 알맞은 것은?",
+      "answer": "an",
+      "accepted": [
+        "an"
+      ],
+      "choices": [
+        "an",
+        "a",
+        "the만 가능",
+        "무관사"
+      ],
+      "hint": "모음 소리로 시작합니다.",
+      "explanation": "an apple입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_016",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "expert",
+      "question": "‘나는 어제 숙제를 했다’를 바르게 쓴 것은?",
+      "answer": "I did my homework yesterday.",
+      "accepted": [
+        "I did my homework yesterday."
+      ],
+      "choices": [
+        "I did my homework yesterday.",
+        "I do my homework yesterday.",
+        "I done my homework yesterday.",
+        "I am do my homework yesterday."
+      ],
+      "hint": "과거형 did를 사용합니다.",
+      "explanation": "I did my homework yesterday.입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_017",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "expert",
+      "question": "Please give ___ the book. ‘나에게’에 알맞은 목적격은?",
+      "answer": "me",
+      "accepted": [
+        "me"
+      ],
+      "choices": [
+        "me",
+        "I",
+        "my",
+        "mine"
+      ],
+      "hint": "동사 뒤 목적격입니다.",
+      "explanation": "me입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_018",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "expert",
+      "question": "This is ___ bag. ‘그녀의’에 알맞은 것은?",
+      "answer": "her",
+      "accepted": [
+        "her"
+      ],
+      "choices": [
+        "her",
+        "she",
+        "herself",
+        "hers"
+      ],
+      "hint": "명사 bag 앞 소유격입니다.",
+      "explanation": "her bag입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_019",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "expert",
+      "question": "‘너는 수영을 할 수 있니?’를 바르게 쓴 것은?",
+      "answer": "Can you swim?",
+      "accepted": [
+        "Can you swim?"
+      ],
+      "choices": [
+        "Can you swim?",
+        "Do you can swim?",
+        "Are you swim?",
+        "Can swim you?"
+      ],
+      "hint": "조동사 can을 문장 앞에 둡니다.",
+      "explanation": "Can you swim?입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_020",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "expert",
+      "question": "I want ___ a doctor. 알맞은 것은?",
+      "answer": "to be",
+      "accepted": [
+        "to be"
+      ],
+      "choices": [
+        "to be",
+        "being",
+        "be",
+        "am"
+      ],
+      "hint": "want 뒤 to부정사입니다.",
+      "explanation": "want to be입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_021",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "master",
+      "question": "다음 중 문법적으로 바른 문장은?",
+      "answer": "She doesn't like milk.",
+      "accepted": [
+        "She doesn't like milk."
+      ],
+      "choices": [
+        "She doesn't like milk.",
+        "She don't like milk.",
+        "She doesn't likes milk.",
+        "She not likes milk."
+      ],
+      "hint": "doesn't 뒤 동사는 원형입니다.",
+      "explanation": "She doesn't like milk.입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_022",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "master",
+      "question": "‘내가 집에 도착했을 때 비가 오고 있었다’를 고른 것은?",
+      "answer": "It was raining when I got home.",
+      "accepted": [
+        "It was raining when I got home."
+      ],
+      "choices": [
+        "It was raining when I got home.",
+        "It rains when I got home.",
+        "It was rain when I get home.",
+        "It raining when I got home."
+      ],
+      "hint": "과거진행과 과거를 사용합니다.",
+      "explanation": "It was raining when I got home.입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_023",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "master",
+      "question": "다음 중 올바른 의문문은?",
+      "answer": "How many books do you have?",
+      "accepted": [
+        "How many books do you have?"
+      ],
+      "choices": [
+        "How many books do you have?",
+        "How much books do you have?",
+        "How many book you have?",
+        "How many books does you have?"
+      ],
+      "hint": "셀 수 있는 복수명사에는 how many.",
+      "explanation": "How many books do you have?입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_024",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "master",
+      "question": "‘이 책은 저 책보다 더 재미있다’를 고른 것은?",
+      "answer": "This book is more interesting than that one.",
+      "accepted": [
+        "This book is more interesting than that one."
+      ],
+      "choices": [
+        "This book is more interesting than that one.",
+        "This book is interestinger than that one.",
+        "This book is most interesting that one.",
+        "This book more interesting than that one."
+      ],
+      "hint": "긴 형용사는 more를 씁니다.",
+      "explanation": "more interesting than이 맞습니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_elementary_english_025",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "master",
+      "question": "‘나는 전에 제주도에 가 본 적이 있다’를 고른 것은?",
+      "answer": "I have been to Jeju before.",
+      "accepted": [
+        "I have been to Jeju before."
+      ],
+      "choices": [
+        "I have been to Jeju before.",
+        "I was to Jeju before.",
+        "I have went Jeju before.",
+        "I am been to Jeju before."
+      ],
+      "hint": "현재완료 경험입니다.",
+      "explanation": "I have been to Jeju before.입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_001",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "easy",
+      "question": "go의 과거분사는?",
+      "answer": "gone",
+      "accepted": [
+        "gone"
+      ],
+      "choices": [
+        "gone",
+        "went",
+        "goed",
+        "going"
+      ],
+      "hint": "go-went-gone.",
+      "explanation": "gone입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_002",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "easy",
+      "question": "‘흥미로운’의 영어 단어는?",
+      "answer": "interesting",
+      "accepted": [
+        "interesting"
+      ],
+      "choices": [
+        "interesting",
+        "interested",
+        "interestingly",
+        "interest"
+      ],
+      "hint": "사물의 성질을 나타냅니다.",
+      "explanation": "interesting입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_003",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "easy",
+      "question": "He ___ TV now. 알맞은 것은?",
+      "answer": "is watching",
+      "accepted": [
+        "is watching"
+      ],
+      "choices": [
+        "is watching",
+        "watches",
+        "watched",
+        "watch"
+      ],
+      "hint": "now는 현재진행형 단서입니다.",
+      "explanation": "is watching입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_004",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "easy",
+      "question": "I ___ my homework yesterday. 알맞은 것은?",
+      "answer": "did",
+      "accepted": [
+        "did"
+      ],
+      "choices": [
+        "did",
+        "do",
+        "done",
+        "am doing"
+      ],
+      "hint": "yesterday는 과거 시제입니다.",
+      "explanation": "did입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_005",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "easy",
+      "question": "must와 가장 가까운 뜻은?",
+      "answer": "~해야 한다",
+      "accepted": [
+        "~해야 한다"
+      ],
+      "choices": [
+        "~해야 한다",
+        "~할 수 있다",
+        "~일지도 모른다",
+        "~하곤 했다"
+      ],
+      "hint": "강한 의무입니다.",
+      "explanation": "must는 ‘~해야 한다’입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_006",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "normal",
+      "question": "If it rains, I ___ home. 알맞은 것은?",
+      "answer": "will stay",
+      "accepted": [
+        "will stay"
+      ],
+      "choices": [
+        "will stay",
+        "stayed",
+        "would stayed",
+        "staying"
+      ],
+      "hint": "조건절 현재, 주절 미래입니다.",
+      "explanation": "will stay입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_007",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "normal",
+      "question": "The book ___ by many students. 알맞은 수동태는?",
+      "answer": "is read",
+      "accepted": [
+        "is read"
+      ],
+      "choices": [
+        "is read",
+        "reads",
+        "is reading",
+        "readed"
+      ],
+      "hint": "be동사+과거분사입니다.",
+      "explanation": "is read입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_008",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "normal",
+      "question": "I have lived here ___ 2020. 알맞은 것은?",
+      "answer": "since",
+      "accepted": [
+        "since"
+      ],
+      "choices": [
+        "since",
+        "for",
+        "during",
+        "from"
+      ],
+      "hint": "시작 시점 앞에 since.",
+      "explanation": "since 2020입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_009",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "normal",
+      "question": "I have lived here ___ five years. 알맞은 것은?",
+      "answer": "for",
+      "accepted": [
+        "for"
+      ],
+      "choices": [
+        "for",
+        "since",
+        "during",
+        "at"
+      ],
+      "hint": "기간 앞에 for.",
+      "explanation": "for five years입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_010",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "normal",
+      "question": "This is the boy ___ helped me. 알맞은 관계대명사는?",
+      "answer": "who",
+      "accepted": [
+        "who"
+      ],
+      "choices": [
+        "who",
+        "which",
+        "where",
+        "when"
+      ],
+      "hint": "사람이 선행사이고 주격입니다.",
+      "explanation": "who입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_011",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "hard",
+      "question": "I wish I ___ taller. 알맞은 것은?",
+      "answer": "were",
+      "accepted": [
+        "were"
+      ],
+      "choices": [
+        "were",
+        "am",
+        "will be",
+        "have been"
+      ],
+      "hint": "현재 사실 반대 가정입니다.",
+      "explanation": "I wish I were taller.입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_012",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "hard",
+      "question": "Not only Tom but also his friends ___ coming. 알맞은 것은?",
+      "answer": "are",
+      "accepted": [
+        "are"
+      ],
+      "choices": [
+        "are",
+        "is",
+        "was",
+        "be"
+      ],
+      "hint": "가까운 주어 friends에 일치합니다.",
+      "explanation": "are입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_013",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "hard",
+      "question": "The movie was so boring that I fell asleep. 같은 뜻은?",
+      "answer": "The movie was too boring for me to stay awake.",
+      "accepted": [
+        "The movie was too boring for me to stay awake."
+      ],
+      "choices": [
+        "The movie was too boring for me to stay awake.",
+        "The movie was very exciting.",
+        "I stayed awake because of the movie.",
+        "The movie was not boring enough."
+      ],
+      "hint": "so~that 결과를 too~to로 바꿉니다.",
+      "explanation": "too boring to stay awake가 같은 뜻입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_014",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "hard",
+      "question": "Hardly had I arrived ___ it began to rain. 알맞은 것은?",
+      "answer": "when",
+      "accepted": [
+        "when"
+      ],
+      "choices": [
+        "when",
+        "than",
+        "that",
+        "while"
+      ],
+      "hint": "hardly ~ when 구문입니다.",
+      "explanation": "when입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_015",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "hard",
+      "question": "The more you practice, ___ you become. 알맞은 것은?",
+      "answer": "the better",
+      "accepted": [
+        "the better"
+      ],
+      "choices": [
+        "the better",
+        "better",
+        "the best",
+        "more good"
+      ],
+      "hint": "the 비교급, the 비교급.",
+      "explanation": "the better입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_016",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "expert",
+      "question": "No sooner had she left ___ the phone rang. 알맞은 것은?",
+      "answer": "than",
+      "accepted": [
+        "than"
+      ],
+      "choices": [
+        "than",
+        "when",
+        "that",
+        "while"
+      ],
+      "hint": "no sooner ~ than.",
+      "explanation": "than입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_017",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "expert",
+      "question": "He denied ___ the window. 알맞은 것은?",
+      "answer": "breaking",
+      "accepted": [
+        "breaking"
+      ],
+      "choices": [
+        "breaking",
+        "to break",
+        "break",
+        "broke"
+      ],
+      "hint": "deny 뒤 동명사입니다.",
+      "explanation": "breaking입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_018",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "expert",
+      "question": "The man, ___ car was stolen, called the police. 알맞은 것은?",
+      "answer": "whose",
+      "accepted": [
+        "whose"
+      ],
+      "choices": [
+        "whose",
+        "who",
+        "which",
+        "whom"
+      ],
+      "hint": "소유 관계입니다.",
+      "explanation": "whose입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_019",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "expert",
+      "question": "Had I known the truth, I ___ differently. 알맞은 것은?",
+      "answer": "would have acted",
+      "accepted": [
+        "would have acted"
+      ],
+      "choices": [
+        "would have acted",
+        "will act",
+        "acted",
+        "would act"
+      ],
+      "hint": "과거 사실 반대 가정법입니다.",
+      "explanation": "would have acted입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_020",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "expert",
+      "question": "It is essential that every member ___ present. 알맞은 것은?",
+      "answer": "be",
+      "accepted": [
+        "be"
+      ],
+      "choices": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "hint": "요구·필요 뒤 that절 동사원형입니다.",
+      "explanation": "be입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_021",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "master",
+      "question": "‘그가 제시간에 올 가능성은 거의 없다’에 가장 알맞은 문장은?",
+      "answer": "There is little likelihood that he will arrive on time.",
+      "accepted": [
+        "There is little likelihood that he will arrive on time."
+      ],
+      "choices": [
+        "There is little likelihood that he will arrive on time.",
+        "He is likely never arrive on time.",
+        "There are few likelihood he arrives.",
+        "It is little likely of him arriving."
+      ],
+      "hint": "likelihood는 가능성입니다.",
+      "explanation": "첫 문장이 자연스럽고 정확합니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_022",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "master",
+      "question": "Scarcely ___ the speech when the audience interrupted. 알맞은 것은?",
+      "answer": "had she begun",
+      "accepted": [
+        "had she begun"
+      ],
+      "choices": [
+        "had she begun",
+        "she had begun",
+        "did she begin",
+        "she began"
+      ],
+      "hint": "부정어 도치와 과거완료입니다.",
+      "explanation": "Scarcely had she begun...입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_023",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "master",
+      "question": "The proposal requires that each applicant ___ two references. 알맞은 것은?",
+      "answer": "submit",
+      "accepted": [
+        "submit"
+      ],
+      "choices": [
+        "submit",
+        "submits",
+        "submitted",
+        "will submit"
+      ],
+      "hint": "요구 의미의 that절은 동사원형입니다.",
+      "explanation": "submit입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_024",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "master",
+      "question": "Were it not for your help, I ___ the task. 알맞은 것은?",
+      "answer": "could not complete",
+      "accepted": [
+        "could not complete"
+      ],
+      "choices": [
+        "could not complete",
+        "did not complete",
+        "will not complete",
+        "had not completed"
+      ],
+      "hint": "현재 사실 반대 가정입니다.",
+      "explanation": "could not complete입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_middle_english_025",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "master",
+      "question": "다음 중 문법적으로 옳은 것은?",
+      "answer": "Only after the meeting did I understand the issue.",
+      "accepted": [
+        "Only after the meeting did I understand the issue."
+      ],
+      "choices": [
+        "Only after the meeting did I understand the issue.",
+        "Only after the meeting I understood the issue.",
+        "Only after did the meeting I understand.",
+        "Only I understood after the meeting the issue."
+      ],
+      "hint": "only 부사구가 앞으로 오면 도치합니다.",
+      "explanation": "did I understand가 맞습니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_001",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "easy",
+      "question": "‘명백한’과 가장 가까운 단어는?",
+      "answer": "obvious",
+      "accepted": [
+        "obvious"
+      ],
+      "choices": [
+        "obvious",
+        "obscure",
+        "reluctant",
+        "scarce"
+      ],
+      "hint": "분명하다는 뜻입니다.",
+      "explanation": "obvious입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_002",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "easy",
+      "question": "‘결과’를 뜻하는 단어는?",
+      "answer": "consequence",
+      "accepted": [
+        "consequence"
+      ],
+      "choices": [
+        "consequence",
+        "assumption",
+        "obstacle",
+        "criterion"
+      ],
+      "hint": "어떤 행동 뒤에 생긴 결과입니다.",
+      "explanation": "consequence입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_003",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "easy",
+      "question": "‘유지하다’를 뜻하는 단어는?",
+      "answer": "maintain",
+      "accepted": [
+        "maintain"
+      ],
+      "choices": [
+        "maintain",
+        "abandon",
+        "diminish",
+        "prohibit"
+      ],
+      "hint": "상태를 계속 지키는 뜻입니다.",
+      "explanation": "maintain입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_004",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "easy",
+      "question": "‘필수적인’을 뜻하는 단어는?",
+      "answer": "essential",
+      "accepted": [
+        "essential"
+      ],
+      "choices": [
+        "essential",
+        "optional",
+        "temporary",
+        "minor"
+      ],
+      "hint": "꼭 필요한 뜻입니다.",
+      "explanation": "essential입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_005",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "easy",
+      "question": "‘모호한’을 뜻하는 단어는?",
+      "answer": "ambiguous",
+      "accepted": [
+        "ambiguous"
+      ],
+      "choices": [
+        "ambiguous",
+        "explicit",
+        "accurate",
+        "inevitable"
+      ],
+      "hint": "둘 이상으로 해석될 수 있습니다.",
+      "explanation": "ambiguous입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_006",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "normal",
+      "question": "‘어디에나 존재하는’의 뜻은?",
+      "answer": "ubiquitous",
+      "accepted": [
+        "ubiquitous"
+      ],
+      "choices": [
+        "ubiquitous",
+        "obsolete",
+        "reluctant",
+        "fragile"
+      ],
+      "hint": "u로 시작합니다.",
+      "explanation": "ubiquitous입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_007",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "normal",
+      "question": "‘감소시키다’와 가장 가까운 단어는?",
+      "answer": "diminish",
+      "accepted": [
+        "diminish"
+      ],
+      "choices": [
+        "diminish",
+        "enhance",
+        "retain",
+        "derive"
+      ],
+      "hint": "양이나 정도를 줄입니다.",
+      "explanation": "diminish입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_008",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "normal",
+      "question": "‘피할 수 없는’의 뜻은?",
+      "answer": "inevitable",
+      "accepted": [
+        "inevitable"
+      ],
+      "choices": [
+        "inevitable",
+        "optional",
+        "reversible",
+        "arbitrary"
+      ],
+      "hint": "반드시 일어날 듯한 뜻입니다.",
+      "explanation": "inevitable입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_009",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "normal",
+      "question": "‘전제, 가정’을 뜻하는 단어는?",
+      "answer": "assumption",
+      "accepted": [
+        "assumption"
+      ],
+      "choices": [
+        "assumption",
+        "conclusion",
+        "evidence",
+        "exception"
+      ],
+      "hint": "논의를 시작할 때 사실로 두는 생각입니다.",
+      "explanation": "assumption입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_010",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "normal",
+      "question": "‘설득력 있는’을 뜻하는 단어는?",
+      "answer": "compelling",
+      "accepted": [
+        "compelling"
+      ],
+      "choices": [
+        "compelling",
+        "trivial",
+        "vague",
+        "passive"
+      ],
+      "hint": "강하게 믿게 만드는 뜻입니다.",
+      "explanation": "compelling입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_011",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "hard",
+      "question": "Despite ___ tired, she continued working. 알맞은 것은?",
+      "answer": "being",
+      "accepted": [
+        "being"
+      ],
+      "choices": [
+        "being",
+        "to be",
+        "was",
+        "be"
+      ],
+      "hint": "despite 뒤 명사/동명사입니다.",
+      "explanation": "being입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_012",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "hard",
+      "question": "The data suggest that the policy ___ revised. 알맞은 것은?",
+      "answer": "be",
+      "accepted": [
+        "be"
+      ],
+      "choices": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "hint": "제안 의미 that절에서 동사원형이 가능합니다.",
+      "explanation": "be입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_013",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "hard",
+      "question": "Rarely ___ such a remarkable performance. 알맞은 것은?",
+      "answer": "have I seen",
+      "accepted": [
+        "have I seen"
+      ],
+      "choices": [
+        "have I seen",
+        "I have seen",
+        "did I saw",
+        "I saw"
+      ],
+      "hint": "부정 의미 부사 도치입니다.",
+      "explanation": "have I seen입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_014",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "hard",
+      "question": "If she had studied harder, she ___ the exam. 알맞은 것은?",
+      "answer": "would have passed",
+      "accepted": [
+        "would have passed"
+      ],
+      "choices": [
+        "would have passed",
+        "will pass",
+        "would pass",
+        "passed"
+      ],
+      "hint": "과거 사실 반대 가정입니다.",
+      "explanation": "would have passed입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_015",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "hard",
+      "question": "The reason ___ he left remains unknown. 알맞은 것은?",
+      "answer": "why",
+      "accepted": [
+        "why"
+      ],
+      "choices": [
+        "why",
+        "which",
+        "who",
+        "where"
+      ],
+      "hint": "reason을 설명합니다.",
+      "explanation": "why입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_016",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "expert",
+      "question": "Not until the evidence was reviewed ___ the error. 알맞은 것은?",
+      "answer": "did they discover",
+      "accepted": [
+        "did they discover"
+      ],
+      "choices": [
+        "did they discover",
+        "they discovered",
+        "had they discover",
+        "they did discovered"
+      ],
+      "hint": "not until 도치입니다.",
+      "explanation": "did they discover입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_017",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "expert",
+      "question": "The scientist insisted that the results ___ independently verified. 알맞은 것은?",
+      "answer": "be",
+      "accepted": [
+        "be"
+      ],
+      "choices": [
+        "be",
+        "are",
+        "were",
+        "being"
+      ],
+      "hint": "insist가 요구 의미일 때 동사원형입니다.",
+      "explanation": "be입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_018",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "expert",
+      "question": "So complex ___ that few could understand it. 알맞은 것은?",
+      "answer": "was the theory",
+      "accepted": [
+        "was the theory"
+      ],
+      "choices": [
+        "was the theory",
+        "the theory was",
+        "did the theory",
+        "the theory did"
+      ],
+      "hint": "so+형용사 도치입니다.",
+      "explanation": "So complex was the theory...입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_019",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "expert",
+      "question": "Had it not been for the warning, the damage ___ worse. 알맞은 것은?",
+      "answer": "would have been",
+      "accepted": [
+        "would have been"
+      ],
+      "choices": [
+        "would have been",
+        "will be",
+        "would be",
+        "was"
+      ],
+      "hint": "과거 사실 반대 가정입니다.",
+      "explanation": "would have been입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_020",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "expert",
+      "question": "The committee postponed the vote, ___ further discussion was necessary. 알맞은 것은?",
+      "answer": "because",
+      "accepted": [
+        "because"
+      ],
+      "choices": [
+        "because",
+        "despite",
+        "unless",
+        "whereas"
+      ],
+      "hint": "원인을 나타냅니다.",
+      "explanation": "because입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_021",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "master",
+      "question": "‘주장의 타당성을 약화하다’에 가장 가까운 동사는?",
+      "answer": "undermine",
+      "accepted": [
+        "undermine"
+      ],
+      "choices": [
+        "undermine",
+        "corroborate",
+        "facilitate",
+        "preserve"
+      ],
+      "hint": "근거를 약하게 만든다는 뜻입니다.",
+      "explanation": "undermine입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_022",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "master",
+      "question": "‘증거로 입증하다’에 가장 가까운 동사는?",
+      "answer": "corroborate",
+      "accepted": [
+        "corroborate"
+      ],
+      "choices": [
+        "corroborate",
+        "contradict",
+        "evade",
+        "deteriorate"
+      ],
+      "hint": "다른 증거로 확인합니다.",
+      "explanation": "corroborate입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_023",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "master",
+      "question": "Were the assumption false, the conclusion ___ invalid. 알맞은 것은?",
+      "answer": "would be",
+      "accepted": [
+        "would be"
+      ],
+      "choices": [
+        "would be",
+        "will be",
+        "had been",
+        "is always"
+      ],
+      "hint": "현재 가정법 도치입니다.",
+      "explanation": "would be입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_024",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "master",
+      "question": "Little ___ that the decision would transform the industry. 알맞은 것은?",
+      "answer": "did they realize",
+      "accepted": [
+        "did they realize"
+      ],
+      "choices": [
+        "did they realize",
+        "they realized",
+        "had they realize",
+        "they did realized"
+      ],
+      "hint": "little이 문두에 와 도치됩니다.",
+      "explanation": "did they realize입니다.",
+      "date": "2026-07-30"
+    },
+    {
+      "id": "schoolfix_20260730_high_english_025",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "master",
+      "question": "The policy is intended to address inequality without ___ economic growth. 알맞은 것은?",
+      "answer": "impeding",
+      "accepted": [
+        "impeding"
+      ],
+      "choices": [
+        "impeding",
+        "to impede",
+        "impede",
+        "impeded"
+      ],
+      "hint": "without 뒤 동명사입니다.",
+      "explanation": "impeding입니다.",
+      "date": "2026-07-30"
+    }
+  ]
+}
