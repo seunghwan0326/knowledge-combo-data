@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "4",
-  "updatedAt": "2026-07-30T18:21:00+09:00",
+  "version": "6",
+  "updatedAt": "2026-07-31T07:25:00+09:00",
   "title": "지식콤보 무료 문제 저장소",
   "replacePacks": false,
   "packs": [
@@ -24,7 +24,21 @@
       "version": "2",
       "url": "school_pack_003_1500.json",
       "enabled": true,
-      "description": "초·중·고 교과 추가 1,500문제 재생성본"
+      "description": "초·중·고 교과 추가 1,500문제"
+    },
+    {
+      "id": "school-learning-004",
+      "version": "1",
+      "url": "school_pack_004_learning_450.json",
+      "enabled": true,
+      "description": "교육 중심 450문제"
+    },
+    {
+      "id": "daily-balanced-20260731-004",
+      "version": "1",
+      "url": "daily_pack_2026_07_31_175.json",
+      "enabled": true,
+      "description": "35개 주제 균형형 신규 175문제"
     }
   ]
 }
