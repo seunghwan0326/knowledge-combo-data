@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "8",
-  "updatedAt": "2026-07-31T08:10:00+09:00",
+  "version": "7",
+  "updatedAt": "2026-07-31T07:40:00+09:00",
   "title": "지식콤보 무료 문제 저장소",
   "replacePacks": false,
   "packs": [
@@ -34,11 +34,11 @@
       "description": "교육 중심 450문제"
     },
     {
-      "id": "daily-special-15subjects-20260731-006",
+      "id": "daily-special-20260731-005",
       "version": "1",
-      "url": "daily_special_15subjects_2026_07_31_225.json",
+      "url": "daily_special_pack_2026_07_31_525.json",
       "enabled": true,
-      "description": "15과목 × 15문제, 총 225문제 특별팩"
+      "description": "35개 주제 × 15문제, 총 525문제 특별팩"
     }
   ]
 }
