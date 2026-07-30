@@ -1,0 +1,29 @@
+{
+  "packId": "pack-YYYY-MM-DD-001",
+  "version": "1",
+  "updatedAt": "YYYY-MM-DDTHH:MM:SS+09:00",
+  "description": "새 문제팩 설명",
+  "questions": [
+    {
+      "id": "unique_question_id_001",
+      "topic": "korean_history",
+      "topicName": "한국사",
+      "difficulty": "hard",
+      "question": "문제 내용을 입력하세요.",
+      "answer": "정답",
+      "accepted": [
+        "정답",
+        "인정할 다른 표현"
+      ],
+      "choices": [
+        "정답",
+        "오답1",
+        "오답2",
+        "오답3"
+      ],
+      "hint": "힌트를 입력하세요.",
+      "explanation": "정답 해설을 입력하세요.",
+      "date": "YYYY-MM-DD"
+    }
+  ]
+}
