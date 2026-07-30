@@ -1,0 +1,4511 @@
+{
+  "schemaVersion": 1,
+  "packId": "daily-special-15subjects-20260731-006",
+  "version": "1",
+  "title": "지식콤보 15과목 특별 문제팩 2026-07-31",
+  "date": "2026-07-31",
+  "questionCount": 225,
+  "topicsCount": 15,
+  "questions": [
+    {
+      "id": "kc_20260731_elementary_korean_easy_01",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "easy",
+      "question": "물음표가 필요한 문장은?",
+      "answer": "오늘 학교에 가니",
+      "accepted": [
+        "오늘 학교에 가니"
+      ],
+      "choices": [
+        "오늘 학교에 간다",
+        "오늘 학교에 가니",
+        "정말 멋지다",
+        "어서 와"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '오늘 학교에 가니'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_korean_normal_02",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "normal",
+      "question": "'기쁘다'와 비슷한 말은?",
+      "answer": "즐겁다",
+      "accepted": [
+        "즐겁다"
+      ],
+      "choices": [
+        "슬프다",
+        "즐겁다",
+        "무겁다",
+        "어둡다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '즐겁다'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_korean_hard_03",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "hard",
+      "question": "중심 생각을 찾는 좋은 방법은?",
+      "answer": "반복·강조 내용을 살핀다",
+      "accepted": [
+        "반복·강조 내용을 살핀다"
+      ],
+      "choices": [
+        "제목만 본다",
+        "반복·강조 내용을 살핀다",
+        "모르는 말 무시",
+        "첫 문장만 본다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '반복·강조 내용을 살핀다'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_korean_expert_04",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "expert",
+      "question": "'비가 왔다. ___ 경기가 취소됐다.' 알맞은 말은?",
+      "answer": "그래서",
+      "accepted": [
+        "그래서"
+      ],
+      "choices": [
+        "그러나",
+        "그래서",
+        "또는",
+        "한편"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '그래서'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_korean_master_05",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "master",
+      "question": "사실과 의견을 구분하는 이유는?",
+      "answer": "객관 정보와 판단을 구별하기 위해",
+      "accepted": [
+        "객관 정보와 판단을 구별하기 위해"
+      ],
+      "choices": [
+        "글을 길게 하려고",
+        "객관 정보와 판단을 구별하기 위해",
+        "모두 외우려고",
+        "제목을 없애려고"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '객관 정보와 판단을 구별하기 위해'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_math_easy_01",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "easy",
+      "question": "7+8은?",
+      "answer": "15",
+      "accepted": [
+        "15"
+      ],
+      "choices": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '15'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_math_normal_02",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "normal",
+      "question": "1/2과 같은 값은?",
+      "answer": "0.5",
+      "accepted": [
+        "0.5"
+      ],
+      "choices": [
+        "0.2",
+        "0.25",
+        "0.5",
+        "2"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '0.5'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_math_hard_03",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "hard",
+      "question": "가로 5cm, 세로 3cm 직사각형의 넓이는?",
+      "answer": "15㎠",
+      "accepted": [
+        "15㎠"
+      ],
+      "choices": [
+        "8㎠",
+        "15㎠",
+        "16㎠",
+        "30㎠"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '15㎠'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_math_expert_04",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "expert",
+      "question": "어떤 수의 25%가 20일 때 그 수는?",
+      "answer": "80",
+      "accepted": [
+        "80"
+      ],
+      "choices": [
+        "40",
+        "60",
+        "80",
+        "100"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '80'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_math_master_05",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "master",
+      "question": "1~20 중 6의 배수 개수는?",
+      "answer": "3개",
+      "accepted": [
+        "3개"
+      ],
+      "choices": [
+        "2개",
+        "3개",
+        "4개",
+        "5개"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '3개'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_social_easy_01",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "easy",
+      "question": "대한민국의 수도는?",
+      "answer": "서울",
+      "accepted": [
+        "서울"
+      ],
+      "choices": [
+        "부산",
+        "서울",
+        "대전",
+        "제주"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '서울'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_social_normal_02",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "normal",
+      "question": "지역 문제를 주민이 스스로 해결하는 제도는?",
+      "answer": "지방자치",
+      "accepted": [
+        "지방자치"
+      ],
+      "choices": [
+        "중앙집권",
+        "지방자치",
+        "무역",
+        "산업화"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '지방자치'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_social_hard_03",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "hard",
+      "question": "지도에서 실제 거리를 줄인 비율은?",
+      "answer": "축척",
+      "accepted": [
+        "축척"
+      ],
+      "choices": [
+        "범례",
+        "축척",
+        "방위",
+        "등고선"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '축척'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_social_expert_04",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "expert",
+      "question": "도시와 촌락의 교류 사례는?",
+      "answer": "촌락 농산물이 도시로 공급",
+      "accepted": [
+        "촌락 농산물이 도시로 공급"
+      ],
+      "choices": [
+        "도시가 농산물 미소비",
+        "촌락 농산물이 도시로 공급",
+        "완전 단절",
+        "도시가 모든 식량 생산"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '촌락 농산물이 도시로 공급'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_social_master_05",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "master",
+      "question": "공공기관이 필요한 이유는?",
+      "answer": "공동 문제 해결",
+      "accepted": [
+        "공동 문제 해결"
+      ],
+      "choices": [
+        "취미 지원만",
+        "공동 문제 해결",
+        "기업 제거",
+        "사익 증대"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '공동 문제 해결'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_science_easy_01",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "easy",
+      "question": "자석에 붙는 물질은?",
+      "answer": "철",
+      "accepted": [
+        "철"
+      ],
+      "choices": [
+        "나무",
+        "플라스틱",
+        "철",
+        "유리"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '철'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_science_normal_02",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "normal",
+      "question": "물이 수증기로 변하는 현상은?",
+      "answer": "기화",
+      "accepted": [
+        "기화"
+      ],
+      "choices": [
+        "응고",
+        "액화",
+        "기화",
+        "융해"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '기화'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_science_hard_03",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "hard",
+      "question": "식물 뿌리의 주요 기능은?",
+      "answer": "물과 무기양분 흡수",
+      "accepted": [
+        "물과 무기양분 흡수"
+      ],
+      "choices": [
+        "빛 생성",
+        "물과 무기양분 흡수",
+        "꽃가루 운반",
+        "열 생성"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '물과 무기양분 흡수'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_science_expert_04",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "expert",
+      "question": "달 모양이 달라 보이는 이유는?",
+      "answer": "보는 각도에 따른 밝은 부분 변화",
+      "accepted": [
+        "보는 각도에 따른 밝은 부분 변화"
+      ],
+      "choices": [
+        "달 모양 자체 변화",
+        "보는 각도에 따른 밝은 부분 변화",
+        "구름 때문만",
+        "달이 빛 생성"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '보는 각도에 따른 밝은 부분 변화'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_science_master_05",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "master",
+      "question": "같은 물이 더 빨리 증발하는 그릇은?",
+      "answer": "넓은 그릇",
+      "accepted": [
+        "넓은 그릇"
+      ],
+      "choices": [
+        "좁은 그릇",
+        "넓은 그릇",
+        "둘 다 안 됨",
+        "항상 동일"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '넓은 그릇'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_english_easy_01",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "easy",
+      "question": "'apple'의 뜻은?",
+      "answer": "사과",
+      "accepted": [
+        "사과"
+      ],
+      "choices": [
+        "바나나",
+        "사과",
+        "포도",
+        "복숭아"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '사과'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_english_normal_02",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "normal",
+      "question": "'I am happy.'의 뜻은?",
+      "answer": "나는 행복하다",
+      "accepted": [
+        "나는 행복하다"
+      ],
+      "choices": [
+        "나는 배고프다",
+        "나는 행복하다",
+        "나는 피곤하다",
+        "나는 학생이다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '나는 행복하다'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_english_hard_03",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "hard",
+      "question": "child의 복수형은?",
+      "answer": "children",
+      "accepted": [
+        "children"
+      ],
+      "choices": [
+        "childs",
+        "childes",
+        "children",
+        "childrens"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 'children'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_english_expert_04",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "expert",
+      "question": "'He ___ soccer every Sunday.' 알맞은 말은?",
+      "answer": "plays",
+      "accepted": [
+        "plays"
+      ],
+      "choices": [
+        "play",
+        "plays",
+        "playing",
+        "played"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 'plays'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_english_master_05",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "master",
+      "question": "'Because it was raining, we stayed home.'의 뜻은?",
+      "answer": "비가 와서 집에 머물렀다",
+      "accepted": [
+        "비가 와서 집에 머물렀다"
+      ],
+      "choices": [
+        "비가 그쳐 나갔다",
+        "비가 와서 집에 머물렀다",
+        "비를 기다렸다",
+        "집에는 비가 안 왔다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '비가 와서 집에 머물렀다'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_korean_easy_01",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "easy",
+      "question": "'먹었다'의 형태소 분석은?",
+      "answer": "먹-+-었-+-다",
+      "accepted": [
+        "먹-+-었-+-다"
+      ],
+      "choices": [
+        "먹었다",
+        "먹-+-었-+-다",
+        "먹어+ㅆ다",
+        "먹+었다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '먹-+-었-+-다'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_korean_normal_02",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "normal",
+      "question": "관형어가 포함된 문장은?",
+      "answer": "예쁜 꽃이 피었다",
+      "accepted": [
+        "예쁜 꽃이 피었다"
+      ],
+      "choices": [
+        "철수가 달린다",
+        "예쁜 꽃이 피었다",
+        "비가 온다",
+        "아이들이 웃는다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '예쁜 꽃이 피었다'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_korean_hard_03",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "hard",
+      "question": "반어법의 효과는?",
+      "answer": "겉뜻과 속뜻을 반대로 강조",
+      "accepted": [
+        "겉뜻과 속뜻을 반대로 강조"
+      ],
+      "choices": [
+        "반복",
+        "겉뜻과 속뜻을 반대로 강조",
+        "소리 모방",
+        "시간 변경"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '겉뜻과 속뜻을 반대로 강조'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_korean_expert_04",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "expert",
+      "question": "좋은 논설문 근거의 조건은?",
+      "answer": "주장과 관련 있고 타당함",
+      "accepted": [
+        "주장과 관련 있고 타당함"
+      ],
+      "choices": [
+        "길기만 함",
+        "주장과 관련 있고 타당함",
+        "감정적임",
+        "개인 경험만"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '주장과 관련 있고 타당함'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_korean_master_05",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "master",
+      "question": "시점 변화로 가장 크게 달라지는 것은?",
+      "answer": "접근 가능한 내면 정보",
+      "accepted": [
+        "접근 가능한 내면 정보"
+      ],
+      "choices": [
+        "사건 발생 여부",
+        "접근 가능한 내면 정보",
+        "문장 수",
+        "배경 존재"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '접근 가능한 내면 정보'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_math_easy_01",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "easy",
+      "question": "방정식 2x+3=11의 해는?",
+      "answer": "4",
+      "accepted": [
+        "4"
+      ],
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "7"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '4'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_math_normal_02",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "normal",
+      "question": "삼각형 내각의 합은?",
+      "answer": "180°",
+      "accepted": [
+        "180°"
+      ],
+      "choices": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '180°'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_math_hard_03",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "hard",
+      "question": "기울기 2, y절편 1인 직선식은?",
+      "answer": "y=2x+1",
+      "accepted": [
+        "y=2x+1"
+      ],
+      "choices": [
+        "y=x+2",
+        "y=2x+1",
+        "y=-2x+1",
+        "y=2"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 'y=2x+1'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_math_expert_04",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "expert",
+      "question": "피타고라스 정리에서 직각변 3,4일 때 빗변은?",
+      "answer": "5",
+      "accepted": [
+        "5"
+      ],
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '5'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_math_master_05",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "master",
+      "question": "평균 10인 5개 수의 합은?",
+      "answer": "50",
+      "accepted": [
+        "50"
+      ],
+      "choices": [
+        "15",
+        "40",
+        "50",
+        "60"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '50'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_social_easy_01",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "easy",
+      "question": "민주주의의 기본 원리는?",
+      "answer": "국민 주권",
+      "accepted": [
+        "국민 주권"
+      ],
+      "choices": [
+        "왕권 신수",
+        "국민 주권",
+        "신분 세습",
+        "언론 통제"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '국민 주권'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_social_normal_02",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "normal",
+      "question": "시장 가격은 주로 무엇으로 결정되는가?",
+      "answer": "수요와 공급",
+      "accepted": [
+        "수요와 공급"
+      ],
+      "choices": [
+        "날씨만",
+        "수요와 공급",
+        "광고만",
+        "정부 의지만"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '수요와 공급'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_social_hard_03",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "hard",
+      "question": "삼권분립의 목적은?",
+      "answer": "권력 남용 방지",
+      "accepted": [
+        "권력 남용 방지"
+      ],
+      "choices": [
+        "권력 집중",
+        "권력 남용 방지",
+        "선거 폐지",
+        "법원 약화"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '권력 남용 방지'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_social_expert_04",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "expert",
+      "question": "도시화의 대표적 문제는?",
+      "answer": "교통 혼잡과 주택 부족",
+      "accepted": [
+        "교통 혼잡과 주택 부족"
+      ],
+      "choices": [
+        "농업 인구 증가",
+        "교통 혼잡과 주택 부족",
+        "인구 완전 분산",
+        "공해 감소만"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '교통 혼잡과 주택 부족'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_social_master_05",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "master",
+      "question": "문화 상대주의의 태도는?",
+      "answer": "맥락 속에서 문화를 이해",
+      "accepted": [
+        "맥락 속에서 문화를 이해"
+      ],
+      "choices": [
+        "자기 문화만 우월",
+        "맥락 속에서 문화를 이해",
+        "모든 차이 부정",
+        "비판 금지"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '맥락 속에서 문화를 이해'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_science_easy_01",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "easy",
+      "question": "힘의 SI 단위는?",
+      "answer": "뉴턴",
+      "accepted": [
+        "뉴턴"
+      ],
+      "choices": [
+        "줄",
+        "뉴턴",
+        "와트",
+        "파스칼"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '뉴턴'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_science_normal_02",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "normal",
+      "question": "광합성에 필요한 기체는?",
+      "answer": "이산화탄소",
+      "accepted": [
+        "이산화탄소"
+      ],
+      "choices": [
+        "산소",
+        "질소",
+        "이산화탄소",
+        "수소"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '이산화탄소'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_science_hard_03",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "hard",
+      "question": "산과 염기가 반응하는 것은?",
+      "answer": "중화 반응",
+      "accepted": [
+        "중화 반응"
+      ],
+      "choices": [
+        "산화",
+        "중화 반응",
+        "분해",
+        "승화"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '중화 반응'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_science_expert_04",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "expert",
+      "question": "전류가 흐르는 도선 주위에 생기는 것은?",
+      "answer": "자기장",
+      "accepted": [
+        "자기장"
+      ],
+      "choices": [
+        "중력장만",
+        "자기장",
+        "진공",
+        "빛만"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '자기장'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_science_master_05",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "master",
+      "question": "생태계 먹이그물에서 생산자는?",
+      "answer": "녹색 식물",
+      "accepted": [
+        "녹색 식물"
+      ],
+      "choices": [
+        "사자",
+        "녹색 식물",
+        "버섯만",
+        "독수리"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '녹색 식물'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_english_easy_01",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "easy",
+      "question": "'She has lived here for five years.'의 시제는?",
+      "answer": "현재완료",
+      "accepted": [
+        "현재완료"
+      ],
+      "choices": [
+        "현재",
+        "과거",
+        "현재완료",
+        "미래"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '현재완료'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_english_normal_02",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "normal",
+      "question": "'If it rains, I will stay home.'의 뜻은?",
+      "answer": "비가 오면 집에 있을 것이다",
+      "accepted": [
+        "비가 오면 집에 있을 것이다"
+      ],
+      "choices": [
+        "비가 왔었다",
+        "비가 오면 집에 있을 것이다",
+        "비가 안 온다",
+        "집을 떠난다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '비가 오면 집에 있을 것이다'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_english_hard_03",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "hard",
+      "question": "비교급 문장으로 맞는 것은?",
+      "answer": "Tom is taller than Jim.",
+      "accepted": [
+        "Tom is taller than Jim."
+      ],
+      "choices": [
+        "Tom is tall than Jim.",
+        "Tom is taller than Jim.",
+        "Tom is tallest Jim.",
+        "Tom taller Jim."
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 'Tom is taller than Jim.'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_english_expert_04",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "expert",
+      "question": "'The book was written by her.'는?",
+      "answer": "수동태",
+      "accepted": [
+        "수동태"
+      ],
+      "choices": [
+        "능동태",
+        "수동태",
+        "명령문",
+        "감탄문"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '수동태'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_english_master_05",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "master",
+      "question": "'Although he was tired, he continued.'의 의미는?",
+      "answer": "피곤했지만 계속했다",
+      "accepted": [
+        "피곤했지만 계속했다"
+      ],
+      "choices": [
+        "피곤해서 멈췄다",
+        "피곤했지만 계속했다",
+        "피곤하지 않았다",
+        "계속할 수 없었다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '피곤했지만 계속했다'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_korean_easy_01",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "easy",
+      "question": "고전시가에서 화자의 정서를 파악할 핵심 단서는?",
+      "answer": "시어와 상황",
+      "accepted": [
+        "시어와 상황"
+      ],
+      "choices": [
+        "글자 수만",
+        "시어와 상황",
+        "작가 이름만",
+        "제목 길이"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '시어와 상황'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_korean_normal_02",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "normal",
+      "question": "논증의 타당성을 판단할 때 중요한 것은?",
+      "answer": "전제와 결론의 논리적 연결",
+      "accepted": [
+        "전제와 결론의 논리적 연결"
+      ],
+      "choices": [
+        "문장 길이",
+        "전제와 결론의 논리적 연결",
+        "감정 강도",
+        "글씨체"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '전제와 결론의 논리적 연결'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_korean_hard_03",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "hard",
+      "question": "상징의 기능은?",
+      "answer": "추상 의미를 구체 대상에 담음",
+      "accepted": [
+        "추상 의미를 구체 대상에 담음"
+      ],
+      "choices": [
+        "의미 제거",
+        "추상 의미를 구체 대상에 담음",
+        "운율 삭제",
+        "시점 고정"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '추상 의미를 구체 대상에 담음'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_korean_expert_04",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "expert",
+      "question": "역설적 표현의 효과는?",
+      "answer": "모순처럼 보이는 말로 진실 강조",
+      "accepted": [
+        "모순처럼 보이는 말로 진실 강조"
+      ],
+      "choices": [
+        "오류만 생성",
+        "모순처럼 보이는 말로 진실 강조",
+        "인물 삭제",
+        "배경 축소"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '모순처럼 보이는 말로 진실 강조'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_korean_master_05",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "master",
+      "question": "두 자료를 통합해 읽는 핵심은?",
+      "answer": "공통점과 차이를 근거로 비교",
+      "accepted": [
+        "공통점과 차이를 근거로 비교"
+      ],
+      "choices": [
+        "한 자료만 믿기",
+        "공통점과 차이를 근거로 비교",
+        "제목만 비교",
+        "분량만 비교"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '공통점과 차이를 근거로 비교'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_math_easy_01",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "easy",
+      "question": "함수 f(x)=2x+1에서 f(3)은?",
+      "answer": "7",
+      "accepted": [
+        "7"
+      ],
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '7'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_math_normal_02",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "normal",
+      "question": "수열 aₙ=3n-1의 10번째 항은?",
+      "answer": "29",
+      "accepted": [
+        "29"
+      ],
+      "choices": [
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '29'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_math_hard_03",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "hard",
+      "question": "x²-5x+6=0의 해의 합은?",
+      "answer": "5",
+      "accepted": [
+        "5"
+      ],
+      "choices": [
+        "-5",
+        "2",
+        "5",
+        "6"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '5'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_math_expert_04",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "expert",
+      "question": "sin²θ+cos²θ의 값은?",
+      "answer": "1",
+      "accepted": [
+        "1"
+      ],
+      "choices": [
+        "0",
+        "1",
+        "2",
+        "θ"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '1'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_math_master_05",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "master",
+      "question": "평균변화율은 무엇과 같은가?",
+      "answer": "두 점을 잇는 직선의 기울기",
+      "accepted": [
+        "두 점을 잇는 직선의 기울기"
+      ],
+      "choices": [
+        "한 점의 높이",
+        "두 점을 잇는 직선의 기울기",
+        "넓이",
+        "절편만"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '두 점을 잇는 직선의 기울기'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_social_easy_01",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "easy",
+      "question": "기본권 제한의 한계 원칙은?",
+      "answer": "과잉금지 원칙",
+      "accepted": [
+        "과잉금지 원칙"
+      ],
+      "choices": [
+        "무제한 제한",
+        "과잉금지 원칙",
+        "행정부 우선",
+        "다수결 절대"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '과잉금지 원칙'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_social_normal_02",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "normal",
+      "question": "GDP에 포함되는 것은?",
+      "answer": "국내에서 생산된 최종재 가치",
+      "accepted": [
+        "국내에서 생산된 최종재 가치"
+      ],
+      "choices": [
+        "중고품 거래 전부",
+        "국내에서 생산된 최종재 가치",
+        "가사노동 전부",
+        "주식 가격 상승"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '국내에서 생산된 최종재 가치'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_social_hard_03",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "hard",
+      "question": "비교우위의 기준은?",
+      "answer": "기회비용",
+      "accepted": [
+        "기회비용"
+      ],
+      "choices": [
+        "절대 생산량만",
+        "기회비용",
+        "인구 수",
+        "국토 면적"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '기회비용'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_social_expert_04",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "expert",
+      "question": "사회 불평등 분석에 필요한 자료는?",
+      "answer": "소득 분포와 이동성",
+      "accepted": [
+        "소득 분포와 이동성"
+      ],
+      "choices": [
+        "평균만",
+        "소득 분포와 이동성",
+        "광고 수",
+        "날씨"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '소득 분포와 이동성'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_social_master_05",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "master",
+      "question": "정책 평가에서 효율성과 형평성을 함께 보는 이유는?",
+      "answer": "성과와 분배 효과가 다를 수 있어서",
+      "accepted": [
+        "성과와 분배 효과가 다를 수 있어서"
+      ],
+      "choices": [
+        "항상 같아서",
+        "성과와 분배 효과가 다를 수 있어서",
+        "비용이 없어서",
+        "법과 무관해서"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '성과와 분배 효과가 다를 수 있어서'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_science_easy_01",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "easy",
+      "question": "운동량의 식은?",
+      "answer": "p=mv",
+      "accepted": [
+        "p=mv"
+      ],
+      "choices": [
+        "F=ma",
+        "p=mv",
+        "E=mc²",
+        "V=IR"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 'p=mv'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_science_normal_02",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "normal",
+      "question": "화학 평형에서 반응물 농도를 늘리면?",
+      "answer": "생성물 쪽으로 이동",
+      "accepted": [
+        "생성물 쪽으로 이동"
+      ],
+      "choices": [
+        "반응물 쪽만",
+        "생성물 쪽으로 이동",
+        "변화 없음",
+        "반응 중단"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '생성물 쪽으로 이동'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_science_hard_03",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "hard",
+      "question": "유전자 발현의 기본 흐름은?",
+      "answer": "DNA→RNA→단백질",
+      "accepted": [
+        "DNA→RNA→단백질"
+      ],
+      "choices": [
+        "단백질→DNA",
+        "DNA→RNA→단백질",
+        "RNA→DNA만",
+        "지질→RNA"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 'DNA→RNA→단백질'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_science_expert_04",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "expert",
+      "question": "빛의 파장이 짧을수록 진동수는?",
+      "answer": "크다",
+      "accepted": [
+        "크다"
+      ],
+      "choices": [
+        "작다",
+        "크다",
+        "같다",
+        "0이다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '크다'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_science_master_05",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "master",
+      "question": "온실효과가 강해지는 직접 원인은?",
+      "answer": "복사 에너지의 대기 흡수 증가",
+      "accepted": [
+        "복사 에너지의 대기 흡수 증가"
+      ],
+      "choices": [
+        "태양 소멸",
+        "복사 에너지의 대기 흡수 증가",
+        "중력 감소",
+        "해수면 하강"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '복사 에너지의 대기 흡수 증가'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_english_easy_01",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "easy",
+      "question": "'Had I known, I would have acted differently.'의 의미는?",
+      "answer": "알았더라면 다르게 행동했을 것이다",
+      "accepted": [
+        "알았더라면 다르게 행동했을 것이다"
+      ],
+      "choices": [
+        "알고도 같게 행동했다",
+        "알았더라면 다르게 행동했을 것이다",
+        "앞으로 알 것이다",
+        "행동하지 않았다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '알았더라면 다르게 행동했을 것이다'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_english_normal_02",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "normal",
+      "question": "'Not only A but also B'의 의미는?",
+      "answer": "A뿐 아니라 B도",
+      "accepted": [
+        "A뿐 아니라 B도"
+      ],
+      "choices": [
+        "A 또는 B",
+        "A뿐 아니라 B도",
+        "A도 B도 아님",
+        "B보다 A"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 'A뿐 아니라 B도'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_english_hard_03",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "hard",
+      "question": "문맥상 'however'의 기능은?",
+      "answer": "대조 전환",
+      "accepted": [
+        "대조 전환"
+      ],
+      "choices": [
+        "원인",
+        "대조 전환",
+        "예시",
+        "결론만"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '대조 전환'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_english_expert_04",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "expert",
+      "question": "관계대명사 which가 가리키는 것은 주로?",
+      "answer": "앞의 사물이나 내용",
+      "accepted": [
+        "앞의 사물이나 내용"
+      ],
+      "choices": [
+        "미래 시제",
+        "앞의 사물이나 내용",
+        "동사 시제",
+        "부사만"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '앞의 사물이나 내용'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_english_master_05",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "master",
+      "question": "추론 문제에서 가장 중요한 태도는?",
+      "answer": "지문 근거를 벗어나지 않기",
+      "accepted": [
+        "지문 근거를 벗어나지 않기"
+      ],
+      "choices": [
+        "상식만 사용",
+        "지문 근거를 벗어나지 않기",
+        "제목만 보기",
+        "가장 긴 보기 선택"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '지문 근거를 벗어나지 않기'입니다. 문제의 핵심 개념을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_english_easy_06",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "easy",
+      "question": "'dog'의 뜻은?",
+      "answer": "개",
+      "accepted": [
+        "개"
+      ],
+      "choices": [
+        "고양이",
+        "개",
+        "새",
+        "물고기"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '개'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_english_easy_07",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "easy",
+      "question": "'book'의 뜻은?",
+      "answer": "책",
+      "accepted": [
+        "책"
+      ],
+      "choices": [
+        "책",
+        "연필",
+        "의자",
+        "창문"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '책'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_english_normal_08",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "normal",
+      "question": "'They are students.'의 뜻은?",
+      "answer": "그들은 학생들이다",
+      "accepted": [
+        "그들은 학생들이다"
+      ],
+      "choices": [
+        "그들은 선생님이다",
+        "그들은 학생들이다",
+        "그는 학생이다",
+        "우리는 학생이다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '그들은 학생들이다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_english_normal_09",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "normal",
+      "question": "'go'의 과거형은?",
+      "answer": "went",
+      "accepted": [
+        "went"
+      ],
+      "choices": [
+        "goed",
+        "goes",
+        "went",
+        "gone"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 'went'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_english_hard_10",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "hard",
+      "question": "'There is a cat on the chair.'의 뜻은?",
+      "answer": "의자 위에 고양이 한 마리가 있다",
+      "accepted": [
+        "의자 위에 고양이 한 마리가 있다"
+      ],
+      "choices": [
+        "의자 아래에 개가 있다",
+        "의자 위에 고양이 한 마리가 있다",
+        "고양이가 의자를 먹는다",
+        "의자가 고양이 위에 있다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '의자 위에 고양이 한 마리가 있다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_english_hard_11",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "hard",
+      "question": "빈칸에 알맞은 말은? 'My sister ___ English well.'",
+      "answer": "speaks",
+      "accepted": [
+        "speaks"
+      ],
+      "choices": [
+        "speak",
+        "speaks",
+        "speaking",
+        "spoke"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 'speaks'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_english_expert_12",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "expert",
+      "question": "'Would you like some water?'에 알맞은 응답은?",
+      "answer": "Yes, please.",
+      "accepted": [
+        "Yes, please."
+      ],
+      "choices": [
+        "I am water.",
+        "Yes, please.",
+        "No, I am not water.",
+        "It is Monday."
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 'Yes, please.'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_english_expert_13",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "expert",
+      "question": "'I have never been to Canada.'의 뜻은?",
+      "answer": "나는 캐나다에 가 본 적이 없다",
+      "accepted": [
+        "나는 캐나다에 가 본 적이 없다"
+      ],
+      "choices": [
+        "나는 캐나다에 산다",
+        "나는 캐나다에 가 본 적이 없다",
+        "나는 캐나다에 갈 것이다",
+        "나는 캐나다에서 왔다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '나는 캐나다에 가 본 적이 없다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_english_master_14",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "master",
+      "question": "'The boy who is running is my brother.'에서 who의 역할은?",
+      "answer": "앞의 boy를 꾸미는 관계대명사",
+      "accepted": [
+        "앞의 boy를 꾸미는 관계대명사"
+      ],
+      "choices": [
+        "의문사만",
+        "앞의 boy를 꾸미는 관계대명사",
+        "접속부사",
+        "전치사"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '앞의 boy를 꾸미는 관계대명사'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_english_master_15",
+      "topic": "elementary_english",
+      "topicName": "초등 영어",
+      "difficulty": "master",
+      "question": "'If I were you, I would apologize.'의 뜻은?",
+      "answer": "내가 너라면 사과할 텐데",
+      "accepted": [
+        "내가 너라면 사과할 텐데"
+      ],
+      "choices": [
+        "나는 이미 사과했다",
+        "내가 너라면 사과할 텐데",
+        "너는 사과하지 않았다",
+        "나는 네가 아니다만"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '내가 너라면 사과할 텐데'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_korean_easy_06",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "easy",
+      "question": "문장의 끝에 느낌표를 쓰기 알맞은 것은?",
+      "answer": "정말 아름답구나",
+      "accepted": [
+        "정말 아름답구나"
+      ],
+      "choices": [
+        "오늘은 월요일이다",
+        "정말 아름답구나",
+        "너는 어디 가니",
+        "책을 읽었다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '정말 아름답구나'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_korean_easy_07",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "easy",
+      "question": "'크다'의 반대말은?",
+      "answer": "작다",
+      "accepted": [
+        "작다"
+      ],
+      "choices": [
+        "넓다",
+        "작다",
+        "길다",
+        "많다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '작다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_korean_normal_08",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "normal",
+      "question": "글의 제목이 하는 역할은?",
+      "answer": "내용을 짐작하게 한다",
+      "accepted": [
+        "내용을 짐작하게 한다"
+      ],
+      "choices": [
+        "글자를 늘린다",
+        "내용을 짐작하게 한다",
+        "결론을 숨긴다",
+        "문단을 없앤다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '내용을 짐작하게 한다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_korean_normal_09",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "normal",
+      "question": "원인과 결과가 맞게 연결된 것은?",
+      "answer": "비가 와서 길이 젖었다",
+      "accepted": [
+        "비가 와서 길이 젖었다"
+      ],
+      "choices": [
+        "길이 젖어서 비가 왔다",
+        "비가 와서 길이 젖었다",
+        "길이 젖었지만 비가 왔다",
+        "비와 길은 무관하다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '비가 와서 길이 젖었다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_korean_hard_10",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "hard",
+      "question": "설명하는 글에서 예시를 드는 이유는?",
+      "answer": "내용을 쉽게 이해시키기 위해",
+      "accepted": [
+        "내용을 쉽게 이해시키기 위해"
+      ],
+      "choices": [
+        "글을 어렵게 하려고",
+        "내용을 쉽게 이해시키기 위해",
+        "주제를 숨기려고",
+        "문단을 줄이려고"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '내용을 쉽게 이해시키기 위해'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_korean_hard_11",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "hard",
+      "question": "문단의 중심 문장은?",
+      "answer": "문단의 핵심 내용을 담은 문장",
+      "accepted": [
+        "문단의 핵심 내용을 담은 문장"
+      ],
+      "choices": [
+        "가장 긴 문장",
+        "문단의 핵심 내용을 담은 문장",
+        "첫 문장만",
+        "마지막 문장만"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '문단의 핵심 내용을 담은 문장'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_korean_expert_12",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "expert",
+      "question": "두 글의 공통점을 찾는 방법은?",
+      "answer": "주제와 핵심 내용을 비교",
+      "accepted": [
+        "주제와 핵심 내용을 비교"
+      ],
+      "choices": [
+        "글자 수만 비교",
+        "주제와 핵심 내용을 비교",
+        "제목만 외움",
+        "그림만 봄"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '주제와 핵심 내용을 비교'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_korean_expert_13",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "expert",
+      "question": "근거가 있는 의견의 예는?",
+      "answer": "운동장은 위험하니 안전선이 필요하다. 사고가 자주 났기 때문이다",
+      "accepted": [
+        "운동장은 위험하니 안전선이 필요하다. 사고가 자주 났기 때문이다"
+      ],
+      "choices": [
+        "그냥 싫다",
+        "운동장은 위험하니 안전선이 필요하다. 사고가 자주 났기 때문이다",
+        "모두 그렇게 말한다",
+        "느낌이 그렇다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '운동장은 위험하니 안전선이 필요하다. 사고가 자주 났기 때문이다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_korean_master_14",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "master",
+      "question": "같은 사건을 서로 다르게 말할 수 있는 이유는?",
+      "answer": "관점과 경험이 다르기 때문",
+      "accepted": [
+        "관점과 경험이 다르기 때문"
+      ],
+      "choices": [
+        "사건이 두 개라서",
+        "관점과 경험이 다르기 때문",
+        "문장이 짧아서",
+        "사실은 항상 같다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '관점과 경험이 다르기 때문'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_korean_master_15",
+      "topic": "elementary_korean",
+      "topicName": "초등 국어",
+      "difficulty": "master",
+      "question": "정보 글을 읽을 때 사실 확인이 필요한 이유는?",
+      "answer": "잘못된 정보를 믿지 않기 위해",
+      "accepted": [
+        "잘못된 정보를 믿지 않기 위해"
+      ],
+      "choices": [
+        "글을 오래 읽기 위해",
+        "잘못된 정보를 믿지 않기 위해",
+        "모든 문장을 외우려고",
+        "제목을 바꾸려고"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '잘못된 정보를 믿지 않기 위해'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_math_easy_06",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "easy",
+      "question": "9×6은?",
+      "answer": "54",
+      "accepted": [
+        "54"
+      ],
+      "choices": [
+        "45",
+        "48",
+        "54",
+        "56"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '54'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_math_easy_07",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "easy",
+      "question": "36÷4는?",
+      "answer": "9",
+      "accepted": [
+        "9"
+      ],
+      "choices": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '9'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_math_normal_08",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "normal",
+      "question": "3/4을 소수로 나타내면?",
+      "answer": "0.75",
+      "accepted": [
+        "0.75"
+      ],
+      "choices": [
+        "0.25",
+        "0.5",
+        "0.75",
+        "1.25"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '0.75'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_math_normal_09",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "normal",
+      "question": "한 변이 4cm인 정사각형의 둘레는?",
+      "answer": "16cm",
+      "accepted": [
+        "16cm"
+      ],
+      "choices": [
+        "8cm",
+        "12cm",
+        "16cm",
+        "20cm"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '16cm'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_math_hard_10",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "hard",
+      "question": "2.5+1.75는?",
+      "answer": "4.25",
+      "accepted": [
+        "4.25"
+      ],
+      "choices": [
+        "3.25",
+        "4.0",
+        "4.25",
+        "4.75"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '4.25'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_math_hard_11",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "hard",
+      "question": "120의 30%는?",
+      "answer": "36",
+      "accepted": [
+        "36"
+      ],
+      "choices": [
+        "30",
+        "36",
+        "40",
+        "42"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '36'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_math_expert_12",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "expert",
+      "question": "1부터 10까지 자연수의 합은?",
+      "answer": "55",
+      "accepted": [
+        "55"
+      ],
+      "choices": [
+        "45",
+        "50",
+        "55",
+        "60"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '55'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_math_expert_13",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "expert",
+      "question": "가로 8cm, 세로 5cm인 직사각형에서 한 변 2cm 정사각형을 잘라낸 넓이는?",
+      "answer": "36㎠",
+      "accepted": [
+        "36㎠"
+      ],
+      "choices": [
+        "32㎠",
+        "36㎠",
+        "38㎠",
+        "40㎠"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '36㎠'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_math_master_14",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "master",
+      "question": "어떤 수에 20%를 더했더니 72가 되었다. 원래 수는?",
+      "answer": "60",
+      "accepted": [
+        "60"
+      ],
+      "choices": [
+        "50",
+        "55",
+        "60",
+        "65"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '60'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_math_master_15",
+      "topic": "elementary_math",
+      "topicName": "초등 수학",
+      "difficulty": "master",
+      "question": "세 수의 평균이 18이고 두 수가 12, 20이면 나머지 수는?",
+      "answer": "22",
+      "accepted": [
+        "22"
+      ],
+      "choices": [
+        "18",
+        "20",
+        "22",
+        "24"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '22'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_science_easy_06",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "easy",
+      "question": "해가 지는 방향은?",
+      "answer": "서쪽",
+      "accepted": [
+        "서쪽"
+      ],
+      "choices": [
+        "동쪽",
+        "서쪽",
+        "남쪽",
+        "북쪽"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '서쪽'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_science_easy_07",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "easy",
+      "question": "얼음이 녹으면 무엇이 되는가?",
+      "answer": "물",
+      "accepted": [
+        "물"
+      ],
+      "choices": [
+        "수증기",
+        "물",
+        "공기",
+        "소금"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '물'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_science_normal_08",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "normal",
+      "question": "전기가 잘 흐르는 물질은?",
+      "answer": "구리",
+      "accepted": [
+        "구리"
+      ],
+      "choices": [
+        "고무",
+        "유리",
+        "구리",
+        "나무"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '구리'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_science_normal_09",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "normal",
+      "question": "그림자의 길이가 달라지는 이유는?",
+      "answer": "빛의 방향과 높이가 달라져서",
+      "accepted": [
+        "빛의 방향과 높이가 달라져서"
+      ],
+      "choices": [
+        "물체 질량 변화",
+        "빛의 방향과 높이가 달라져서",
+        "온도만 변화",
+        "소리가 커져서"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '빛의 방향과 높이가 달라져서'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_science_hard_10",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "hard",
+      "question": "콩나물이 빛을 향해 굽는 현상은?",
+      "answer": "굴광성",
+      "accepted": [
+        "굴광성"
+      ],
+      "choices": [
+        "굴중성",
+        "굴광성",
+        "증산",
+        "발아"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '굴광성'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_science_hard_11",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "hard",
+      "question": "기체가 액체로 변하는 현상은?",
+      "answer": "액화",
+      "accepted": [
+        "액화"
+      ],
+      "choices": [
+        "기화",
+        "액화",
+        "융해",
+        "응고"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '액화'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_science_expert_12",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "expert",
+      "question": "같은 전구를 병렬 연결하면 각 전구의 밝기는?",
+      "answer": "한 개일 때와 비슷하다",
+      "accepted": [
+        "한 개일 때와 비슷하다"
+      ],
+      "choices": [
+        "항상 꺼진다",
+        "한 개일 때와 비슷하다",
+        "절반이 된다",
+        "무한히 밝아진다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '한 개일 때와 비슷하다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_science_expert_13",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "expert",
+      "question": "소금물이 순수한 물보다 늦게 어는 이유는?",
+      "answer": "어는점이 낮아져서",
+      "accepted": [
+        "어는점이 낮아져서"
+      ],
+      "choices": [
+        "끓는점이 낮아져서",
+        "어는점이 낮아져서",
+        "밀도가 0이어서",
+        "빛을 흡수해서"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '어는점이 낮아져서'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_science_master_14",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "master",
+      "question": "식물 잎의 기공이 주로 하는 일은?",
+      "answer": "기체 교환과 증산",
+      "accepted": [
+        "기체 교환과 증산"
+      ],
+      "choices": [
+        "뿌리 성장",
+        "기체 교환과 증산",
+        "씨앗 생성만",
+        "빛 반사만"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '기체 교환과 증산'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_science_master_15",
+      "topic": "elementary_science",
+      "topicName": "초등 과학",
+      "difficulty": "master",
+      "question": "같은 양의 물을 넓은 접시에 두면 빨리 마르는 이유는?",
+      "answer": "표면적이 커져 증발이 빨라져서",
+      "accepted": [
+        "표면적이 커져 증발이 빨라져서"
+      ],
+      "choices": [
+        "질량이 줄어서",
+        "표면적이 커져 증발이 빨라져서",
+        "온도가 항상 100℃라서",
+        "물이 끓어서"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '표면적이 커져 증발이 빨라져서'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_social_easy_06",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "easy",
+      "question": "우리나라의 국기는?",
+      "answer": "태극기",
+      "accepted": [
+        "태극기"
+      ],
+      "choices": [
+        "성조기",
+        "태극기",
+        "오성홍기",
+        "유니언잭"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '태극기'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_social_easy_07",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "easy",
+      "question": "선거에서 투표하는 목적은?",
+      "answer": "대표를 뽑기 위해",
+      "accepted": [
+        "대표를 뽑기 위해"
+      ],
+      "choices": [
+        "세금을 없애기 위해",
+        "대표를 뽑기 위해",
+        "법원을 없애기 위해",
+        "학교를 쉬기 위해"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '대표를 뽑기 위해'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_social_normal_08",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "normal",
+      "question": "산업이 발달하면 지역에 나타날 수 있는 변화는?",
+      "answer": "인구와 교통 증가",
+      "accepted": [
+        "인구와 교통 증가"
+      ],
+      "choices": [
+        "인구와 교통 증가",
+        "모든 농지 증가",
+        "건물 감소",
+        "교류 단절"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '인구와 교통 증가'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_social_normal_09",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "normal",
+      "question": "문화유산을 보호해야 하는 이유는?",
+      "answer": "역사와 문화를 이어가기 위해",
+      "accepted": [
+        "역사와 문화를 이어가기 위해"
+      ],
+      "choices": [
+        "관광객만 늘리려고",
+        "역사와 문화를 이어가기 위해",
+        "새 건물만 짓기 위해",
+        "옛것을 없애려고"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '역사와 문화를 이어가기 위해'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_social_hard_10",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "hard",
+      "question": "인구가 도시로 모이는 현상은?",
+      "answer": "도시화",
+      "accepted": [
+        "도시화"
+      ],
+      "choices": [
+        "산업화",
+        "도시화",
+        "세계화",
+        "정보화"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '도시화'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_social_hard_11",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "hard",
+      "question": "교통의 발달이 지역에 주는 영향은?",
+      "answer": "사람과 물자의 이동 증가",
+      "accepted": [
+        "사람과 물자의 이동 증가"
+      ],
+      "choices": [
+        "이동 감소",
+        "사람과 물자의 이동 증가",
+        "교류 중단",
+        "거리 증가"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '사람과 물자의 이동 증가'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_social_expert_12",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "expert",
+      "question": "공공시설 설치 위치를 정할 때 고려할 점은?",
+      "answer": "주민 접근성과 필요",
+      "accepted": [
+        "주민 접근성과 필요"
+      ],
+      "choices": [
+        "땅값만",
+        "주민 접근성과 필요",
+        "건물 색",
+        "광고 효과"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '주민 접근성과 필요'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_social_expert_13",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "expert",
+      "question": "지역 축제가 지역 경제에 도움을 주는 이유는?",
+      "answer": "관광객 소비와 일자리 증가",
+      "accepted": [
+        "관광객 소비와 일자리 증가"
+      ],
+      "choices": [
+        "주민 이동 금지",
+        "관광객 소비와 일자리 증가",
+        "농업 중단",
+        "세금 폐지"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '관광객 소비와 일자리 증가'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_social_master_14",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "master",
+      "question": "개발과 환경보호가 충돌할 때 필요한 태도는?",
+      "answer": "장단점을 비교해 지속가능한 대안 찾기",
+      "accepted": [
+        "장단점을 비교해 지속가능한 대안 찾기"
+      ],
+      "choices": [
+        "개발만 선택",
+        "장단점을 비교해 지속가능한 대안 찾기",
+        "환경만 무조건 선택",
+        "논의 중단"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '장단점을 비교해 지속가능한 대안 찾기'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_elementary_social_master_15",
+      "topic": "elementary_social",
+      "topicName": "초등 사회",
+      "difficulty": "master",
+      "question": "다수결만으로 모든 문제를 해결하기 어려운 이유는?",
+      "answer": "소수 의견과 기본권을 보호해야 해서",
+      "accepted": [
+        "소수 의견과 기본권을 보호해야 해서"
+      ],
+      "choices": [
+        "표가 부족해서",
+        "소수 의견과 기본권을 보호해야 해서",
+        "선거가 느려서",
+        "의견이 항상 같아서"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '소수 의견과 기본권을 보호해야 해서'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_english_easy_06",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "easy",
+      "question": "'Despite the rain, we went out.'의 뜻은?",
+      "answer": "비에도 불구하고 우리는 나갔다",
+      "accepted": [
+        "비에도 불구하고 우리는 나갔다"
+      ],
+      "choices": [
+        "비 때문에 집에 있었다",
+        "비에도 불구하고 우리는 나갔다",
+        "비가 오지 않았다",
+        "우리는 비를 기다렸다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '비에도 불구하고 우리는 나갔다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_english_easy_07",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "easy",
+      "question": "'increase'의 반대말은?",
+      "answer": "decrease",
+      "accepted": [
+        "decrease"
+      ],
+      "choices": [
+        "improve",
+        "decrease",
+        "include",
+        "create"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 'decrease'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_english_normal_08",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "normal",
+      "question": "'The man standing there is my teacher.'에서 standing은?",
+      "answer": "현재분사",
+      "accepted": [
+        "현재분사"
+      ],
+      "choices": [
+        "과거분사",
+        "현재분사",
+        "동명사만",
+        "부정사"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '현재분사'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_english_normal_09",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "normal",
+      "question": "'I wish I had more time.'의 의미는?",
+      "answer": "시간이 더 많으면 좋을 텐데",
+      "accepted": [
+        "시간이 더 많으면 좋을 텐데"
+      ],
+      "choices": [
+        "시간이 많다",
+        "시간이 더 많으면 좋을 텐데",
+        "시간이 필요 없다",
+        "시간을 잃었다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '시간이 더 많으면 좋을 텐데'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_english_hard_10",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "hard",
+      "question": "'It was not until then that I understood.'의 뜻은?",
+      "answer": "그때서야 이해했다",
+      "accepted": [
+        "그때서야 이해했다"
+      ],
+      "choices": [
+        "그 전에 이해했다",
+        "그때서야 이해했다",
+        "끝내 이해하지 못했다",
+        "항상 이해했다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '그때서야 이해했다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_english_hard_11",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "hard",
+      "question": "'No sooner had he arrived than it began to rain.'의 뜻은?",
+      "answer": "그가 도착하자마자 비가 오기 시작했다",
+      "accepted": [
+        "그가 도착하자마자 비가 오기 시작했다"
+      ],
+      "choices": [
+        "도착 전에 비가 그쳤다",
+        "그가 도착하자마자 비가 오기 시작했다",
+        "그는 비 때문에 안 왔다",
+        "비가 오지 않았다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '그가 도착하자마자 비가 오기 시작했다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_english_expert_12",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "expert",
+      "question": "'What matters is how you respond.'의 의미는?",
+      "answer": "중요한 것은 네가 어떻게 대응하느냐이다",
+      "accepted": [
+        "중요한 것은 네가 어떻게 대응하느냐이다"
+      ],
+      "choices": [
+        "무엇이 중요한지 모른다",
+        "중요한 것은 네가 어떻게 대응하느냐이다",
+        "대응은 중요하지 않다",
+        "질문만 중요하다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '중요한 것은 네가 어떻게 대응하느냐이다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_english_expert_13",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "expert",
+      "question": "'The proposal, which was controversial, was rejected.'에서 which절은?",
+      "answer": "계속적 용법",
+      "accepted": [
+        "계속적 용법"
+      ],
+      "choices": [
+        "제한적 용법",
+        "계속적 용법",
+        "명사절",
+        "부사절"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '계속적 용법'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_english_master_14",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "master",
+      "question": "'Were it not for technology, communication would be slower.'의 뜻은?",
+      "answer": "기술이 없다면 소통이 더 느릴 것이다",
+      "accepted": [
+        "기술이 없다면 소통이 더 느릴 것이다"
+      ],
+      "choices": [
+        "기술 때문에 소통이 느리다",
+        "기술이 없다면 소통이 더 느릴 것이다",
+        "기술은 소통과 무관하다",
+        "기술이 없었다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '기술이 없다면 소통이 더 느릴 것이다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_english_master_15",
+      "topic": "high_english",
+      "topicName": "고등 영어",
+      "difficulty": "master",
+      "question": "문맥 추론에서 접속사 'therefore'가 나타내는 관계는?",
+      "answer": "결과",
+      "accepted": [
+        "결과"
+      ],
+      "choices": [
+        "대조",
+        "결과",
+        "예시",
+        "양보"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '결과'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_korean_easy_06",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "easy",
+      "question": "문학 작품의 주제를 파악할 때 가장 중요한 것은?",
+      "answer": "반복되는 의미와 갈등",
+      "accepted": [
+        "반복되는 의미와 갈등"
+      ],
+      "choices": [
+        "글자 수",
+        "반복되는 의미와 갈등",
+        "작가 나이",
+        "출판 가격"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '반복되는 의미와 갈등'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_korean_easy_07",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "easy",
+      "question": "논설문에서 주장을 뒷받침하는 것은?",
+      "answer": "근거",
+      "accepted": [
+        "근거"
+      ],
+      "choices": [
+        "배경",
+        "근거",
+        "운율",
+        "인물"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '근거'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_korean_normal_08",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "normal",
+      "question": "비유적 표현의 목적은?",
+      "answer": "대상을 생생하고 효과적으로 전달",
+      "accepted": [
+        "대상을 생생하고 효과적으로 전달"
+      ],
+      "choices": [
+        "문법 제거",
+        "대상을 생생하고 효과적으로 전달",
+        "문장 수 감소",
+        "사실 숨김"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '대상을 생생하고 효과적으로 전달'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_korean_normal_09",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "normal",
+      "question": "매체 언어의 특징은?",
+      "answer": "문자·이미지·소리의 결합",
+      "accepted": [
+        "문자·이미지·소리의 결합"
+      ],
+      "choices": [
+        "문자만 사용",
+        "문자·이미지·소리의 결합",
+        "의미 없음",
+        "독자 없음"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '문자·이미지·소리의 결합'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_korean_hard_10",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "hard",
+      "question": "아이러니가 발생하는 조건은?",
+      "answer": "기대와 실제 결과의 불일치",
+      "accepted": [
+        "기대와 실제 결과의 불일치"
+      ],
+      "choices": [
+        "시간과 공간 일치",
+        "기대와 실제 결과의 불일치",
+        "문장 길이 동일",
+        "인물 수 증가"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '기대와 실제 결과의 불일치'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_korean_hard_11",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "hard",
+      "question": "비평문에서 평가 기준이 필요한 이유는?",
+      "answer": "판단의 근거를 분명히 하기 위해",
+      "accepted": [
+        "판단의 근거를 분명히 하기 위해"
+      ],
+      "choices": [
+        "감정을 숨기기 위해",
+        "판단의 근거를 분명히 하기 위해",
+        "내용을 줄이기 위해",
+        "작가를 비난하기 위해"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '판단의 근거를 분명히 하기 위해'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_korean_expert_12",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "expert",
+      "question": "담론에서 프레이밍의 의미는?",
+      "answer": "특정 관점으로 정보를 구성",
+      "accepted": [
+        "특정 관점으로 정보를 구성"
+      ],
+      "choices": [
+        "모든 정보를 동일하게 제시",
+        "특정 관점으로 정보를 구성",
+        "문법 오류 수정",
+        "제목을 삭제"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '특정 관점으로 정보를 구성'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_korean_expert_13",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "expert",
+      "question": "문학 작품의 공백이 독자에게 주는 효과는?",
+      "answer": "추론과 해석 참여를 유도",
+      "accepted": [
+        "추론과 해석 참여를 유도"
+      ],
+      "choices": [
+        "모든 의미를 확정",
+        "추론과 해석 참여를 유도",
+        "사건을 제거",
+        "주제를 없앰"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '추론과 해석 참여를 유도'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_korean_master_14",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "master",
+      "question": "서사에서 반복되는 모티프의 기능은?",
+      "answer": "주제 강화와 구조적 통일",
+      "accepted": [
+        "주제 강화와 구조적 통일"
+      ],
+      "choices": [
+        "인물 삭제",
+        "주제 강화와 구조적 통일",
+        "배경 무효화",
+        "시간 중단"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '주제 강화와 구조적 통일'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_korean_master_15",
+      "topic": "high_korean",
+      "topicName": "고등 국어",
+      "difficulty": "master",
+      "question": "상호텍스트성의 의미는?",
+      "answer": "한 텍스트가 다른 텍스트와 관계 맺음",
+      "accepted": [
+        "한 텍스트가 다른 텍스트와 관계 맺음"
+      ],
+      "choices": [
+        "텍스트가 고립됨",
+        "한 텍스트가 다른 텍스트와 관계 맺음",
+        "문법만 공유",
+        "제목만 같음"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '한 텍스트가 다른 텍스트와 관계 맺음'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_math_easy_06",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "easy",
+      "question": "2³의 값은?",
+      "answer": "8",
+      "accepted": [
+        "8"
+      ],
+      "choices": [
+        "4",
+        "6",
+        "8",
+        "9"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '8'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_math_easy_07",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "easy",
+      "question": "log₁₀100의 값은?",
+      "answer": "2",
+      "accepted": [
+        "2"
+      ],
+      "choices": [
+        "1",
+        "2",
+        "10",
+        "100"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '2'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_math_normal_08",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "normal",
+      "question": "등차수열 2,5,8,...의 공차는?",
+      "answer": "3",
+      "accepted": [
+        "3"
+      ],
+      "choices": [
+        "2",
+        "3",
+        "5",
+        "8"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '3'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_math_normal_09",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "normal",
+      "question": "함수 y=x²의 그래프는?",
+      "answer": "위로 열린 포물선",
+      "accepted": [
+        "위로 열린 포물선"
+      ],
+      "choices": [
+        "직선",
+        "위로 열린 포물선",
+        "원",
+        "쌍곡선"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '위로 열린 포물선'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_math_hard_10",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "hard",
+      "question": "이차방정식 x²-4=0의 해는?",
+      "answer": "±2",
+      "accepted": [
+        "±2"
+      ],
+      "choices": [
+        "2만",
+        "-2만",
+        "±2",
+        "±4"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '±2'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_math_hard_11",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "hard",
+      "question": "점 (1,2)와 (4,6) 사이의 거리는?",
+      "answer": "5",
+      "accepted": [
+        "5"
+      ],
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '5'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_math_expert_12",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "expert",
+      "question": "미분계수의 기하적 의미는?",
+      "answer": "접선의 기울기",
+      "accepted": [
+        "접선의 기울기"
+      ],
+      "choices": [
+        "넓이",
+        "접선의 기울기",
+        "y절편",
+        "평균"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '접선의 기울기'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_math_expert_13",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "expert",
+      "question": "정적분의 기하적 의미는?",
+      "answer": "부호를 고려한 넓이",
+      "accepted": [
+        "부호를 고려한 넓이"
+      ],
+      "choices": [
+        "기울기",
+        "부호를 고려한 넓이",
+        "최댓값만",
+        "근의 개수"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '부호를 고려한 넓이'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_math_master_14",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "master",
+      "question": "함수 f(x)=x³의 x=0에서 도함수 값은?",
+      "answer": "0",
+      "accepted": [
+        "0"
+      ],
+      "choices": [
+        "-1",
+        "0",
+        "1",
+        "3"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '0'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_math_master_15",
+      "topic": "high_math",
+      "topicName": "고등 수학",
+      "difficulty": "master",
+      "question": "두 사건 A,B가 독립이면 P(A∩B)는?",
+      "answer": "P(A)P(B)",
+      "accepted": [
+        "P(A)P(B)"
+      ],
+      "choices": [
+        "P(A)+P(B)",
+        "P(A)P(B)",
+        "P(A)-P(B)",
+        "1"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 'P(A)P(B)'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_science_easy_06",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "easy",
+      "question": "뉴턴의 제2법칙은?",
+      "answer": "F=ma",
+      "accepted": [
+        "F=ma"
+      ],
+      "choices": [
+        "V=IR",
+        "F=ma",
+        "p=mv",
+        "E=hf"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 'F=ma'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_science_easy_07",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "easy",
+      "question": "물질의 양 단위는?",
+      "answer": "몰",
+      "accepted": [
+        "몰"
+      ],
+      "choices": [
+        "그램",
+        "몰",
+        "리터",
+        "뉴턴"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '몰'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_science_normal_08",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "normal",
+      "question": "산화는 전자를 어떻게 하는 과정인가?",
+      "answer": "잃는 과정",
+      "accepted": [
+        "잃는 과정"
+      ],
+      "choices": [
+        "얻는 과정",
+        "잃는 과정",
+        "공유만",
+        "멈추는 과정"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '잃는 과정'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_science_normal_09",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "normal",
+      "question": "DNA를 구성하는 기본 단위는?",
+      "answer": "뉴클레오타이드",
+      "accepted": [
+        "뉴클레오타이드"
+      ],
+      "choices": [
+        "아미노산",
+        "뉴클레오타이드",
+        "지방산",
+        "포도당"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '뉴클레오타이드'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_science_hard_10",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "hard",
+      "question": "빛의 속력이 가장 빠른 곳은?",
+      "answer": "진공",
+      "accepted": [
+        "진공"
+      ],
+      "choices": [
+        "물",
+        "유리",
+        "진공",
+        "공기보다 느린 매질"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '진공'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_science_hard_11",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "hard",
+      "question": "반감기의 의미는?",
+      "answer": "방사성 원소 수가 절반이 되는 시간",
+      "accepted": [
+        "방사성 원소 수가 절반이 되는 시간"
+      ],
+      "choices": [
+        "질량이 0이 되는 시간",
+        "방사성 원소 수가 절반이 되는 시간",
+        "온도가 절반이 되는 시간",
+        "에너지가 두 배 되는 시간"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '방사성 원소 수가 절반이 되는 시간'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_science_expert_12",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "expert",
+      "question": "르샤틀리에 원리는 무엇을 설명하는가?",
+      "answer": "평형계가 변화를 완화하는 방향으로 이동",
+      "accepted": [
+        "평형계가 변화를 완화하는 방향으로 이동"
+      ],
+      "choices": [
+        "반응이 항상 멈춤",
+        "평형계가 변화를 완화하는 방향으로 이동",
+        "질량 보존이 깨짐",
+        "촉매가 평형을 이동"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '평형계가 변화를 완화하는 방향으로 이동'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_science_expert_13",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "expert",
+      "question": "생명과학에서 전사란?",
+      "answer": "DNA 정보를 RNA로 옮기는 과정",
+      "accepted": [
+        "DNA 정보를 RNA로 옮기는 과정"
+      ],
+      "choices": [
+        "RNA를 단백질로",
+        "DNA 정보를 RNA로 옮기는 과정",
+        "단백질을 DNA로",
+        "지질을 당으로"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 'DNA 정보를 RNA로 옮기는 과정'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_science_master_14",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "master",
+      "question": "열역학 제2법칙과 관련된 개념은?",
+      "answer": "엔트로피 증가",
+      "accepted": [
+        "엔트로피 증가"
+      ],
+      "choices": [
+        "질량 증가",
+        "엔트로피 증가",
+        "전하 생성",
+        "운동량 소멸"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '엔트로피 증가'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_science_master_15",
+      "topic": "high_science",
+      "topicName": "고등 과학",
+      "difficulty": "master",
+      "question": "상대성이론에서 질량과 에너지 관계는?",
+      "answer": "E=mc²",
+      "accepted": [
+        "E=mc²"
+      ],
+      "choices": [
+        "F=ma",
+        "E=mc²",
+        "V=IR",
+        "p=mv"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 'E=mc²'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_social_easy_06",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "easy",
+      "question": "민주 국가에서 주권자는?",
+      "answer": "국민",
+      "accepted": [
+        "국민"
+      ],
+      "choices": [
+        "왕",
+        "국민",
+        "군대",
+        "기업"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '국민'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_social_easy_07",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "easy",
+      "question": "시장경제에서 가격 신호의 역할은?",
+      "answer": "자원 배분 정보 제공",
+      "accepted": [
+        "자원 배분 정보 제공"
+      ],
+      "choices": [
+        "법원 운영",
+        "자원 배분 정보 제공",
+        "투표 대체",
+        "화폐 폐지"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '자원 배분 정보 제공'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_social_normal_08",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "normal",
+      "question": "법치주의의 의미는?",
+      "answer": "국가 권력도 법에 따라 행사",
+      "accepted": [
+        "국가 권력도 법에 따라 행사"
+      ],
+      "choices": [
+        "법보다 권력 우선",
+        "국가 권력도 법에 따라 행사",
+        "재판 폐지",
+        "행정부 무제한"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '국가 권력도 법에 따라 행사'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_social_normal_09",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "normal",
+      "question": "사회보험의 예는?",
+      "answer": "국민연금",
+      "accepted": [
+        "국민연금"
+      ],
+      "choices": [
+        "개인 저축",
+        "국민연금",
+        "사설 광고",
+        "주식 투자"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '국민연금'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_social_hard_10",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "hard",
+      "question": "비례세와 누진세의 차이는?",
+      "answer": "세율 구조가 다르다",
+      "accepted": [
+        "세율 구조가 다르다"
+      ],
+      "choices": [
+        "납세자가 없다",
+        "세율 구조가 다르다",
+        "세금 목적이 없다",
+        "화폐가 다르다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '세율 구조가 다르다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_social_hard_11",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "hard",
+      "question": "무역수지 흑자는?",
+      "answer": "수출이 수입보다 많음",
+      "accepted": [
+        "수출이 수입보다 많음"
+      ],
+      "choices": [
+        "수입이 수출보다 많음",
+        "수출이 수입보다 많음",
+        "수출입이 없음",
+        "환율이 0"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '수출이 수입보다 많음'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_social_expert_12",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "expert",
+      "question": "헌법재판의 기능은?",
+      "answer": "법률과 국가행위의 헌법 적합성 심사",
+      "accepted": [
+        "법률과 국가행위의 헌법 적합성 심사"
+      ],
+      "choices": [
+        "예산 편성만",
+        "법률과 국가행위의 헌법 적합성 심사",
+        "외교 협상",
+        "통화 발행"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '법률과 국가행위의 헌법 적합성 심사'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_social_expert_13",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "expert",
+      "question": "공론장의 조건은?",
+      "answer": "정보 접근·자유로운 토론·상호 존중",
+      "accepted": [
+        "정보 접근·자유로운 토론·상호 존중"
+      ],
+      "choices": [
+        "검열과 비밀주의",
+        "정보 접근·자유로운 토론·상호 존중",
+        "한 의견만 허용",
+        "전문가 배제"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '정보 접근·자유로운 토론·상호 존중'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_social_master_14",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "master",
+      "question": "복지정책에서 보편성과 선별성이 충돌하는 이유는?",
+      "answer": "재정 효율과 권리 보장 가치가 다르기 때문",
+      "accepted": [
+        "재정 효율과 권리 보장 가치가 다르기 때문"
+      ],
+      "choices": [
+        "두 방식이 완전히 같아서",
+        "재정 효율과 권리 보장 가치가 다르기 때문",
+        "복지가 불필요해서",
+        "세금이 없어서"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '재정 효율과 권리 보장 가치가 다르기 때문'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_high_social_master_15",
+      "topic": "high_social",
+      "topicName": "고등 사회",
+      "difficulty": "master",
+      "question": "플랫폼 경제에서 독점 우려가 커지는 이유는?",
+      "answer": "네트워크 효과와 데이터 집중",
+      "accepted": [
+        "네트워크 효과와 데이터 집중"
+      ],
+      "choices": [
+        "기업 수가 많아서",
+        "네트워크 효과와 데이터 집중",
+        "인터넷 속도가 느려서",
+        "광고가 없어서"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '네트워크 효과와 데이터 집중'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_english_easy_06",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "easy",
+      "question": "'I saw him yesterday.'의 시제는?",
+      "answer": "과거",
+      "accepted": [
+        "과거"
+      ],
+      "choices": [
+        "현재",
+        "과거",
+        "미래",
+        "현재완료"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '과거'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_english_easy_07",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "easy",
+      "question": "'better'의 원급은?",
+      "answer": "good",
+      "accepted": [
+        "good"
+      ],
+      "choices": [
+        "well",
+        "good",
+        "best",
+        "bad"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 'good'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_english_normal_08",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "normal",
+      "question": "'You must wear a seat belt.'의 의미는?",
+      "answer": "안전벨트를 반드시 매야 한다",
+      "accepted": [
+        "안전벨트를 반드시 매야 한다"
+      ],
+      "choices": [
+        "매도 되고 안 매도 된다",
+        "안전벨트를 반드시 매야 한다",
+        "안전벨트를 벗어야 한다",
+        "차를 타면 안 된다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '안전벨트를 반드시 매야 한다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_english_normal_09",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "normal",
+      "question": "'The movie was interesting.'의 뜻은?",
+      "answer": "그 영화는 흥미로웠다",
+      "accepted": [
+        "그 영화는 흥미로웠다"
+      ],
+      "choices": [
+        "영화가 지루했다",
+        "그 영화는 흥미로웠다",
+        "영화를 만들었다",
+        "영화관이 닫혔다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '그 영화는 흥미로웠다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_english_hard_10",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "hard",
+      "question": "'I don't know what he wants.'에서 what은?",
+      "answer": "명사절을 이끄는 의문사",
+      "accepted": [
+        "명사절을 이끄는 의문사"
+      ],
+      "choices": [
+        "관계부사",
+        "명사절을 이끄는 의문사",
+        "전치사",
+        "접속부사"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '명사절을 이끄는 의문사'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_english_hard_11",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "hard",
+      "question": "'Neither Tom nor Jim was late.'의 뜻은?",
+      "answer": "톰과 짐 모두 늦지 않았다",
+      "accepted": [
+        "톰과 짐 모두 늦지 않았다"
+      ],
+      "choices": [
+        "둘 다 늦었다",
+        "톰과 짐 모두 늦지 않았다",
+        "톰만 늦었다",
+        "짐만 늦었다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '톰과 짐 모두 늦지 않았다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_english_expert_12",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "expert",
+      "question": "'The harder you work, the more you learn.'의 의미는?",
+      "answer": "열심히 할수록 더 많이 배운다",
+      "accepted": [
+        "열심히 할수록 더 많이 배운다"
+      ],
+      "choices": [
+        "공부할수록 덜 배운다",
+        "열심히 할수록 더 많이 배운다",
+        "노력과 학습은 무관하다",
+        "일을 멈춰야 배운다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '열심히 할수록 더 많이 배운다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_english_expert_13",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "expert",
+      "question": "'He is said to be honest.'의 의미는?",
+      "answer": "그는 정직하다고 알려져 있다",
+      "accepted": [
+        "그는 정직하다고 알려져 있다"
+      ],
+      "choices": [
+        "그가 정직하다고 말했다",
+        "그는 정직하다고 알려져 있다",
+        "그는 정직하지 않다",
+        "그는 말을 하지 않는다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '그는 정직하다고 알려져 있다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_english_master_14",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "master",
+      "question": "'Not until midnight did he arrive.'가 강조하는 것은?",
+      "answer": "그가 자정이 되어서야 도착했다",
+      "accepted": [
+        "그가 자정이 되어서야 도착했다"
+      ],
+      "choices": [
+        "그가 자정 전에 도착했다",
+        "그가 자정이 되어서야 도착했다",
+        "그는 도착하지 않았다",
+        "그는 항상 일찍 왔다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '그가 자정이 되어서야 도착했다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_english_master_15",
+      "topic": "middle_english",
+      "topicName": "중등 영어",
+      "difficulty": "master",
+      "question": "'Had it not been for your help, I would have failed.'의 뜻은?",
+      "answer": "네 도움이 없었더라면 실패했을 것이다",
+      "accepted": [
+        "네 도움이 없었더라면 실패했을 것이다"
+      ],
+      "choices": [
+        "도움 때문에 실패했다",
+        "네 도움이 없었더라면 실패했을 것이다",
+        "도움이 필요 없었다",
+        "이미 성공하지 못했다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '네 도움이 없었더라면 실패했을 것이다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_korean_easy_06",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "easy",
+      "question": "'새 책'에서 '새'의 품사는?",
+      "answer": "관형사",
+      "accepted": [
+        "관형사"
+      ],
+      "choices": [
+        "명사",
+        "관형사",
+        "부사",
+        "동사"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '관형사'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_korean_easy_07",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "easy",
+      "question": "'매우 빠르다'에서 부사어는?",
+      "answer": "매우",
+      "accepted": [
+        "매우"
+      ],
+      "choices": [
+        "매우",
+        "빠르다",
+        "없다",
+        "빠르"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '매우'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_korean_normal_08",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "normal",
+      "question": "'먹히다'는 어떤 표현인가?",
+      "answer": "피동 표현",
+      "accepted": [
+        "피동 표현"
+      ],
+      "choices": [
+        "사동 표현",
+        "피동 표현",
+        "높임 표현",
+        "부정 표현"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '피동 표현'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_korean_normal_09",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "normal",
+      "question": "'공부하려고 도서관에 갔다'에서 목적을 나타내는 말은?",
+      "answer": "공부하려고",
+      "accepted": [
+        "공부하려고"
+      ],
+      "choices": [
+        "도서관에",
+        "갔다",
+        "공부하려고",
+        "없다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '공부하려고'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_korean_hard_10",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "hard",
+      "question": "직유법이 쓰인 표현은?",
+      "answer": "마음이 호수처럼 잔잔하다",
+      "accepted": [
+        "마음이 호수처럼 잔잔하다"
+      ],
+      "choices": [
+        "마음은 호수다",
+        "마음이 호수처럼 잔잔하다",
+        "호수가 웃는다",
+        "마음이 무겁다"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '마음이 호수처럼 잔잔하다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_korean_hard_11",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "hard",
+      "question": "논설문에서 반론을 다루는 이유는?",
+      "answer": "주장의 설득력을 높이기 위해",
+      "accepted": [
+        "주장의 설득력을 높이기 위해"
+      ],
+      "choices": [
+        "문장을 늘리기 위해",
+        "주장의 설득력을 높이기 위해",
+        "결론을 숨기기 위해",
+        "근거를 없애기 위해"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '주장의 설득력을 높이기 위해'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_korean_expert_12",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "expert",
+      "question": "문학 작품의 서술자가 바뀌면 달라질 수 있는 것은?",
+      "answer": "정보의 범위와 독자의 판단",
+      "accepted": [
+        "정보의 범위와 독자의 판단"
+      ],
+      "choices": [
+        "사건 자체가 항상 사라짐",
+        "정보의 범위와 독자의 판단",
+        "문장 부호만",
+        "배경의 계절만"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '정보의 범위와 독자의 판단'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_korean_expert_13",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "expert",
+      "question": "매체 자료를 비판적으로 읽는 방법은?",
+      "answer": "제작 의도와 편집 방식을 확인",
+      "accepted": [
+        "제작 의도와 편집 방식을 확인"
+      ],
+      "choices": [
+        "화면 크기만 확인",
+        "제작 의도와 편집 방식을 확인",
+        "댓글 수만 보기",
+        "제목만 믿기"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '제작 의도와 편집 방식을 확인'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_korean_master_14",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "master",
+      "question": "같은 사실을 기사와 광고가 다르게 제시할 수 있는 이유는?",
+      "answer": "목적과 대상 독자가 다르기 때문",
+      "accepted": [
+        "목적과 대상 독자가 다르기 때문"
+      ],
+      "choices": [
+        "사실이 두 개라서",
+        "목적과 대상 독자가 다르기 때문",
+        "글자 수가 달라서",
+        "문법이 달라서"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '목적과 대상 독자가 다르기 때문'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_korean_master_15",
+      "topic": "middle_korean",
+      "topicName": "중등 국어",
+      "difficulty": "master",
+      "question": "문학의 모호성이 가치가 될 수 있는 이유는?",
+      "answer": "다층적 해석과 독자 참여를 가능하게 해서",
+      "accepted": [
+        "다층적 해석과 독자 참여를 가능하게 해서"
+      ],
+      "choices": [
+        "의미가 없어서",
+        "다층적 해석과 독자 참여를 가능하게 해서",
+        "오류가 많아서",
+        "주제를 제거해서"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '다층적 해석과 독자 참여를 가능하게 해서'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_math_easy_06",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "easy",
+      "question": "-3+7은?",
+      "answer": "4",
+      "accepted": [
+        "4"
+      ],
+      "choices": [
+        "-10",
+        "-4",
+        "4",
+        "10"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '4'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_math_easy_07",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "easy",
+      "question": "5x=20의 해는?",
+      "answer": "4",
+      "accepted": [
+        "4"
+      ],
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '4'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_math_normal_08",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "normal",
+      "question": "일차함수 y=-x+3의 기울기는?",
+      "answer": "-1",
+      "accepted": [
+        "-1"
+      ],
+      "choices": [
+        "-3",
+        "-1",
+        "1",
+        "3"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '-1'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_math_normal_09",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "normal",
+      "question": "원주율을 나타내는 기호는?",
+      "answer": "π",
+      "accepted": [
+        "π"
+      ],
+      "choices": [
+        "α",
+        "β",
+        "π",
+        "Σ"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 'π'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_math_hard_10",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "hard",
+      "question": "연립방정식 x+y=7, x-y=1의 해에서 x는?",
+      "answer": "4",
+      "accepted": [
+        "4"
+      ],
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '4'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_math_hard_11",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "hard",
+      "question": "확률이 0인 사건은?",
+      "answer": "절대로 일어나지 않는 사건",
+      "accepted": [
+        "절대로 일어나지 않는 사건"
+      ],
+      "choices": [
+        "반드시 일어나는 사건",
+        "절대로 일어나지 않는 사건",
+        "가끔 일어나는 사건",
+        "절반 확률 사건"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '절대로 일어나지 않는 사건'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_math_expert_12",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "expert",
+      "question": "두 삼각형이 합동임을 판단하는 조건이 아닌 것은?",
+      "answer": "세 각이 각각 같음",
+      "accepted": [
+        "세 각이 각각 같음"
+      ],
+      "choices": [
+        "세 변이 각각 같음",
+        "두 변과 끼인각이 같음",
+        "한 변과 양 끝각이 같음",
+        "세 각이 각각 같음"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '세 각이 각각 같음'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_math_expert_13",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "expert",
+      "question": "자료의 중앙값이 평균보다 극단값에 덜 민감한 이유는?",
+      "answer": "순서상의 가운데 값이기 때문",
+      "accepted": [
+        "순서상의 가운데 값이기 때문"
+      ],
+      "choices": [
+        "모든 값을 더해서",
+        "순서상의 가운데 값이기 때문",
+        "최댓값만 사용해서",
+        "항상 평균과 같아서"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '순서상의 가운데 값이기 때문'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_math_master_14",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "master",
+      "question": "함수 y=ax+b에서 a가 커질수록 그래프는?",
+      "answer": "기울기가 더 가파르게 증가",
+      "accepted": [
+        "기울기가 더 가파르게 증가"
+      ],
+      "choices": [
+        "항상 아래로 이동",
+        "기울기가 더 가파르게 증가",
+        "y절편만 증가",
+        "직선이 곡선이 됨"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '기울기가 더 가파르게 증가'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_math_master_15",
+      "topic": "middle_math",
+      "topicName": "중등 수학",
+      "difficulty": "master",
+      "question": "직각삼각형에서 빗변이 13, 한 직각변이 5이면 다른 변은?",
+      "answer": "12",
+      "accepted": [
+        "12"
+      ],
+      "choices": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '12'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_science_easy_06",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "easy",
+      "question": "원자의 중심에는 무엇이 있는가?",
+      "answer": "원자핵",
+      "accepted": [
+        "원자핵"
+      ],
+      "choices": [
+        "전자",
+        "원자핵",
+        "분자",
+        "이온"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '원자핵'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_science_easy_07",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "easy",
+      "question": "지구 표면의 대부분을 차지하는 것은?",
+      "answer": "바다",
+      "accepted": [
+        "바다"
+      ],
+      "choices": [
+        "산",
+        "바다",
+        "사막",
+        "빙하"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '바다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_science_normal_08",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "normal",
+      "question": "속력은 어떻게 계산하는가?",
+      "answer": "거리÷시간",
+      "accepted": [
+        "거리÷시간"
+      ],
+      "choices": [
+        "시간÷거리",
+        "거리÷시간",
+        "거리×시간",
+        "거리+시간"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '거리÷시간'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_science_normal_09",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "normal",
+      "question": "전류의 단위는?",
+      "answer": "암페어",
+      "accepted": [
+        "암페어"
+      ],
+      "choices": [
+        "볼트",
+        "암페어",
+        "옴",
+        "와트"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '암페어'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_science_hard_10",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "hard",
+      "question": "힘이 한 일의 양을 나타내는 물리량은?",
+      "answer": "일",
+      "accepted": [
+        "일"
+      ],
+      "choices": [
+        "전력",
+        "일",
+        "압력",
+        "밀도"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '일'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_science_hard_11",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "hard",
+      "question": "기체의 온도가 올라가면 분자 운동은?",
+      "answer": "빨라진다",
+      "accepted": [
+        "빨라진다"
+      ],
+      "choices": [
+        "느려진다",
+        "빨라진다",
+        "멈춘다",
+        "방향만 일정"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '빨라진다'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_science_expert_12",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "expert",
+      "question": "생물 농축이 상위 소비자에서 심해지는 이유는?",
+      "answer": "분해되지 않는 물질이 먹이사슬을 따라 축적",
+      "accepted": [
+        "분해되지 않는 물질이 먹이사슬을 따라 축적"
+      ],
+      "choices": [
+        "먹이를 적게 먹어서",
+        "분해되지 않는 물질이 먹이사슬을 따라 축적",
+        "체온이 높아서",
+        "산소가 많아서"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '분해되지 않는 물질이 먹이사슬을 따라 축적'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_science_expert_13",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "expert",
+      "question": "전압·전류·저항의 관계는?",
+      "answer": "V=IR",
+      "accepted": [
+        "V=IR"
+      ],
+      "choices": [
+        "P=VI",
+        "V=IR",
+        "F=ma",
+        "E=mc²"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 'V=IR'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_science_master_14",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "master",
+      "question": "대류가 주로 일어나는 물질 상태는?",
+      "answer": "액체와 기체",
+      "accepted": [
+        "액체와 기체"
+      ],
+      "choices": [
+        "고체만",
+        "액체와 기체",
+        "진공만",
+        "플라스마만"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '액체와 기체'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_science_master_15",
+      "topic": "middle_science",
+      "topicName": "중등 과학",
+      "difficulty": "master",
+      "question": "달의 위상이 약 한 달 주기로 반복되는 이유는?",
+      "answer": "달의 공전으로 태양빛을 받는 면이 달라 보여서",
+      "accepted": [
+        "달의 공전으로 태양빛을 받는 면이 달라 보여서"
+      ],
+      "choices": [
+        "달이 크기를 바꿔서",
+        "달의 공전으로 태양빛을 받는 면이 달라 보여서",
+        "지구 자전이 멈춰서",
+        "태양이 달 주위를 돌아서"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '달의 공전으로 태양빛을 받는 면이 달라 보여서'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_social_easy_06",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "easy",
+      "question": "헌법은 무엇의 기본이 되는 법인가?",
+      "answer": "국가의 최고 법",
+      "accepted": [
+        "국가의 최고 법"
+      ],
+      "choices": [
+        "학교 규칙",
+        "국가의 최고 법",
+        "회사 규정",
+        "가족 약속"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '국가의 최고 법'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_social_easy_07",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "easy",
+      "question": "세금을 걷는 주요 목적은?",
+      "answer": "공공서비스 제공",
+      "accepted": [
+        "공공서비스 제공"
+      ],
+      "choices": [
+        "개인 취미 지원",
+        "공공서비스 제공",
+        "기업만 지원",
+        "선거 폐지"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '공공서비스 제공'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_social_normal_08",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "normal",
+      "question": "인구 밀도는 어떻게 계산하는가?",
+      "answer": "인구÷면적",
+      "accepted": [
+        "인구÷면적"
+      ],
+      "choices": [
+        "면적÷인구",
+        "인구÷면적",
+        "인구+면적",
+        "인구×면적"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '인구÷면적'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_social_normal_09",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "normal",
+      "question": "수입품 가격이 환율 상승으로 오를 수 있는 이유는?",
+      "answer": "외화 구매에 더 많은 원화가 필요해서",
+      "accepted": [
+        "외화 구매에 더 많은 원화가 필요해서"
+      ],
+      "choices": [
+        "외화가 사라져서",
+        "외화 구매에 더 많은 원화가 필요해서",
+        "수입이 금지돼서",
+        "세금이 0이어서"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '외화 구매에 더 많은 원화가 필요해서'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_social_hard_10",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "hard",
+      "question": "의회가 행정부를 견제하는 수단은?",
+      "answer": "국정감사",
+      "accepted": [
+        "국정감사"
+      ],
+      "choices": [
+        "사면권",
+        "국정감사",
+        "재판권",
+        "통화 발행"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '국정감사'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_social_hard_11",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "hard",
+      "question": "사회화의 의미는?",
+      "answer": "사회 규범과 역할을 학습하는 과정",
+      "accepted": [
+        "사회 규범과 역할을 학습하는 과정"
+      ],
+      "choices": [
+        "학교만 다니는 것",
+        "사회 규범과 역할을 학습하는 과정",
+        "돈을 버는 것",
+        "투표만 하는 것"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '사회 규범과 역할을 학습하는 과정'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_social_expert_12",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "expert",
+      "question": "공공재의 특징은?",
+      "answer": "비경합성과 비배제성",
+      "accepted": [
+        "비경합성과 비배제성"
+      ],
+      "choices": [
+        "경합성과 배제성",
+        "비경합성과 비배제성",
+        "사유재와 동일",
+        "가격이 반드시 0"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '비경합성과 비배제성'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_social_expert_13",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "expert",
+      "question": "국제 분업이 확대되는 이유는?",
+      "answer": "비교우위와 생산 효율",
+      "accepted": [
+        "비교우위와 생산 효율"
+      ],
+      "choices": [
+        "모든 나라 자원 동일",
+        "비교우위와 생산 효율",
+        "교역 비용 무한 증가",
+        "기술 교류 금지"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '비교우위와 생산 효율'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_social_master_14",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "master",
+      "question": "다문화 사회에서 사회 통합을 위해 필요한 것은?",
+      "answer": "차이 존중과 공통 규범 형성",
+      "accepted": [
+        "차이 존중과 공통 규범 형성"
+      ],
+      "choices": [
+        "동화만 강요",
+        "차이 존중과 공통 규범 형성",
+        "교류 금지",
+        "법 적용 차별"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '차이 존중과 공통 규범 형성'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "kc_20260731_middle_social_master_15",
+      "topic": "middle_social",
+      "topicName": "중등 사회",
+      "difficulty": "master",
+      "question": "경제 성장률이 높아도 삶의 질이 반드시 개선되지 않는 이유는?",
+      "answer": "분배·환경·복지 요인이 다를 수 있어서",
+      "accepted": [
+        "분배·환경·복지 요인이 다를 수 있어서"
+      ],
+      "choices": [
+        "GDP가 항상 거짓이라서",
+        "분배·환경·복지 요인이 다를 수 있어서",
+        "인구가 없어서",
+        "화폐가 사라져서"
+      ],
+      "hint": "핵심 개념과 보기의 관계를 차례로 확인하세요.",
+      "explanation": "정답은 '분배·환경·복지 요인이 다를 수 있어서'입니다. 관련 개념과 조건을 적용하면 이 답을 고를 수 있습니다.",
+      "date": "2026-07-31"
+    }
+  ]
+}
