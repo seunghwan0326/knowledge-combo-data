@@ -1,65 +1,67 @@
 {
   "schemaVersion": 1,
-  "version": "11",
-  "updatedAt": "2026-07-31T11:10:00+09:00",
+  "version": "12",
+  "updatedAt": "2026-08-01T07:00:00+09:00",
   "title": "지식콤보 무료 문제 저장소",
   "replacePacks": false,
+  "previousCumulativeQuestionCount": 4155,
+  "addedQuestionCount": 2700,
+  "cumulativeQuestionCount": 6855,
   "packs": [
     {
       "id": "starter-001",
       "version": "1",
       "url": "starter_pack_001.json",
-      "enabled": true,
-      "description": "연결 시험용 55문제"
+      "enabled": true
     },
     {
       "id": "school-core-002",
       "version": "1",
       "url": "school_pack_002_375.json",
-      "enabled": true,
-      "description": "초·중·고 교과 핵심 375문제"
+      "enabled": true
     },
     {
       "id": "school-expansion-003",
       "version": "2",
       "url": "school_pack_003_1500.json",
-      "enabled": true,
-      "description": "초·중·고 교과 추가 1,500문제"
+      "enabled": true
     },
     {
       "id": "school-learning-004",
       "version": "1",
       "url": "school_pack_004_learning_450.json",
-      "enabled": true,
-      "description": "교육 중심 450문제"
+      "enabled": true
     },
     {
       "id": "daily-special-20260731-005",
       "version": "1",
       "url": "daily_special_pack_2026_07_31_525.json",
-      "enabled": true,
-      "description": "35개 주제 × 15문제, 총 525문제 특별팩"
+      "enabled": true
     },
     {
       "id": "all-topics-mastery-006",
       "version": "2",
       "url": "all_topics_mastery_006_710.json",
-      "enabled": true,
-      "description": "36개 주제 난이도별 최소 10문제 보장용 710문제 확장팩(성경 포함)"
+      "enabled": true
     },
     {
       "id": "all-topics-depth-007",
       "version": "2",
       "url": "all_topics_depth_007_525.json",
-      "enabled": true,
-      "description": "21개 부족 주제 × 5난이도 × 5문제, 총 525문제. 모든 36개 주제 난이도별 최소 15문제 보장"
+      "enabled": true
     },
     {
       "id": "all-topics-easy-gap-008",
       "version": "1",
       "url": "all_topics_easy_gap_008_40.json",
+      "enabled": true
+    },
+    {
+      "id": "daily-knowledge-combo-2700-20260801-009",
+      "version": "1",
+      "url": "daily_knowledge_combo_2026_08_01_2700.json",
       "enabled": true,
-      "description": "일반 20개 주제 하 난이도 2문제씩, 총 40문제 보정팩. 각 주제 75문제 완성"
+      "description": "36개 주제 × 5난이도 × 조합별 15문제, 총 2,700문제"
     }
   ]
 }
