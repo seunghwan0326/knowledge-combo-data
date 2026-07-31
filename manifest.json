@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "9",
-  "updatedAt": "2026-07-31T10:17:00+09:00",
+  "version": "10",
+  "updatedAt": "2026-07-31T10:55:00+09:00",
   "title": "지식콤보 무료 문제 저장소",
   "replacePacks": false,
   "packs": [
@@ -42,14 +42,14 @@
     },
     {
       "id": "all-topics-mastery-006",
-      "version": "1",
+      "version": "2",
       "url": "all_topics_mastery_006_710.json",
       "enabled": true,
       "description": "36개 주제 난이도별 최소 10문제 보장용 710문제 확장팩(성경 포함)"
     },
     {
       "id": "all-topics-depth-007",
-      "version": "1",
+      "version": "2",
       "url": "all_topics_depth_007_525.json",
       "enabled": true,
       "description": "21개 부족 주제 × 5난이도 × 5문제, 총 525문제. 모든 36개 주제 난이도별 최소 15문제 보장"
