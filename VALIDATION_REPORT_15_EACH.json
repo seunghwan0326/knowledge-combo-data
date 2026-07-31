@@ -1,0 +1,21 @@
+{
+  "baselineArchive": "knowledge-combo-data-main.zip",
+  "baselineManifest": "manifest-1.json version 8",
+  "baselineQuestionCount": 3615,
+  "addedQuestionCount": 525,
+  "finalActiveQuestionCount": 4140,
+  "topicCount": 36,
+  "difficultyCount": 5,
+  "requiredMinimumPerTopicDifficulty": 15,
+  "minimumObservedPerTopicDifficulty": 15,
+  "shortfalls": [],
+  "newQuestionIdDuplicates": 0,
+  "newQuestionExactDuplicates": 0,
+  "newAnswerExactDuplicatesWithinNewPack": 0,
+  "nearDuplicateSamples": [],
+  "note": "기존 문제는 삭제·수정하지 않았습니다. 새 문제는 question/answer의 정규화된 완전 일치 중복이 없도록 검사했습니다. 의미상 유사성은 자동 검사에 한계가 있어 conceptKey를 전부 고유하게 부여하고 주제별 개념을 분산했습니다.",
+  "newQuestionExactOverlapWithExistingSameTopic": 0,
+  "newAnswerExactOverlapWithExistingSameTopic": 0,
+  "nearDuplicateQuestionsSameTopicThreshold090": 0,
+  "validationRule": "새 문제팩 내부 및 동일 주제의 기존 문제와 비교해 질문·정답의 정규화 완전 일치를 금지했습니다. 기존 문제 자체의 중복은 보존 조건 때문에 수정하지 않았습니다."
+}
