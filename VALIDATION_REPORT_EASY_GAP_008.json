@@ -1,0 +1,44 @@
+{
+  "validationDate": "2026-07-31T11:10:00+09:00",
+  "diagnosis": {
+    "manifestRawQuestionCountBeforePatch": 4140,
+    "observedAppGithubQuestionCountBeforePatch": 4100,
+    "difference": 40,
+    "causeMatchedToData": "starter_pack_001.json의 일반 주제 20개 × easy 2문제가 앱 집계에서 제외됨",
+    "affectedTopics": 20,
+    "countPerAffectedTopicBeforePatch": {
+      "easy": 13,
+      "normal": 15,
+      "hard": 15,
+      "expert": 15,
+      "master": 15,
+      "total": 73
+    }
+  },
+  "patch": {
+    "packId": "all-topics-easy-gap-008",
+    "newQuestions": 40,
+    "questionsPerTopic": 2,
+    "difficulty": "easy",
+    "affectedTopicCount": 20
+  },
+  "expectedAfterPatch": {
+    "githubQuestionCountShownByApp": 4140,
+    "builtInBibleQuestions": 15,
+    "totalQuestionCountShownByApp": 4155,
+    "affectedTopicCount": {
+      "easy": 15,
+      "normal": 15,
+      "hard": 15,
+      "expert": 15,
+      "master": 15,
+      "total": 75
+    }
+  },
+  "duplicateChecks": {
+    "newQuestionIdsUnique": true,
+    "newQuestionTextsUnique": true,
+    "newAnswersUniqueWithinEachTopic": true,
+    "answerAndQuestionExactDuplicatesAgainstCurrentSameTopic": 0
+  }
+}

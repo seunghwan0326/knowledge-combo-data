@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "10",
-  "updatedAt": "2026-07-31T10:55:00+09:00",
+  "version": "11",
+  "updatedAt": "2026-07-31T11:10:00+09:00",
   "title": "지식콤보 무료 문제 저장소",
   "replacePacks": false,
   "packs": [
@@ -53,6 +53,13 @@
       "url": "all_topics_depth_007_525.json",
       "enabled": true,
       "description": "21개 부족 주제 × 5난이도 × 5문제, 총 525문제. 모든 36개 주제 난이도별 최소 15문제 보장"
+    },
+    {
+      "id": "all-topics-easy-gap-008",
+      "version": "1",
+      "url": "all_topics_easy_gap_008_40.json",
+      "enabled": true,
+      "description": "일반 20개 주제 하 난이도 2문제씩, 총 40문제 보정팩. 각 주제 75문제 완성"
     }
   ]
 }
