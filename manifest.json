@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "12",
-  "updatedAt": "2026-08-01T07:00:00+09:00",
+  "version": "13",
+  "updatedAt": "2026-08-01T14:20:00+09:00",
   "title": "지식콤보 무료 문제 저장소",
   "replacePacks": false,
   "previousCumulativeQuestionCount": 4155,
@@ -58,10 +58,10 @@
     },
     {
       "id": "daily-knowledge-combo-2700-20260801-009",
-      "version": "1",
+      "version": "2",
       "url": "daily_knowledge_combo_2026_08_01_2700.json",
       "enabled": true,
-      "description": "36개 주제 × 5난이도 × 조합별 15문제, 총 2,700문제"
+      "description": "36개 주제 × 5난이도 × 조합별 15문제, 총 2,700문제 교정·검수본"
     }
   ]
 }
