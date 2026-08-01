@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "version": "13",
-  "updatedAt": "2026-08-01T14:20:00+09:00",
+  "updatedAt": "2026-08-02T07:00:00+09:00",
   "title": "지식콤보 무료 문제 저장소",
   "replacePacks": false,
-  "previousCumulativeQuestionCount": 4155,
+  "previousCumulativeQuestionCount": 6855,
   "addedQuestionCount": 2700,
-  "cumulativeQuestionCount": 6855,
+  "cumulativeQuestionCount": 9555,
   "packs": [
     {
       "id": "starter-001",
@@ -58,10 +58,17 @@
     },
     {
       "id": "daily-knowledge-combo-2700-20260801-009",
-      "version": "2",
+      "version": "1",
       "url": "daily_knowledge_combo_2026_08_01_2700.json",
       "enabled": true,
-      "description": "36개 주제 × 5난이도 × 조합별 15문제, 총 2,700문제 교정·검수본"
+      "description": "36개 주제 × 5난이도 × 조합별 15문제, 총 2,700문제"
+    },
+    {
+      "id": "daily-knowledge-combo-2700-20260802-010",
+      "version": "1",
+      "url": "daily_knowledge_combo_2026_08_02_2700.json",
+      "enabled": true,
+      "description": "36개 주제 × 5난이도 × 조합별 15문제, 총 2,700문제 일일 누적팩"
     }
   ]
 }
