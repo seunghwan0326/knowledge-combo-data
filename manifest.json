@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "14",
-  "updatedAt": "2026-08-03T07:00:00+09:00",
+  "version": "15",
+  "updatedAt": "2026-08-04T07:00:00+09:00",
   "title": "지식콤보 무료 문제 저장소",
   "replacePacks": false,
-  "previousCumulativeQuestionCount": 9555,
+  "previousCumulativeQuestionCount": 12255,
   "addedQuestionCount": 2700,
-  "cumulativeQuestionCount": 12255,
+  "cumulativeQuestionCount": 14955,
   "packs": [
     {
       "id": "starter-001",
@@ -58,24 +58,27 @@
     },
     {
       "id": "daily-knowledge-combo-2700-20260801-009",
-      "version": "1",
+      "version": "2",
       "url": "daily_knowledge_combo_2026_08_01_2700.json",
-      "enabled": true,
-      "description": "36개 주제 × 5난이도 × 조합별 15문제, 총 2,700문제"
+      "enabled": true
     },
     {
       "id": "daily-knowledge-combo-2700-20260802-010",
       "version": "1",
       "url": "daily_knowledge_combo_2026_08_02_2700.json",
-      "enabled": true,
-      "description": "36개 주제 × 5난이도 × 조합별 15문제, 총 2,700문제 일일 누적팩"
+      "enabled": true
     },
     {
       "id": "daily-knowledge-combo-2700-20260803-011",
       "version": "1",
       "url": "daily_knowledge_combo_2026_08_03_2700.json",
-      "enabled": true,
-      "description": "36개 주제 × 5개 난이도 × 조합별 15문제, 총 2,700문제 일일 누적팩"
+      "enabled": true
+    },
+    {
+      "id": "daily-knowledge-combo-2700-20260804-012",
+      "version": "1",
+      "url": "daily_knowledge_combo_2026_08_04_2700.json",
+      "enabled": true
     }
   ]
 }
