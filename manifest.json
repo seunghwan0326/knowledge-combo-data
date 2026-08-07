@@ -1,83 +1,15 @@
 {
   "schemaVersion": 1,
-  "version": "15",
-  "updatedAt": "2026-08-04T07:00:00+09:00",
-  "title": "지식콤보 무료 문제 저장소",
+  "updatedAt": "2026-08-08T07:00:00+09:00",
   "replacePacks": false,
-  "previousCumulativeQuestionCount": 12255,
+  "previousCumulativeQuestionCount": 20355,
   "addedQuestionCount": 2700,
-  "cumulativeQuestionCount": 14955,
+  "cumulativeQuestionCount": 23055,
   "packs": [
     {
-      "id": "starter-001",
-      "version": "1",
-      "url": "starter_pack_001.json",
-      "enabled": true
-    },
-    {
-      "id": "school-core-002",
-      "version": "1",
-      "url": "school_pack_002_375.json",
-      "enabled": true
-    },
-    {
-      "id": "school-expansion-003",
-      "version": "2",
-      "url": "school_pack_003_1500.json",
-      "enabled": true
-    },
-    {
-      "id": "school-learning-004",
-      "version": "1",
-      "url": "school_pack_004_learning_450.json",
-      "enabled": true
-    },
-    {
-      "id": "daily-special-20260731-005",
-      "version": "1",
-      "url": "daily_special_pack_2026_07_31_525.json",
-      "enabled": true
-    },
-    {
-      "id": "all-topics-mastery-006",
-      "version": "2",
-      "url": "all_topics_mastery_006_710.json",
-      "enabled": true
-    },
-    {
-      "id": "all-topics-depth-007",
-      "version": "2",
-      "url": "all_topics_depth_007_525.json",
-      "enabled": true
-    },
-    {
-      "id": "all-topics-easy-gap-008",
-      "version": "1",
-      "url": "all_topics_easy_gap_008_40.json",
-      "enabled": true
-    },
-    {
-      "id": "daily-knowledge-combo-2700-20260801-009",
-      "version": "2",
-      "url": "daily_knowledge_combo_2026_08_01_2700.json",
-      "enabled": true
-    },
-    {
-      "id": "daily-knowledge-combo-2700-20260802-010",
-      "version": "1",
-      "url": "daily_knowledge_combo_2026_08_02_2700.json",
-      "enabled": true
-    },
-    {
-      "id": "daily-knowledge-combo-2700-20260803-011",
-      "version": "1",
-      "url": "daily_knowledge_combo_2026_08_03_2700.json",
-      "enabled": true
-    },
-    {
-      "id": "daily-knowledge-combo-2700-20260804-012",
-      "version": "1",
-      "url": "daily_knowledge_combo_2026_08_04_2700.json",
+      "id": "daily-knowledge-combo-2700-20260808-016",
+      "version": 1,
+      "url": "daily_knowledge_combo_20260808_2700.json",
       "enabled": true
     }
   ]
