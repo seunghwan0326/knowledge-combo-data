@@ -1,0 +1,29 @@
+{
+  "validationDate": "2026-08-08",
+  "result": "PASS_WITH_LEGACY_DUPLICATES_PRESERVED",
+  "sourcePackFiles": 15,
+  "actualQuestionCount": 18080,
+  "uniqueQuestionIdCount": 17680,
+  "duplicateIdExtraOccurrences": 400,
+  "duplicateExactQuestionTextExtraOccurrences": 409,
+  "jsonParse": "PASS",
+  "declaredVsActualPerPack": "PASS",
+  "importantNote": "업로드 ZIP에 실제 존재하는 문제만 사용했다. 기존 데이터는 삭제/수정하지 않았다. 원본 manifest의 23055는 실제 포함 파일 합계와 일치하지 않아 사용하지 않았다.",
+  "packCounts": {
+    "all_topics_depth_007_525.json": 525,
+    "all_topics_easy_gap_008_40.json": 40,
+    "all_topics_mastery_006_710.json": 710,
+    "daily_knowledge_combo_20260808_2700.json": 2700,
+    "daily_knowledge_combo_2026_08_01_2700.json": 2700,
+    "daily_knowledge_combo_2026_08_02_2700.json": 2700,
+    "daily_knowledge_combo_2026_08_03_2700.json": 2700,
+    "daily_knowledge_combo_2026_08_04_2700.json": 2700,
+    "daily_pack_2026_07_31_175.json": 175,
+    "daily_special_15subjects_2026_07_31_225.json": 225,
+    "daily_special_pack_2026_07_31_525.json": 525,
+    "school_pack_002_375.json": 375,
+    "school_pack_003_1500.json": 1500,
+    "school_pack_004_learning_450.json": 450,
+    "starter_pack_001.json": 55
+  }
+}

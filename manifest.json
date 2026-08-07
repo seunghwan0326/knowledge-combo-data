@@ -1,16 +1,115 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T07:00:00+09:00",
-  "replacePacks": false,
-  "previousCumulativeQuestionCount": 20355,
-  "addedQuestionCount": 2700,
-  "cumulativeQuestionCount": 23055,
+  "updatedAt": "2026-08-08T08:45:00+09:00",
+  "title": "지식콤보퀴즈 실데이터 기준 누적 복구팩",
+  "replacePacks": true,
+  "cumulativeQuestionCount": 18080,
+  "source": "knowledge-combo-data-main.zip uploaded by user",
   "packs": [
+    {
+      "id": "all-topics-depth-007",
+      "version": "1",
+      "url": "all_topics_depth_007_525.json",
+      "enabled": true,
+      "questionCount": 525
+    },
+    {
+      "id": "all-topics-easy-gap-008",
+      "version": "1",
+      "url": "all_topics_easy_gap_008_40.json",
+      "enabled": true,
+      "questionCount": 40
+    },
+    {
+      "id": "all-topics-mastery-006",
+      "version": "1",
+      "url": "all_topics_mastery_006_710.json",
+      "enabled": true,
+      "questionCount": 710
+    },
     {
       "id": "daily-knowledge-combo-2700-20260808-016",
       "version": 1,
       "url": "daily_knowledge_combo_20260808_2700.json",
-      "enabled": true
+      "enabled": true,
+      "questionCount": 2700
+    },
+    {
+      "id": "daily-knowledge-combo-2700-20260801-009",
+      "version": "2",
+      "url": "daily_knowledge_combo_2026_08_01_2700.json",
+      "enabled": true,
+      "questionCount": 2700
+    },
+    {
+      "id": "daily-knowledge-combo-2700-20260802-010",
+      "version": "1",
+      "url": "daily_knowledge_combo_2026_08_02_2700.json",
+      "enabled": true,
+      "questionCount": 2700
+    },
+    {
+      "id": "daily-knowledge-combo-2700-20260803-011",
+      "version": "1",
+      "url": "daily_knowledge_combo_2026_08_03_2700.json",
+      "enabled": true,
+      "questionCount": 2700
+    },
+    {
+      "id": "daily-knowledge-combo-2700-20260804-012",
+      "version": "1",
+      "url": "daily_knowledge_combo_2026_08_04_2700.json",
+      "enabled": true,
+      "questionCount": 2700
+    },
+    {
+      "id": "daily-balanced-20260731-004",
+      "version": "1",
+      "url": "daily_pack_2026_07_31_175.json",
+      "enabled": true,
+      "questionCount": 175
+    },
+    {
+      "id": "daily-special-15subjects-20260731-006",
+      "version": "1",
+      "url": "daily_special_15subjects_2026_07_31_225.json",
+      "enabled": true,
+      "questionCount": 225
+    },
+    {
+      "id": "daily-special-20260731-005",
+      "version": "1",
+      "url": "daily_special_pack_2026_07_31_525.json",
+      "enabled": true,
+      "questionCount": 525
+    },
+    {
+      "id": "school-core-002",
+      "version": "1",
+      "url": "school_pack_002_375.json",
+      "enabled": true,
+      "questionCount": 375
+    },
+    {
+      "id": "school-expansion-003",
+      "version": "2",
+      "url": "school_pack_003_1500.json",
+      "enabled": true,
+      "questionCount": 1500
+    },
+    {
+      "id": "school-learning-004",
+      "version": "1",
+      "url": "school_pack_004_learning_450.json",
+      "enabled": true,
+      "questionCount": 450
+    },
+    {
+      "id": "starter-001",
+      "version": "1",
+      "url": "starter_pack_001.json",
+      "enabled": true,
+      "questionCount": 55
     }
   ]
 }
