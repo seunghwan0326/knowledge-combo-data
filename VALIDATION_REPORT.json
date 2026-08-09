@@ -1,7 +1,8 @@
 {
   "date": "2026-08-10",
   "status": "PASS",
-  "source": "GitHub manifest checked before generation",
+  "sourceBase": "knowledge-combo-data-main (3).zip supplied by user",
+  "note": "첨부 기준에 오늘 pack이 이미 있어 같은 날짜 pack을 중복 생성하지 않고 해당 pack을 재검증해 포장함",
   "previousCumulativeQuestionCount": 20780,
   "newQuestionCount": 2700,
   "newCumulativeQuestionCount": 23480,
@@ -9,12 +10,16 @@
   "difficultyCount": 5,
   "topicDifficultyCombinations": 180,
   "questionsPerCombination": 15,
-  "idDuplicateWithinNew": 0,
-  "normalizedQuestionDuplicateWithinNew": 0,
-  "normalizedQuestionDuplicateAgainstAvailableCumulativeSnapshot": 0,
-  "answerInChoicesAll": true,
-  "requiredFieldsAll": true,
-  "existingPacksPreserved": true,
-  "jsonParsing": "PASS",
+  "checks": {
+    "todayPackAlreadyPresentInSuppliedBase": true,
+    "newQuestionCount2700": true,
+    "topicDifficulty180x15": true,
+    "idDuplicateWithinNew0": true,
+    "normalizedQuestionDuplicateWithinNew0": true,
+    "requiredFieldsAll": true,
+    "answerInChoicesAll": true,
+    "manifestCumulativeMatchesPackSum": true,
+    "packPreviousPlusNewMatchesCumulative": true
+  },
   "zipIntegrity": "PASS"
 }
