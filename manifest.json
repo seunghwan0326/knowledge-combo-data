@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-10T06:08:00+09:00",
+  "updatedAt": "2026-08-11T06:12:12+09:00",
   "title": "지식콤보퀴즈 실데이터 기준 누적 복구팩",
   "replacePacks": true,
-  "cumulativeQuestionCount": 23480,
-  "source": "knowledge-combo-data-main.zip uploaded by user",
+  "cumulativeQuestionCount": 26180,
+  "source": "uploaded cumulative baseline plus previously validated output",
   "packs": [
     {
       "id": "all-topics-depth-007",
@@ -122,6 +122,13 @@
       "id": "daily-knowledge-combo-2700-20260810-018",
       "version": 1,
       "url": "daily_knowledge_combo_20260810_2700.json",
+      "enabled": true,
+      "questionCount": 2700
+    },
+    {
+      "id": "daily-knowledge-combo-2700-20260811-019",
+      "version": 1,
+      "url": "daily_knowledge_combo_20260811_2700.json",
       "enabled": true,
       "questionCount": 2700
     }
