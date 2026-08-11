@@ -1,66 +1,355 @@
 {
-  "date": "2026-08-11",
-  "status": "PASS",
-  "sourceBase": "uploaded cumulative baseline plus previously validated output",
-  "note": "A new same-day manifest entry was appended once and filled with 2,700 complete multi-fact questions built from validated non-daily source facts.",
-  "previousCumulativeQuestionCount": 23480,
-  "newQuestionCount": 2700,
-  "newCumulativeQuestionCount": 26180,
-  "topicCount": 36,
-  "difficultyCount": 5,
-  "topicDifficultyCombinations": 180,
-  "questionsPerCombination": 15,
-  "sameDayInputReview": {
-    "mode": "new_day_seed",
-    "inputQuestionCount": 36,
-    "placeholderQuestionCount": 0
+  "schemaVersion": 1,
+  "date": "2026-08-12",
+  "validationPhase": "independent_second_pass",
+  "overallStatus": "PASS",
+  "summary": {
+    "checks": 57,
+    "passed": 57,
+    "failed": 0
   },
-  "generation": {
-    "mode": "multi_fact_composite_v1",
-    "sourceFiles": [
-      "all_topics_depth_007_525.json",
-      "all_topics_easy_gap_008_40.json",
-      "all_topics_mastery_006_710.json",
-      "daily_pack_2026_07_31_175.json",
-      "daily_special_15subjects_2026_07_31_225.json",
-      "daily_special_pack_2026_07_31_525.json",
-      "school_pack_002_375.json",
-      "school_pack_003_1500.json",
-      "school_pack_004_learning_450.json",
-      "starter_pack_001.json"
-    ],
-    "minimumSourcePoolPerTopicDifficulty": 14,
-    "subquestionCountByDifficulty": {
-      "easy": 2,
-      "normal": 2,
-      "hard": 3,
-      "expert": 4,
-      "master": 4
+  "checks": [
+    {
+      "group": "nine",
+      "name": "JSON parsing",
+      "status": "PASS",
+      "detail": "manifest, diagnostic, English date, latest"
     },
-    "sourceCorrectionsApplied": {
-      "learn004_elementary_math_007_v2": "답과 선택지에 부피 단위 L를 명시",
-      "learn004_middle_science_014_v2": "일÷시간의 물리량을 전력에서 일률로 정정",
-      "kc_20260731_science_expert_13": "열평형 정의의 오탈자를 열의 순이동 표현으로 정정"
+    {
+      "group": "nine",
+      "name": "past pack count/order",
+      "status": "PASS",
+      "detail": "13 preserved"
+    },
+    {
+      "group": "nine",
+      "name": "historical exact entry starter_pack_9grade_general_admin_001",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "historical exact entry general_admin_expansion_002",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "historical exact entry daily-general-admin-2026-08-02",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "historical exact entry daily-general-admin-2026-08-03",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "historical exact entry daily_general_admin_2026_08_04",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "historical exact entry daily_general_admin_2026_08_08",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "historical exact entry daily-english-2026-08-08",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "historical exact entry daily_general_admin_2026_08_09",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "historical exact entry daily-english-2026-08-09",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "historical exact entry daily_general_admin_2026_08_10",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "historical exact entry daily-english-2026-08-10",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "historical exact entry daily_general_admin_2026_08_11",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "freeze alias 2026-08-11",
+      "status": "PASS",
+      "detail": "daily_english_2026_08_11.json"
+    },
+    {
+      "group": "nine",
+      "name": "historical metadata daily-english-2026-08-11",
+      "status": "PASS",
+      "detail": "only required file rewrite"
+    },
+    {
+      "group": "nine",
+      "name": "today two manifest entries",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "today English uses latest",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "historical English does not use latest",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "latest byte identity",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "diagnostic count",
+      "status": "PASS",
+      "detail": "40"
+    },
+    {
+      "group": "nine",
+      "name": "diagnostic required fields",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "diagnostic choices and answer",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "subject distribution",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "life-English passages",
+      "status": "PASS",
+      "detail": "8 passages, each 3 lines with speechText"
+    },
+    {
+      "group": "nine",
+      "name": "English quantities",
+      "status": "PASS",
+      "detail": "20/10/30"
+    },
+    {
+      "group": "nine",
+      "name": "quiz relatedItemId",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "quiz choices and answer",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "quiz answer grounding",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "new internal ID uniqueness",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "nine",
+      "name": "historical ID duplicates",
+      "status": "PASS",
+      "detail": "0"
+    },
+    {
+      "group": "nine",
+      "name": "diagnostic prompt duplicates",
+      "status": "PASS",
+      "detail": "0"
+    },
+    {
+      "group": "nine",
+      "name": "word duplicates",
+      "status": "PASS",
+      "detail": "0"
+    },
+    {
+      "group": "nine",
+      "name": "sentence duplicates",
+      "status": "PASS",
+      "detail": "0"
+    },
+    {
+      "group": "nine",
+      "name": "quiz prompt duplicates",
+      "status": "PASS",
+      "detail": "0"
+    },
+    {
+      "group": "nine",
+      "name": "manifest missing references",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "group": "knowledge",
+      "name": "JSON parsing",
+      "status": "PASS",
+      "detail": "manifest and daily pack"
+    },
+    {
+      "group": "knowledge",
+      "name": "historical manifest exact preservation",
+      "status": "PASS",
+      "detail": "18 entries"
+    },
+    {
+      "group": "knowledge",
+      "name": "actual prior cumulative",
+      "status": "PASS",
+      "detail": "26180"
+    },
+    {
+      "group": "knowledge",
+      "name": "new count and cumulative",
+      "status": "PASS",
+      "detail": "26180 + 2700 = 28880"
+    },
+    {
+      "group": "knowledge",
+      "name": "single today entry",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "knowledge",
+      "name": "36x5x15 distribution",
+      "status": "PASS",
+      "detail": "180 combinations, all 15"
+    },
+    {
+      "group": "knowledge",
+      "name": "required fields",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "knowledge",
+      "name": "choice/answer validity",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "knowledge",
+      "name": "date and packId",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "knowledge",
+      "name": "new internal ID uniqueness",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "knowledge",
+      "name": "new internal prompt uniqueness",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "knowledge",
+      "name": "historical ID duplicates",
+      "status": "PASS",
+      "detail": "0"
+    },
+    {
+      "group": "knowledge",
+      "name": "historical normalized prompt duplicates",
+      "status": "PASS",
+      "detail": "0"
+    },
+    {
+      "group": "knowledge",
+      "name": "source item completeness",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "knowledge",
+      "name": "source-grounded prompt and answer",
+      "status": "PASS",
+      "detail": "all 2700 reconstructed"
+    },
+    {
+      "group": "knowledge",
+      "name": "content-quality banned patterns",
+      "status": "PASS",
+      "detail": "0"
+    },
+    {
+      "group": "knowledge",
+      "name": "work-rate correction",
+      "status": "PASS",
+      "detail": "1 applicable composites"
+    },
+    {
+      "group": "knowledge",
+      "name": "thermal-equilibrium correction",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "group": "knowledge",
+      "name": "manifest missing references",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "group": "ZIP",
+      "name": "nine-grade-general-admin-update-2026-08-12.zip",
+      "status": "PASS",
+      "detail": "CRC PASS; exact members 6; all JSON parsed"
+    },
+    {
+      "group": "ZIP",
+      "name": "knowledge-combo-update-2026-08-12.zip",
+      "status": "PASS",
+      "detail": "CRC PASS; exact members 3; all JSON parsed"
     }
-  },
-  "checks": {
-    "newQuestionCount2700": true,
-    "topicDifficulty180x15": true,
-    "idDuplicateWithinNew0": true,
-    "normalizedQuestionDuplicateWithinNew0": true,
-    "idDuplicateVsHistorical0": true,
-    "normalizedQuestionDuplicateVsHistorical0": true,
-    "placeholderOrInternalCodeCount0": true,
-    "metaAnswerCount0": true,
-    "multiFactSourcesAtLeast2": true,
-    "sourceCombinationDuplicate0": true,
-    "requiredFieldsAll": true,
-    "fourUniqueChoicesAndAnswerValid": true
-  },
-  "manifest": {
-    "packSum": 26180,
-    "cumulativeQuestionCount": 26180,
-    "todayPackEntries": 1,
-    "historicalPacksPreserved": true
-  }
+  ]
 }
