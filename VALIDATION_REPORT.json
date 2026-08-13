@@ -1,30 +1,183 @@
 {
-  "date": "2026-08-13",
-  "status": "PASS_WITH_BASELINE_LIMITATION",
-  "newQuestionCount": 2700,
-  "topicCount": 36,
-  "difficultyCount": 5,
-  "topicDifficultyCombinations": 180,
-  "eachCombinationCount": 15,
-  "newIdDuplicates": 0,
-  "newNormalizedQuestionDuplicates": 0,
-  "newNormalizedFingerprintDuplicates": 0,
-  "choicesExactly4": true,
-  "answersValid": true,
-  "jsonParse": true,
-  "manifestPreviousCumulative": 28880,
-  "manifestNewCumulative": 31580,
-  "manifestDelta": 2700,
-  "zipIntegrity": true,
-  "historicalCrossPackQuestionTextCheck": {
-    "status": "NOT_FULLY_REPLAYED",
-    "reason": "GitHub connector exposes the cumulative manifest/count but does not stream all 28,880 historical question bodies into the local runtime in one operation. IDs are date-namespaced; today pack has zero internal fingerprint duplicates."
+  "schemaVersion": 1,
+  "date": "2026-08-14",
+  "phase": "independent_second_pass",
+  "overallStatus": "PASS",
+  "summary": {
+    "checks": 34,
+    "passed": 34,
+    "failed": 0
   },
-  "contentQualityChecks": {
-    "metaTemplateAnswerQuestions": 0,
-    "allQuestionsIndependentlySolvable": true,
-    "rateTermUsedForWorkPerTime": true,
-    "thermalEquilibriumDefinition": "두 물체 사이에 순열 이동이 없는 상태"
-  },
-  "sourceBaseline": "GitHub manifest updated 2026-08-12, cumulativeQuestionCount 28880"
+  "checks": [
+    {
+      "name": "nine JSON",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "today two entries",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "only today latest",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "all nine refs",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "dated/latest bytes",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "40 distribution",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "diagnostic fields",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "diagnostic answers",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "life passages",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "English counts",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "quiz links",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "quiz answer grounding",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "nine IDs unique/no history",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "diagnostic prompt duplicate zero",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "word duplicate zero",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "sentence duplicate zero",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "quiz prompt duplicate zero",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "knowledge JSON",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "cumulative",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "single today manifest",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "all knowledge refs",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "2700/180x15",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "knowledge fields",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "knowledge answers",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "knowledge IDs duplicate zero",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "knowledge prompts duplicate zero",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "no meta template",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "source grounding all 2700",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "work rate correct",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "thermal equilibrium correct",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "ZIP CRC nine-grade-general-admin-github-backup-2026-08-14.zip",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "ZIP members nine-grade-general-admin-github-backup-2026-08-14.zip",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "ZIP CRC knowledge-combo-github-backup-2026-08-14.zip",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "ZIP members knowledge-combo-github-backup-2026-08-14.zip",
+      "status": "PASS",
+      "detail": ""
+    }
+  ]
 }
