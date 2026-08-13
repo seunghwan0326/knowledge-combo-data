@@ -4,7 +4,7 @@
   "title": "지식콤보퀴즈 실데이터 기준 누적 복구팩",
   "replacePacks": true,
   "cumulativeQuestionCount": 34280,
-  "source": "GitHub actual cumulative baseline 31580 (2026-08-13) plus validated 2026-08-14 pack",
+  "source": "Automated source-grounded cumulative pack through 2026-08-14; current cumulative=34280",
   "packs": [
     {
       "id": "all-topics-depth-007",

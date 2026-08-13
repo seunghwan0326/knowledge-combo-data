@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-14",
+  "generator": "knowledge-combo-source-grounded-auto-v1",
+  "status": "PASS_LEGACY_PRESERVE",
+  "passed": 15,
+  "total": 16,
+  "checks": [
+    {
+      "name": "total_2700",
+      "pass": true,
+      "detail": 2700
+    },
+    {
+      "name": "36_topics_x75",
+      "pass": true,
+      "detail": {
+        "general": 75,
+        "capital": 75,
+        "korean_history": 75,
+        "world_history": 75,
+        "world_geo": 75,
+        "korea_geo": 75,
+        "science": 75,
+        "astronomy": 75,
+        "biology": 75,
+        "environment": 75,
+        "technology": 75,
+        "economy": 75,
+        "health": 75,
+        "food_culture": 75,
+        "art_music": 75,
+        "sports": 75,
+        "literature": 75,
+        "people": 75,
+        "proverbs": 75,
+        "korean_language": 75,
+        "bible": 75,
+        "elementary_korean": 75,
+        "elementary_math": 75,
+        "elementary_social": 75,
+        "elementary_science": 75,
+        "elementary_english": 75,
+        "middle_korean": 75,
+        "middle_math": 75,
+        "middle_social": 75,
+        "middle_science": 75,
+        "middle_english": 75,
+        "high_korean": 75,
+        "high_math": 75,
+        "high_social": 75,
+        "high_science": 75,
+        "high_english": 75
+      }
+    },
+    {
+      "name": "5_difficulties_x540",
+      "pass": true,
+      "detail": {
+        "easy": 540,
+        "normal": 540,
+        "hard": 540,
+        "expert": 540,
+        "master": 540
+      }
+    },
+    {
+      "name": "180_cells_x15",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "unique_ids",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "unique_questions",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "unique_source_combos",
+      "pass": false,
+      "detail": null
+    },
+    {
+      "name": "four_choices",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "answer_in_choices",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "accepted_answer",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "source_count_matches_level",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "pack_date",
+      "pass": true,
+      "detail": "2026-08-14"
+    },
+    {
+      "name": "pack_counts",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "manifest_entry",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "manifest_date",
+      "pass": true,
+      "detail": "2026-08-14T06:00:00+09:00"
+    },
+    {
+      "name": "manifest_cumulative",
+      "pass": true,
+      "detail": 34280
+    }
+  ],
+  "legacyPreserve": true,
+  "legacyPreserveReason": "Dated pack existed before workflow start. All structural/content checks passed; only historical source-combination uniqueness metadata was waived for this pre-existing pack."
+}
