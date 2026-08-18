@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "generator": "knowledge-combo-source-grounded-auto-v1",
   "status": "PASS",
   "passed": 16,
@@ -107,7 +107,7 @@
     {
       "name": "pack_date",
       "pass": true,
-      "detail": "2026-08-18"
+      "detail": "2026-08-19"
     },
     {
       "name": "pack_counts",
@@ -122,12 +122,12 @@
     {
       "name": "manifest_date",
       "pass": true,
-      "detail": "2026-08-18T06:00:00+09:00"
+      "detail": "2026-08-19T06:00:00+09:00"
     },
     {
       "name": "manifest_cumulative",
       "pass": true,
-      "detail": 45080
+      "detail": 47780
     }
   ]
 }
