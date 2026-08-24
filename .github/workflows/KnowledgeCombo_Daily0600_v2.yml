@@ -69,7 +69,7 @@ jobs:
           fi
 
           set +e
-          python3 .github/workflows/KnowledgeCombo_generate_daily.py --date "$TARGET_DATE" --root .
+          python3 .github/workflows/KnowledgeCombo_generate_daily_nodup.py --date "$TARGET_DATE" --root .
           RC=$?
           set -e
 
